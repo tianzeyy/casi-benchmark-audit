@@ -1,0 +1,2015 @@
+{
+  "AB::abortion": {
+    "n_unique": 345,
+    "partition": "core_closed_set",
+    "train": 241,
+    "validation": 52,
+    "test": 52
+  },
+  "AB::ankle-brachial": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AB::antipyrine benzocaine": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AB::arterial blood": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AB::arteriovenous:av": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AB::atrioventricular:av": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "AB::blood group in abo system": {
+    "n_unique": 136,
+    "partition": "core_closed_set",
+    "train": 96,
+    "validation": 20,
+    "test": 20
+  },
+  "AB::type a, type b": {
+    "n_unique": 8,
+    "partition": "core_closed_set",
+    "train": 6,
+    "validation": 1,
+    "test": 1
+  },
+  "AB::x-ray finding": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AC::(drug) ac": {
+    "n_unique": 161,
+    "partition": "core_closed_set",
+    "train": 113,
+    "validation": 24,
+    "test": 24
+  },
+  "AC::abdominal circumference": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "AC::acetate": {
+    "n_unique": 4,
+    "partition": "rare_open_set_audit"
+  },
+  "AC::acromioclavicular": {
+    "n_unique": 158,
+    "partition": "core_closed_set",
+    "train": 110,
+    "validation": 24,
+    "test": 24
+  },
+  "AC::adriamycin cyclophosphamide": {
+    "n_unique": 118,
+    "partition": "core_closed_set",
+    "train": 82,
+    "validation": 18,
+    "test": 18
+  },
+  "AC::alternating current": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AC::angiotensin-converting enzyme:ace": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "AC::antecubital": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AC::anticoagulation": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AC::assist control": {
+    "n_unique": 9,
+    "partition": "core_closed_set",
+    "train": 7,
+    "validation": 1,
+    "test": 1
+  },
+  "AC::before meals": {
+    "n_unique": 42,
+    "partition": "core_closed_set",
+    "train": 30,
+    "validation": 6,
+    "test": 6
+  },
+  "ALD::acetyl lysergic acid diethylamide": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "ALD::ad lib on demand": {
+    "n_unique": 405,
+    "partition": "core_closed_set",
+    "train": 283,
+    "validation": 61,
+    "test": 61
+  },
+  "ALD::adrenoleukodystrophy": {
+    "n_unique": 86,
+    "partition": "core_closed_set",
+    "train": 60,
+    "validation": 13,
+    "test": 13
+  },
+  "ALD::alanine aminotransferase:alt": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "ALD::left anterior descending:lad": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AMA::advanced maternal age": {
+    "n_unique": 31,
+    "partition": "core_closed_set",
+    "train": 21,
+    "validation": 5,
+    "test": 5
+  },
+  "AMA::against medical advice": {
+    "n_unique": 441,
+    "partition": "core_closed_set",
+    "train": 309,
+    "validation": 66,
+    "test": 66
+  },
+  "AMA::antimitochondrial antibody": {
+    "n_unique": 25,
+    "partition": "core_closed_set",
+    "train": 17,
+    "validation": 4,
+    "test": 4
+  },
+  "ASA::acetylsalicylic acid": {
+    "n_unique": 403,
+    "partition": "core_closed_set",
+    "train": 283,
+    "validation": 60,
+    "test": 60
+  },
+  "ASA::american society of anesthesiologists": {
+    "n_unique": 93,
+    "partition": "core_closed_set",
+    "train": 65,
+    "validation": 14,
+    "test": 14
+  },
+  "ASA::aminosalicylic acid": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "AV::aortic valve": {
+    "n_unique": 8,
+    "partition": "core_closed_set",
+    "train": 6,
+    "validation": 1,
+    "test": 1
+  },
+  "AV::arteriovenous": {
+    "n_unique": 116,
+    "partition": "core_closed_set",
+    "train": 82,
+    "validation": 17,
+    "test": 17
+  },
+  "AV::atrioventricular": {
+    "n_unique": 372,
+    "partition": "core_closed_set",
+    "train": 260,
+    "validation": 56,
+    "test": 56
+  },
+  "AVR::aortic valve regurgitation": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "AVR::aortic valve replacement": {
+    "n_unique": 374,
+    "partition": "core_closed_set",
+    "train": 262,
+    "validation": 56,
+    "test": 56
+  },
+  "AVR::aortic valve resistance": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "AVR::auditory brainstem response:abr": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "AVR::augmented voltage right arm": {
+    "n_unique": 103,
+    "partition": "core_closed_set",
+    "train": 73,
+    "validation": 15,
+    "test": 15
+  },
+  "AVR::rapid ventricular response:rvr": {
+    "n_unique": 4,
+    "partition": "rare_open_set_audit"
+  },
+  "BAL::blood alcohol level": {
+    "n_unique": 43,
+    "partition": "core_closed_set",
+    "train": 31,
+    "validation": 6,
+    "test": 6
+  },
+  "BAL::bronchoalveolar lavage": {
+    "n_unique": 449,
+    "partition": "core_closed_set",
+    "train": 315,
+    "validation": 67,
+    "test": 67
+  },
+  "BK::below knee": {
+    "n_unique": 156,
+    "partition": "core_closed_set",
+    "train": 110,
+    "validation": 23,
+    "test": 23
+  },
+  "BK::bk (virus)": {
+    "n_unique": 335,
+    "partition": "core_closed_set",
+    "train": 235,
+    "validation": 50,
+    "test": 50
+  },
+  "BM::bone marrow": {
+    "n_unique": 14,
+    "partition": "core_closed_set",
+    "train": 10,
+    "validation": 2,
+    "test": 2
+  },
+  "BM::bowel movement": {
+    "n_unique": 455,
+    "partition": "core_closed_set",
+    "train": 319,
+    "validation": 68,
+    "test": 68
+  },
+  "BM::breast milk": {
+    "n_unique": 25,
+    "partition": "core_closed_set",
+    "train": 17,
+    "validation": 4,
+    "test": 4
+  },
+  "BMP::basic metabolic profile": {
+    "n_unique": 456,
+    "partition": "core_closed_set",
+    "train": 320,
+    "validation": 68,
+    "test": 68
+  },
+  "BMP::beta-natriuretic peptide:bnp": {
+    "n_unique": 36,
+    "partition": "core_closed_set",
+    "train": 26,
+    "validation": 5,
+    "test": 5
+  },
+  "BMP::bone marrow transplant:bmt": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "BMP::bone morphogenetic protein": {
+    "n_unique": 7,
+    "partition": "core_closed_set",
+    "train": 5,
+    "validation": 1,
+    "test": 1
+  },
+  "C&S::carcinosarcoma:cas": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "C&S::central nervous system:cns": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "C&S::conjunctivae and sclerae": {
+    "n_unique": 430,
+    "partition": "core_closed_set",
+    "train": 302,
+    "validation": 64,
+    "test": 64
+  },
+  "C&S::culture and sensitivity": {
+    "n_unique": 46,
+    "partition": "core_closed_set",
+    "train": 32,
+    "validation": 7,
+    "test": 7
+  },
+  "C&S::protein c and protein s": {
+    "n_unique": 16,
+    "partition": "core_closed_set",
+    "train": 12,
+    "validation": 2,
+    "test": 2
+  },
+  "C3::(complement) component 3": {
+    "n_unique": 242,
+    "partition": "core_closed_set",
+    "train": 170,
+    "validation": 36,
+    "test": 36
+  },
+  "C3::(stage) c3": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "C3::cervical (level) 3": {
+    "n_unique": 248,
+    "partition": "core_closed_set",
+    "train": 174,
+    "validation": 37,
+    "test": 37
+  },
+  "C3::propionylcarnitine": {
+    "n_unique": 6,
+    "partition": "core_closed_set",
+    "train": 4,
+    "validation": 1,
+    "test": 1
+  },
+  "C4::(complement) component 4": {
+    "n_unique": 229,
+    "partition": "core_closed_set",
+    "train": 161,
+    "validation": 34,
+    "test": 34
+  },
+  "C4::(po box) c4": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "C4::cervical (level) 4": {
+    "n_unique": 256,
+    "partition": "core_closed_set",
+    "train": 180,
+    "validation": 38,
+    "test": 38
+  },
+  "C4::cluster of differentiation 4:cd4": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "C4::fourth heart sound:s4": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "CA::california": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "CA::cancer": {
+    "n_unique": 389,
+    "partition": "core_closed_set",
+    "train": 273,
+    "validation": 58,
+    "test": 58
+  },
+  "CA::carbohydrate antigen": {
+    "n_unique": 104,
+    "partition": "core_closed_set",
+    "train": 72,
+    "validation": 16,
+    "test": 16
+  },
+  "CDI::center for diagnostic imaging": {
+    "n_unique": 222,
+    "partition": "core_closed_set",
+    "train": 156,
+    "validation": 33,
+    "test": 33
+  },
+  "CDI::children's depression inventory": {
+    "n_unique": 267,
+    "partition": "core_closed_set",
+    "train": 187,
+    "validation": 40,
+    "test": 40
+  },
+  "CDI::clean, dry, intact": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "CEA::cancer:ca": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "CEA::carcinoembryonic antigen": {
+    "n_unique": 444,
+    "partition": "core_closed_set",
+    "train": 310,
+    "validation": 67,
+    "test": 67
+  },
+  "CEA::carotid endarterectomy": {
+    "n_unique": 53,
+    "partition": "core_closed_set",
+    "train": 37,
+    "validation": 8,
+    "test": 8
+  },
+  "CEA::cerebrovascular accident:cva": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "CR::c-reactive": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "CR::cardiorespiratory": {
+    "n_unique": 28,
+    "partition": "core_closed_set",
+    "train": 20,
+    "validation": 4,
+    "test": 4
+  },
+  "CR::closed reduction": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "CR::complete remission": {
+    "n_unique": 16,
+    "partition": "core_closed_set",
+    "train": 12,
+    "validation": 2,
+    "test": 2
+  },
+  "CR::controlled release": {
+    "n_unique": 453,
+    "partition": "core_closed_set",
+    "train": 317,
+    "validation": 68,
+    "test": 68
+  },
+  "CR::creatinine": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "CTA::cerebellopontine angle:cpa": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "CTA::clear to auscultation": {
+    "n_unique": 395,
+    "partition": "core_closed_set",
+    "train": 277,
+    "validation": 59,
+    "test": 59
+  },
+  "CTA::computed tomographic angiography": {
+    "n_unique": 100,
+    "partition": "core_closed_set",
+    "train": 70,
+    "validation": 15,
+    "test": 15
+  },
+  "CTA::creatine phosphokinase:cpk": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "CVA::cerebrovascular accident": {
+    "n_unique": 278,
+    "partition": "core_closed_set",
+    "train": 194,
+    "validation": 42,
+    "test": 42
+  },
+  "CVA::costovertebral angle": {
+    "n_unique": 213,
+    "partition": "core_closed_set",
+    "train": 149,
+    "validation": 32,
+    "test": 32
+  },
+  "CVP::cardiovascular pulmonary": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "CVP::central venous pressure": {
+    "n_unique": 436,
+    "partition": "core_closed_set",
+    "train": 306,
+    "validation": 65,
+    "test": 65
+  },
+  "CVP::cyclophosphamide, vincristine, prednisone": {
+    "n_unique": 62,
+    "partition": "core_closed_set",
+    "train": 44,
+    "validation": 9,
+    "test": 9
+  },
+  "CVS::cardiovascular system": {
+    "n_unique": 41,
+    "partition": "core_closed_set",
+    "train": 29,
+    "validation": 6,
+    "test": 6
+  },
+  "CVS::chorionic villus sampling": {
+    "n_unique": 224,
+    "partition": "core_closed_set",
+    "train": 156,
+    "validation": 34,
+    "test": 34
+  },
+  "CVS::customer, value, service": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "DC::(diltiazem) dc": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "DC::(drug) dc": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "DC::deceased donor:dd": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "DC::direct and consensual": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "DC::direct current": {
+    "n_unique": 152,
+    "partition": "core_closed_set",
+    "train": 106,
+    "validation": 23,
+    "test": 23
+  },
+  "DC::discharge": {
+    "n_unique": 31,
+    "partition": "core_closed_set",
+    "train": 21,
+    "validation": 5,
+    "test": 5
+  },
+  "DC::discontinue": {
+    "n_unique": 280,
+    "partition": "core_closed_set",
+    "train": 196,
+    "validation": 42,
+    "test": 42
+  },
+  "DC::district of columbia": {
+    "n_unique": 31,
+    "partition": "core_closed_set",
+    "train": 21,
+    "validation": 5,
+    "test": 5
+  },
+  "DIP::desquamative interstitial pneumonia": {
+    "n_unique": 36,
+    "partition": "core_closed_set",
+    "train": 26,
+    "validation": 5,
+    "test": 5
+  },
+  "DIP::dipropionate": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "DIP::distal interphalangeal": {
+    "n_unique": 456,
+    "partition": "core_closed_set",
+    "train": 320,
+    "validation": 68,
+    "test": 68
+  },
+  "DM::dextromethorphan": {
+    "n_unique": 285,
+    "partition": "core_closed_set",
+    "train": 199,
+    "validation": 43,
+    "test": 43
+  },
+  "DM::diabetes mellitus": {
+    "n_unique": 209,
+    "partition": "core_closed_set",
+    "train": 147,
+    "validation": 31,
+    "test": 31
+  },
+  "DM::medical doctor:md": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "DT::(drug) dt": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "DT::deep vein thrombosis:dvt": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "DT::delirium tremens": {
+    "n_unique": 125,
+    "partition": "core_closed_set",
+    "train": 87,
+    "validation": 19,
+    "test": 19
+  },
+  "DT::diphtheria-tetanus": {
+    "n_unique": 334,
+    "partition": "core_closed_set",
+    "train": 234,
+    "validation": 50,
+    "test": 50
+  },
+  "DT::doppler echo:de": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "DT::dorsalis pedis:dp": {
+    "n_unique": 23,
+    "partition": "core_closed_set",
+    "train": 17,
+    "validation": 3,
+    "test": 3
+  },
+  "DT::physical therapy:pt": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "EC::enteric-coated": {
+    "n_unique": 436,
+    "partition": "core_closed_set",
+    "train": 306,
+    "validation": 65,
+    "test": 65
+  },
+  "EC::enterocutaneous": {
+    "n_unique": 45,
+    "partition": "core_closed_set",
+    "train": 31,
+    "validation": 7,
+    "test": 7
+  },
+  "EC::epirubicin": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "EC::extensor carpi": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "ER::emergency room": {
+    "n_unique": 448,
+    "partition": "core_closed_set",
+    "train": 314,
+    "validation": 67,
+    "test": 67
+  },
+  "ER::estrogen receptor": {
+    "n_unique": 18,
+    "partition": "core_closed_set",
+    "train": 12,
+    "validation": 3,
+    "test": 3
+  },
+  "ER::extended release": {
+    "n_unique": 34,
+    "partition": "core_closed_set",
+    "train": 24,
+    "validation": 5,
+    "test": 5
+  },
+  "ES::(drug) es": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "ES::ejection fraction:ef": {
+    "n_unique": 7,
+    "partition": "core_closed_set",
+    "train": 5,
+    "validation": 1,
+    "test": 1
+  },
+  "ES::enhanced sensitivity": {
+    "n_unique": 14,
+    "partition": "core_closed_set",
+    "train": 10,
+    "validation": 2,
+    "test": 2
+  },
+  "ES::erythrocyte sedimentation rate:esr": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "ES::extra strength": {
+    "n_unique": 467,
+    "partition": "core_closed_set",
+    "train": 327,
+    "validation": 70,
+    "test": 70
+  },
+  "ET::elective termination": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "ET::electroconvulsive therapy:ect": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "ET::electrophysiology:ep": {
+    "n_unique": 6,
+    "partition": "core_closed_set",
+    "train": 4,
+    "validation": 1,
+    "test": 1
+  },
+  "ET::endotracheal": {
+    "n_unique": 199,
+    "partition": "core_closed_set",
+    "train": 139,
+    "validation": 30,
+    "test": 30
+  },
+  "ET::enterocutaneous:ec": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "ET::enterostomal therapy": {
+    "n_unique": 289,
+    "partition": "core_closed_set",
+    "train": 203,
+    "validation": 43,
+    "test": 43
+  },
+  "ET::pressure equalization:pe": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "FISH::fluorescent in situ hybridization": {
+    "n_unique": 448,
+    "partition": "core_closed_set",
+    "train": 314,
+    "validation": 67,
+    "test": 67
+  },
+  "FSH::fairview southdale hospital": {
+    "n_unique": 231,
+    "partition": "core_closed_set",
+    "train": 161,
+    "validation": 35,
+    "test": 35
+  },
+  "FSH::fascioscapulohumeral muscular dystrophy": {
+    "n_unique": 4,
+    "partition": "rare_open_set_audit"
+  },
+  "FSH::follicle-stimulating hormone": {
+    "n_unique": 263,
+    "partition": "core_closed_set",
+    "train": 185,
+    "validation": 39,
+    "test": 39
+  },
+  "GT::gamma-glutamyltransferase:ggt": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "GT::gastrostomy tube": {
+    "n_unique": 389,
+    "partition": "core_closed_set",
+    "train": 273,
+    "validation": 58,
+    "test": 58
+  },
+  "GT::glucose tolerance": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "GT::glutamyl transpeptidase": {
+    "n_unique": 30,
+    "partition": "core_closed_set",
+    "train": 22,
+    "validation": 4,
+    "test": 4
+  },
+  "GT::gutta": {
+    "n_unique": 16,
+    "partition": "core_closed_set",
+    "train": 12,
+    "validation": 2,
+    "test": 2
+  },
+  "GT::guttae:ggt": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "IA::(class) ia": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "IA::(grade) ia": {
+    "n_unique": 11,
+    "partition": "core_closed_set",
+    "train": 7,
+    "validation": 2,
+    "test": 2
+  },
+  "IA::(stage) ia": {
+    "n_unique": 272,
+    "partition": "core_closed_set",
+    "train": 190,
+    "validation": 41,
+    "test": 41
+  },
+  "IA::(status) ia": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "IA::(type) ia": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "IA::intraarterial": {
+    "n_unique": 169,
+    "partition": "core_closed_set",
+    "train": 119,
+    "validation": 25,
+    "test": 25
+  },
+  "IA::iowa": {
+    "n_unique": 19,
+    "partition": "core_closed_set",
+    "train": 13,
+    "validation": 3,
+    "test": 3
+  },
+  "IA::transient ischemic attack:tia": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "IB::(cycle) ib": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "IB::(grade) ib": {
+    "n_unique": 8,
+    "partition": "core_closed_set",
+    "train": 6,
+    "validation": 1,
+    "test": 1
+  },
+  "IB::(stage) ib": {
+    "n_unique": 464,
+    "partition": "core_closed_set",
+    "train": 324,
+    "validation": 70,
+    "test": 70
+  },
+  "IB::(status) ib": {
+    "n_unique": 8,
+    "partition": "core_closed_set",
+    "train": 6,
+    "validation": 1,
+    "test": 1
+  },
+  "IB::(type) ib": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "IB::interferon beta": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "IB::international baccalaureate": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "IB::intravenous:iv": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "IM::intramedullary": {
+    "n_unique": 38,
+    "partition": "core_closed_set",
+    "train": 26,
+    "validation": 6,
+    "test": 6
+  },
+  "IM::intramuscular": {
+    "n_unique": 460,
+    "partition": "core_closed_set",
+    "train": 322,
+    "validation": 69,
+    "test": 69
+  },
+  "IR::immediate-release": {
+    "n_unique": 102,
+    "partition": "core_closed_set",
+    "train": 72,
+    "validation": 15,
+    "test": 15
+  },
+  "IR::infrared": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "IR::internal rotation": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "IR::interventional radiology": {
+    "n_unique": 380,
+    "partition": "core_closed_set",
+    "train": 266,
+    "validation": 57,
+    "test": 57
+  },
+  "IT::(drug) it": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "IT::idiopathic thrombocytopenic purpura:itp": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "IT::iliotibial": {
+    "n_unique": 40,
+    "partition": "core_closed_set",
+    "train": 28,
+    "validation": 6,
+    "test": 6
+  },
+  "IT::immature-to-total neutrophil": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "IT::information technology": {
+    "n_unique": 103,
+    "partition": "core_closed_set",
+    "train": 73,
+    "validation": 15,
+    "test": 15
+  },
+  "IT::inspiratory time": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "IT::intertrochanteric": {
+    "n_unique": 14,
+    "partition": "core_closed_set",
+    "train": 10,
+    "validation": 2,
+    "test": 2
+  },
+  "IT::intrathecal": {
+    "n_unique": 57,
+    "partition": "core_closed_set",
+    "train": 39,
+    "validation": 9,
+    "test": 9
+  },
+  "IT::ischial tuberosity": {
+    "n_unique": 47,
+    "partition": "core_closed_set",
+    "train": 33,
+    "validation": 7,
+    "test": 7
+  },
+  "IT::pravastatin or atorvastatin evaluation and infection therapy": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "ITP::idiopathic thrombocytopenic purpura": {
+    "n_unique": 499,
+    "partition": "core_closed_set",
+    "train": 349,
+    "validation": 75,
+    "test": 75
+  },
+  "IVF::in vitro fertilization": {
+    "n_unique": 305,
+    "partition": "core_closed_set",
+    "train": 213,
+    "validation": 46,
+    "test": 46
+  },
+  "IVF::inferior vena cava:ivc": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "IVF::intravenous fluid": {
+    "n_unique": 186,
+    "partition": "core_closed_set",
+    "train": 130,
+    "validation": 28,
+    "test": 28
+  },
+  "LA::antinuclear antibody:ana": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "LA::left atrial": {
+    "n_unique": 30,
+    "partition": "core_closed_set",
+    "train": 22,
+    "validation": 4,
+    "test": 4
+  },
+  "LA::long-acting": {
+    "n_unique": 426,
+    "partition": "core_closed_set",
+    "train": 298,
+    "validation": 64,
+    "test": 64
+  },
+  "LA::los angeles": {
+    "n_unique": 40,
+    "partition": "core_closed_set",
+    "train": 28,
+    "validation": 6,
+    "test": 6
+  },
+  "LA::louisiana": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "LE::left ventricle:lv": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "LE::leukocyte esterase": {
+    "n_unique": 341,
+    "partition": "core_closed_set",
+    "train": 239,
+    "validation": 51,
+    "test": 51
+  },
+  "LE::long-acting:la": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "LE::lower extremity": {
+    "n_unique": 129,
+    "partition": "core_closed_set",
+    "train": 91,
+    "validation": 19,
+    "test": 19
+  },
+  "LE::lupus erythematosus": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "LE::lymphedema": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "LE::sinemet-levodopa": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MOM::mall of america:moa": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MOM::milk of magnesia": {
+    "n_unique": 57,
+    "partition": "core_closed_set",
+    "train": 39,
+    "validation": 9,
+    "test": 9
+  },
+  "MOM::multiples of median": {
+    "n_unique": 253,
+    "partition": "core_closed_set",
+    "train": 177,
+    "validation": 38,
+    "test": 38
+  },
+  "MP::(device) mp": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "MP::(drug) mp": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "MP::menstrual period": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MP::mercaptopurine": {
+    "n_unique": 107,
+    "partition": "core_closed_set",
+    "train": 75,
+    "validation": 16,
+    "test": 16
+  },
+  "MP::mesangial proliferative": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MP::metabolic panel": {
+    "n_unique": 12,
+    "partition": "core_closed_set",
+    "train": 8,
+    "validation": 2,
+    "test": 2
+  },
+  "MP::metacarpophalangeal": {
+    "n_unique": 175,
+    "partition": "core_closed_set",
+    "train": 123,
+    "validation": 26,
+    "test": 26
+  },
+  "MP::metarsophalangeal": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "MP::metatarsophalangeal": {
+    "n_unique": 55,
+    "partition": "core_closed_set",
+    "train": 39,
+    "validation": 8,
+    "test": 8
+  },
+  "MP::metatarsophalangeal/metacarpophalangeal": {
+    "n_unique": 103,
+    "partition": "core_closed_set",
+    "train": 73,
+    "validation": 15,
+    "test": 15
+  },
+  "MP::military police": {
+    "n_unique": 4,
+    "partition": "rare_open_set_audit"
+  },
+  "MP::milligram:mg": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MP::nurse practitioner:np": {
+    "n_unique": 11,
+    "partition": "core_closed_set",
+    "train": 7,
+    "validation": 2,
+    "test": 2
+  },
+  "MR::magnetic resonance": {
+    "n_unique": 314,
+    "partition": "core_closed_set",
+    "train": 220,
+    "validation": 47,
+    "test": 47
+  },
+  "MR::medical record": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MR::mental retardation": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "MR::mitral regurgitation": {
+    "n_unique": 176,
+    "partition": "core_closed_set",
+    "train": 124,
+    "validation": 26,
+    "test": 26
+  },
+  "MR::myocardial infarction:mi": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MS::(drug) ms": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MS::master of science": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "MS::medical student": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MS::mitral stenosis": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "MS::morphine sulfate": {
+    "n_unique": 278,
+    "partition": "core_closed_set",
+    "train": 194,
+    "validation": 42,
+    "test": 42
+  },
+  "MS::multiple sclerosis": {
+    "n_unique": 206,
+    "partition": "core_closed_set",
+    "train": 144,
+    "validation": 31,
+    "test": 31
+  },
+  "MS::musculoskeletal": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "MSSA::methicillin-susceptible staphylococcus aureus": {
+    "n_unique": 82,
+    "partition": "core_closed_set",
+    "train": 58,
+    "validation": 12,
+    "test": 12
+  },
+  "MSSA::modified selective severity assessment": {
+    "n_unique": 418,
+    "partition": "core_closed_set",
+    "train": 292,
+    "validation": 63,
+    "test": 63
+  },
+  "NA::narcotics anonymous": {
+    "n_unique": 472,
+    "partition": "core_closed_set",
+    "train": 330,
+    "validation": 71,
+    "test": 71
+  },
+  "NA::not applicable": {
+    "n_unique": 7,
+    "partition": "core_closed_set",
+    "train": 5,
+    "validation": 1,
+    "test": 1
+  },
+  "NA::nurse anesthetist": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "NA::sodium": {
+    "n_unique": 13,
+    "partition": "core_closed_set",
+    "train": 9,
+    "validation": 2,
+    "test": 2
+  },
+  "NAD::no acute distress": {
+    "n_unique": 375,
+    "partition": "core_closed_set",
+    "train": 263,
+    "validation": 56,
+    "test": 56
+  },
+  "NAD::nothing abnormal detected": {
+    "n_unique": 94,
+    "partition": "core_closed_set",
+    "train": 66,
+    "validation": 14,
+    "test": 14
+  },
+  "NP::(drug) np": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "NP::nasopharyngeal": {
+    "n_unique": 53,
+    "partition": "core_closed_set",
+    "train": 37,
+    "validation": 8,
+    "test": 8
+  },
+  "NP::nasopharynx": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "NP::natriuretic peptide": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "NP::nurse practitioner": {
+    "n_unique": 438,
+    "partition": "core_closed_set",
+    "train": 306,
+    "validation": 66,
+    "test": 66
+  },
+  "OP::oblique presentation/occiput posterior": {
+    "n_unique": 120,
+    "partition": "core_closed_set",
+    "train": 84,
+    "validation": 18,
+    "test": 18
+  },
+  "OP::occiput posterior": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "OP::operative": {
+    "n_unique": 55,
+    "partition": "core_closed_set",
+    "train": 39,
+    "validation": 8,
+    "test": 8
+  },
+  "OP::ophthalmic": {
+    "n_unique": 5,
+    "partition": "core_closed_set",
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "OP::oropharynx": {
+    "n_unique": 308,
+    "partition": "core_closed_set",
+    "train": 216,
+    "validation": 46,
+    "test": 46
+  },
+  "OP::outpatient": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "OP::ova and parasites": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "OR::(drug) or": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "OR::operating room": {
+    "n_unique": 464,
+    "partition": "core_closed_set",
+    "train": 324,
+    "validation": 70,
+    "test": 70
+  },
+  "OTC::ornithine transcarbamoylase": {
+    "n_unique": 30,
+    "partition": "core_closed_set",
+    "train": 22,
+    "validation": 4,
+    "test": 4
+  },
+  "OTC::over the counter": {
+    "n_unique": 467,
+    "partition": "core_closed_set",
+    "train": 327,
+    "validation": 70,
+    "test": 70
+  },
+  "PA::physician assistant": {
+    "n_unique": 61,
+    "partition": "core_closed_set",
+    "train": 43,
+    "validation": 9,
+    "test": 9
+  },
+  "PA::physician associates": {
+    "n_unique": 75,
+    "partition": "core_closed_set",
+    "train": 53,
+    "validation": 11,
+    "test": 11
+  },
+  "PA::posterior-anterior": {
+    "n_unique": 212,
+    "partition": "core_closed_set",
+    "train": 148,
+    "validation": 32,
+    "test": 32
+  },
+  "PA::pulmonary artery": {
+    "n_unique": 138,
+    "partition": "core_closed_set",
+    "train": 96,
+    "validation": 21,
+    "test": 21
+  },
+  "PA::pulmonary auscultation": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PA::pulmonary embolus:pe": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PA::tissue plasminogen activator:tpa": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "PAC::(drug) pac": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "PAC::patient-controlled analgesia:pca": {
+    "n_unique": 7,
+    "partition": "core_closed_set",
+    "train": 5,
+    "validation": 1,
+    "test": 1
+  },
+  "PAC::physician assistant certification": {
+    "n_unique": 136,
+    "partition": "core_closed_set",
+    "train": 96,
+    "validation": 20,
+    "test": 20
+  },
+  "PAC::picture archiving communication": {
+    "n_unique": 24,
+    "partition": "core_closed_set",
+    "train": 16,
+    "validation": 4,
+    "test": 4
+  },
+  "PAC::post anesthesia care": {
+    "n_unique": 47,
+    "partition": "core_closed_set",
+    "train": 33,
+    "validation": 7,
+    "test": 7
+  },
+  "PAC::premature atrial contraction": {
+    "n_unique": 275,
+    "partition": "core_closed_set",
+    "train": 193,
+    "validation": 41,
+    "test": 41
+  },
+  "PAC::prostate-specific antigen:psa": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PAC::pulmonary arterial concentration": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PAC::pulmonary artery catheter": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PCP::patient-controlled analgesia:pca": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PCP::phencyclidine": {
+    "n_unique": 93,
+    "partition": "core_closed_set",
+    "train": 65,
+    "validation": 14,
+    "test": 14
+  },
+  "PCP::pneumocystis jiroveci pneumonia": {
+    "n_unique": 293,
+    "partition": "core_closed_set",
+    "train": 205,
+    "validation": 44,
+    "test": 44
+  },
+  "PCP::primary care physician": {
+    "n_unique": 110,
+    "partition": "core_closed_set",
+    "train": 78,
+    "validation": 16,
+    "test": 16
+  },
+  "PD::(device) pd": {
+    "n_unique": 4,
+    "partition": "rare_open_set_audit"
+  },
+  "PD::(drug) pd": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "PD::dorsalis pedis:dp": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PD::pancreatic duct": {
+    "n_unique": 8,
+    "partition": "core_closed_set",
+    "train": 6,
+    "validation": 1,
+    "test": 1
+  },
+  "PD::parkinson disease": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PD::patent ductus": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PD::peritoneal dialysis": {
+    "n_unique": 401,
+    "partition": "core_closed_set",
+    "train": 281,
+    "validation": 60,
+    "test": 60
+  },
+  "PD::personality disorder": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PD::phosphate dehydrogenase": {
+    "n_unique": 9,
+    "partition": "core_closed_set",
+    "train": 7,
+    "validation": 1,
+    "test": 1
+  },
+  "PD::police department": {
+    "n_unique": 14,
+    "partition": "core_closed_set",
+    "train": 10,
+    "validation": 2,
+    "test": 2
+  },
+  "PD::posterior descending": {
+    "n_unique": 33,
+    "partition": "core_closed_set",
+    "train": 23,
+    "validation": 5,
+    "test": 5
+  },
+  "PD::prism diopter": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "PD::pulmonary embolus:pe": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "PD::purified protein derivative:ppd": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PDA::patent ductus arteriosus": {
+    "n_unique": 138,
+    "partition": "core_closed_set",
+    "train": 96,
+    "validation": 21,
+    "test": 21
+  },
+  "PDA::patient-controlled analgesia:pca": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PDA::posterior descending artery": {
+    "n_unique": 359,
+    "partition": "core_closed_set",
+    "train": 251,
+    "validation": 54,
+    "test": 54
+  },
+  "PE::pleural effusion": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PE::pressure equalization": {
+    "n_unique": 89,
+    "partition": "core_closed_set",
+    "train": 63,
+    "validation": 13,
+    "test": 13
+  },
+  "PE::pulmonary embolus": {
+    "n_unique": 406,
+    "partition": "core_closed_set",
+    "train": 284,
+    "validation": 61,
+    "test": 61
+  },
+  "PM::afternoon": {
+    "n_unique": 422,
+    "partition": "core_closed_set",
+    "train": 296,
+    "validation": 63,
+    "test": 63
+  },
+  "PM::metacarpophalangeal:mp": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PM::physical medicine and rehabilitation:pmr": {
+    "n_unique": 74,
+    "partition": "core_closed_set",
+    "train": 52,
+    "validation": 11,
+    "test": 11
+  },
+  "PR::(drug) pr": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "PR::per rectum": {
+    "n_unique": 141,
+    "partition": "core_closed_set",
+    "train": 99,
+    "validation": 21,
+    "test": 21
+  },
+  "PR::pr interval": {
+    "n_unique": 251,
+    "partition": "core_closed_set",
+    "train": 175,
+    "validation": 38,
+    "test": 38
+  },
+  "PR::progesterone receptor": {
+    "n_unique": 88,
+    "partition": "core_closed_set",
+    "train": 62,
+    "validation": 13,
+    "test": 13
+  },
+  "PR::pulmonary regurgitation": {
+    "n_unique": 12,
+    "partition": "core_closed_set",
+    "train": 8,
+    "validation": 2,
+    "test": 2
+  },
+  "PR::pulse rate": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PT::physical therapy": {
+    "n_unique": 455,
+    "partition": "core_closed_set",
+    "train": 319,
+    "validation": 68,
+    "test": 68
+  },
+  "PT::posterior tibial": {
+    "n_unique": 21,
+    "partition": "core_closed_set",
+    "train": 15,
+    "validation": 3,
+    "test": 3
+  },
+  "PT::prothrombin": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "PT::prothrombin time": {
+    "n_unique": 22,
+    "partition": "core_closed_set",
+    "train": 16,
+    "validation": 3,
+    "test": 3
+  },
+  "RA::retinoic acid": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "RA::rheumatoid arthritis": {
+    "n_unique": 66,
+    "partition": "core_closed_set",
+    "train": 46,
+    "validation": 10,
+    "test": 10
+  },
+  "RA::right atrium": {
+    "n_unique": 393,
+    "partition": "core_closed_set",
+    "train": 275,
+    "validation": 59,
+    "test": 59
+  },
+  "RA::room air": {
+    "n_unique": 36,
+    "partition": "core_closed_set",
+    "train": 26,
+    "validation": 5,
+    "test": 5
+  },
+  "RT::(drug) rt": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "RT::radiation therapy": {
+    "n_unique": 330,
+    "partition": "core_closed_set",
+    "train": 230,
+    "validation": 50,
+    "test": 50
+  },
+  "RT::respiratory therapist": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "RT::respiratory therapy": {
+    "n_unique": 148,
+    "partition": "core_closed_set",
+    "train": 104,
+    "validation": 22,
+    "test": 22
+  },
+  "RT::retrograde tachycardia": {
+    "n_unique": 7,
+    "partition": "core_closed_set",
+    "train": 5,
+    "validation": 1,
+    "test": 1
+  },
+  "RT::right": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "SA::american society of anesthesiologists:asa": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "SA::methicillin-susceptible staphylococcus aureus:mssa": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "SA::saturation": {
+    "n_unique": 4,
+    "partition": "rare_open_set_audit"
+  },
+  "SA::sinuatrial": {
+    "n_unique": 85,
+    "partition": "core_closed_set",
+    "train": 59,
+    "validation": 13,
+    "test": 13
+  },
+  "SA::sinus arrest": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "SA::slow acting/sustained action": {
+    "n_unique": 371,
+    "partition": "core_closed_set",
+    "train": 259,
+    "validation": 56,
+    "test": 56
+  },
+  "SBP::spontaneous bacterial peritonitis": {
+    "n_unique": 413,
+    "partition": "core_closed_set",
+    "train": 289,
+    "validation": 62,
+    "test": 62
+  },
+  "SBP::systolic blood pressure": {
+    "n_unique": 83,
+    "partition": "core_closed_set",
+    "train": 59,
+    "validation": 12,
+    "test": 12
+  },
+  "SMA::sequential multiple autoanalyzer": {
+    "n_unique": 84,
+    "partition": "core_closed_set",
+    "train": 58,
+    "validation": 13,
+    "test": 13
+  },
+  "SMA::smooth muscle actin": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "SMA::smooth muscle antibody": {
+    "n_unique": 3,
+    "partition": "rare_open_set_audit"
+  },
+  "SMA::spinal muscular atrophy": {
+    "n_unique": 56,
+    "partition": "core_closed_set",
+    "train": 40,
+    "validation": 8,
+    "test": 8
+  },
+  "SMA::superior mesenteric artery": {
+    "n_unique": 347,
+    "partition": "core_closed_set",
+    "train": 243,
+    "validation": 52,
+    "test": 52
+  },
+  "SS::sickle cell genotype ss": {
+    "n_unique": 4,
+    "partition": "rare_open_set_audit"
+  },
+  "SS::single strength": {
+    "n_unique": 437,
+    "partition": "core_closed_set",
+    "train": 305,
+    "validation": 66,
+    "test": 66
+  },
+  "T1::t1 (mri)": {
+    "n_unique": 103,
+    "partition": "core_closed_set",
+    "train": 73,
+    "validation": 15,
+    "test": 15
+  },
+  "T1::term 1": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "T1::thoracic (level) 1": {
+    "n_unique": 193,
+    "partition": "core_closed_set",
+    "train": 135,
+    "validation": 29,
+    "test": 29
+  },
+  "T1::tumor stage 1": {
+    "n_unique": 197,
+    "partition": "core_closed_set",
+    "train": 137,
+    "validation": 30,
+    "test": 30
+  },
+  "T1::type 1 (diabetes mellitus)": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "T2::s2 (heart sound):s2": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "T2::t2 (mri)": {
+    "n_unique": 227,
+    "partition": "core_closed_set",
+    "train": 159,
+    "validation": 34,
+    "test": 34
+  },
+  "T2::t2 nodes": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "T2::term 2": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "T2::thoracic (level) 2": {
+    "n_unique": 97,
+    "partition": "core_closed_set",
+    "train": 67,
+    "validation": 15,
+    "test": 15
+  },
+  "T2::tumor stage 2": {
+    "n_unique": 166,
+    "partition": "core_closed_set",
+    "train": 116,
+    "validation": 25,
+    "test": 25
+  },
+  "T3::t3 (ecg pattern)": {
+    "n_unique": 4,
+    "partition": "rare_open_set_audit"
+  },
+  "T3::term 3": {
+    "n_unique": 2,
+    "partition": "rare_open_set_audit"
+  },
+  "T3::thoracic (level) 3": {
+    "n_unique": 65,
+    "partition": "core_closed_set",
+    "train": 45,
+    "validation": 10,
+    "test": 10
+  },
+  "T3::triiodothyronine": {
+    "n_unique": 267,
+    "partition": "core_closed_set",
+    "train": 187,
+    "validation": 40,
+    "test": 40
+  },
+  "T3::tumor stage 3": {
+    "n_unique": 155,
+    "partition": "core_closed_set",
+    "train": 109,
+    "validation": 23,
+    "test": 23
+  },
+  "T4::thoracic (level) 4": {
+    "n_unique": 41,
+    "partition": "core_closed_set",
+    "train": 29,
+    "validation": 6,
+    "test": 6
+  },
+  "T4::thyroxine": {
+    "n_unique": 424,
+    "partition": "core_closed_set",
+    "train": 296,
+    "validation": 64,
+    "test": 64
+  },
+  "T4::tumor stage 4": {
+    "n_unique": 35,
+    "partition": "core_closed_set",
+    "train": 25,
+    "validation": 5,
+    "test": 5
+  },
+  "US::ultrasound": {
+    "n_unique": 94,
+    "partition": "core_closed_set",
+    "train": 66,
+    "validation": 14,
+    "test": 14
+  },
+  "US::united states": {
+    "n_unique": 402,
+    "partition": "core_closed_set",
+    "train": 282,
+    "validation": 60,
+    "test": 60
+  },
+  "VAD::vascular access device": {
+    "n_unique": 12,
+    "partition": "core_closed_set",
+    "train": 8,
+    "validation": 2,
+    "test": 2
+  },
+  "VAD::ventricular assist device": {
+    "n_unique": 82,
+    "partition": "core_closed_set",
+    "train": 58,
+    "validation": 12,
+    "test": 12
+  },
+  "VAD::video-assisted thoracic surgery:vats": {
+    "n_unique": 1,
+    "partition": "rare_open_set_audit"
+  },
+  "VAD::vincristine adriamycin and dexamethasone": {
+    "n_unique": 392,
+    "partition": "core_closed_set",
+    "train": 274,
+    "validation": 59,
+    "test": 59
+  },
+  "VBG::venous blood gas": {
+    "n_unique": 200,
+    "partition": "core_closed_set",
+    "train": 140,
+    "validation": 30,
+    "test": 30
+  },
+  "VBG::vertical banded gastroplasty": {
+    "n_unique": 293,
+    "partition": "core_closed_set",
+    "train": 205,
+    "validation": 44,
+    "test": 44
+  }
+}

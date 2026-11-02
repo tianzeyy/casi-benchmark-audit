@@ -1,0 +1,6 @@
+Auditing Exact Duplicate Exposure and Candidate Coverage in Clinical Abbreviation Disambiguation Benchmarks
+Discover Artificial Intelligence
+Tianze Yang, Qiqing Li, Jialun Wu and Xinyu Qiu
+Corresponding author: Tianze Yang, Independent Researcher, San Jose, CA 95134, USA
+Email: tianzeyy@outlook.com
+Supplementary Software 1, version 1.0.0

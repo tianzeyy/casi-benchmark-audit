@@ -1,0 +1,6374 @@
+[
+  {
+    "id": "def82d9ec01480d603f8206f80d07f7570d7e5fb7830d86bfdd9d0e4957c6a2b",
+    "sf": "MOM",
+    "gold": "mall of america:moa",
+    "prediction": "milk of magnesia",
+    "correct": false,
+    "classes": [
+      "milk of magnesia",
+      "multiples of median"
+    ],
+    "probabilities": [
+      0.6276859637138106,
+      0.3723140362861895
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.871366290402104,
+      0.12863370959789597
+    ],
+    "scaled_confidence": 0.871366290402104,
+    "confidence": 0.6276859637138106,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "8cdfe9b38048cebe4ae7858e01377c9bc9f2aeb3216c6e8823e792ea5207bd70",
+    "sf": "AB",
+    "gold": "antipyrine benzocaine",
+    "prediction": "abortion",
+    "correct": false,
+    "classes": [
+      "abortion",
+      "blood group in abo system",
+      "type a, type b"
+    ],
+    "probabilities": [
+      0.5483102196442543,
+      0.22946849045121004,
+      0.2222212899045357
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9278741259837844,
+      0.03818004484000324,
+      0.03394582917621245
+    ],
+    "scaled_confidence": 0.9278741259837844,
+    "confidence": 0.5483102196442543,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "a2e8dfb439cf90cdc9ab47f1b300709f67a75d66f8e4f386b95137c7fd555f06",
+    "sf": "PD",
+    "gold": "patent ductus",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.09456184043162551,
+      0.5791407587681945,
+      0.09369612294209045,
+      0.10785018167280346,
+      0.12475109618528628
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0012987517789879305,
+      0.9917600779857567,
+      0.0012557286815313123,
+      0.0021022808257412456,
+      0.0035831607279828326
+    ],
+    "scaled_confidence": 0.9917600779857567,
+    "confidence": 0.5791407587681945,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "7331abaa30b7e913923ea9a2593a7f8f7ab788af7540dc8dc9ddb698844df809",
+    "sf": "IT",
+    "gold": "immature-to-total neutrophil",
+    "prediction": "intrathecal",
+    "correct": false,
+    "classes": [
+      "iliotibial",
+      "information technology",
+      "intertrochanteric",
+      "intrathecal",
+      "ischial tuberosity"
+    ],
+    "probabilities": [
+      0.19672338390894514,
+      0.23332153195463196,
+      0.0894759630682947,
+      0.29357107476238054,
+      0.18690804630574756
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.12366768685561914,
+      0.23102878983990957,
+      0.006902836996811028,
+      0.5358734232569461,
+      0.10252726305071425
+    ],
+    "scaled_confidence": 0.5358734232569461,
+    "confidence": 0.29357107476238054,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "50b949dc27e2c97133f5f439d7599993aa5bb76477b264a0a7d201962f694e40",
+    "sf": "OP",
+    "gold": "outpatient",
+    "prediction": "operative",
+    "correct": false,
+    "classes": [
+      "oblique presentation/occiput posterior",
+      "operative",
+      "ophthalmic",
+      "oropharynx"
+    ],
+    "probabilities": [
+      0.3530129454038709,
+      0.35574844588827753,
+      0.05780330115297213,
+      0.2334353075548794
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.4444795090023533,
+      0.4572259497316559,
+      0.0005881354466651425,
+      0.09770640581932559
+    ],
+    "scaled_confidence": 0.4572259497316559,
+    "confidence": 0.35574844588827753,
+    "pool": 4,
+    "passes": false
+  },
+  {
+    "id": "bc75bc669db8480e3375d524a0250152cd937a4e5092448867aa6eef6f074759",
+    "sf": "PA",
+    "gold": "tissue plasminogen activator:tpa",
+    "prediction": "posterior-anterior",
+    "correct": false,
+    "classes": [
+      "physician assistant",
+      "physician associates",
+      "posterior-anterior",
+      "pulmonary artery"
+    ],
+    "probabilities": [
+      0.33508848432838867,
+      0.11844658335060403,
+      0.33529875738300424,
+      0.21116617493800302
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.4527449651791967,
+      0.010036764408720006,
+      0.4537864545186902,
+      0.08343181589339294
+    ],
+    "scaled_confidence": 0.4537864545186902,
+    "confidence": 0.33529875738300424,
+    "pool": 4,
+    "passes": false
+  },
+  {
+    "id": "287bb36e0c198b89649162ddb811528a27f719cac1e32ca9b4a42e843e347286",
+    "sf": "DT",
+    "gold": "(drug) dt",
+    "prediction": "diphtheria-tetanus",
+    "correct": false,
+    "classes": [
+      "delirium tremens",
+      "diphtheria-tetanus",
+      "dorsalis pedis:dp"
+    ],
+    "probabilities": [
+      0.34888957605771004,
+      0.5501318089514018,
+      0.10097861499088812
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.15841610498811345,
+      0.8398952886070319,
+      0.0016886064048547782
+    ],
+    "scaled_confidence": 0.8398952886070319,
+    "confidence": 0.5501318089514018,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "a03bd4a6ba9627966b582ee0f8c1717b3d8dbc2fe78bbcda4bb413cd78fe9d9c",
+    "sf": "SA",
+    "gold": "sinus arrest",
+    "prediction": "sinuatrial",
+    "correct": false,
+    "classes": [
+      "sinuatrial",
+      "slow acting/sustained action"
+    ],
+    "probabilities": [
+      0.7676532655332818,
+      0.23234673446671814
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9875983904033395,
+      0.012401609596660465
+    ],
+    "scaled_confidence": 0.9875983904033395,
+    "confidence": 0.7676532655332818,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "4d0e0dd43a09d8ccd324276b06ed275ba08712cd69854bba4f4a967b69bd000f",
+    "sf": "T2",
+    "gold": "s2 (heart sound):s2",
+    "prediction": "t2 (mri)",
+    "correct": false,
+    "classes": [
+      "t2 (mri)",
+      "thoracic (level) 2",
+      "tumor stage 2"
+    ],
+    "probabilities": [
+      0.3864111777729899,
+      0.35542716361038745,
+      0.2581616586166226
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.5090247946181998,
+      0.37478517074216483,
+      0.11619003463963537
+    ],
+    "scaled_confidence": 0.5090247946181998,
+    "confidence": 0.3864111777729899,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "285dcde1dc18ef0484eda35dbcf82dac8a8a04e12da54517af2a3458f61e05fa",
+    "sf": "SA",
+    "gold": "saturation",
+    "prediction": "sinuatrial",
+    "correct": false,
+    "classes": [
+      "sinuatrial",
+      "slow acting/sustained action"
+    ],
+    "probabilities": [
+      0.5023298288628169,
+      0.4976701711371832
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.508532951135903,
+      0.4914670488640969
+    ],
+    "scaled_confidence": 0.508532951135903,
+    "confidence": 0.5023298288628169,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "af78647869494fdec9270efe22b2fdc57428f2e884cdea4a415549240ab247cf",
+    "sf": "DT",
+    "gold": "deep vein thrombosis:dvt",
+    "prediction": "delirium tremens",
+    "correct": false,
+    "classes": [
+      "delirium tremens",
+      "diphtheria-tetanus",
+      "dorsalis pedis:dp"
+    ],
+    "probabilities": [
+      0.6358844423046236,
+      0.25454821924875287,
+      0.10956733844662354
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9647293289044766,
+      0.03373205954774834,
+      0.0015386115477750348
+    ],
+    "scaled_confidence": 0.9647293289044766,
+    "confidence": 0.6358844423046236,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "1863ed30ba5835917a91df6e6359519b3db2882c9bb97d0e67f9d8981480d4d4",
+    "sf": "IR",
+    "gold": "internal rotation",
+    "prediction": "interventional radiology",
+    "correct": false,
+    "classes": [
+      "immediate-release",
+      "interventional radiology"
+    ],
+    "probabilities": [
+      0.23119158082730262,
+      0.7688084191726974
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.012113907952366092,
+      0.987886092047634
+    ],
+    "scaled_confidence": 0.987886092047634,
+    "confidence": 0.7688084191726974,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "2f7982e7c2364af5fd127882ad667c1562e4951ebeccebc3fdf242cf6d1ac14d",
+    "sf": "ALD",
+    "gold": "alanine aminotransferase:alt",
+    "prediction": "adrenoleukodystrophy",
+    "correct": false,
+    "classes": [
+      "ad lib on demand",
+      "adrenoleukodystrophy"
+    ],
+    "probabilities": [
+      0.22268503844619625,
+      0.7773149615538038
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.010162556890734321,
+      0.9898374431092657
+    ],
+    "scaled_confidence": 0.9898374431092657,
+    "confidence": 0.7773149615538038,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "ea0e11a928bd395a344a3fe1a209a0113e2597c329284c38010e23a51360bad3",
+    "sf": "PAC",
+    "gold": "pulmonary arterial concentration",
+    "prediction": "premature atrial contraction",
+    "correct": false,
+    "classes": [
+      "patient-controlled analgesia:pca",
+      "physician assistant certification",
+      "picture archiving communication",
+      "post anesthesia care",
+      "premature atrial contraction"
+    ],
+    "probabilities": [
+      0.1417164855779437,
+      0.2410136066552818,
+      0.1463700920676488,
+      0.15469424637076679,
+      0.3162055693283589
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.03400550359368194,
+      0.23783214483299073,
+      0.03827768320286397,
+      0.04687410212075262,
+      0.6430105662497106
+    ],
+    "scaled_confidence": 0.6430105662497106,
+    "confidence": 0.3162055693283589,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "8d7d3ecfc31bcd5757c937928bddd53ff594c0a52aa6e4c89fd06e9219c74b76",
+    "sf": "IT",
+    "gold": "pravastatin or atorvastatin evaluation and infection therapy",
+    "prediction": "intrathecal",
+    "correct": false,
+    "classes": [
+      "iliotibial",
+      "information technology",
+      "intertrochanteric",
+      "intrathecal",
+      "ischial tuberosity"
+    ],
+    "probabilities": [
+      0.2200512384729912,
+      0.19456289112304972,
+      0.13795871105952562,
+      0.2872681377961942,
+      0.16015902154823924
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.20898848112046278,
+      0.13313573630675551,
+      0.03779178563506544,
+      0.5548076598427063,
+      0.06527633709500999
+    ],
+    "scaled_confidence": 0.5548076598427063,
+    "confidence": 0.2872681377961942,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "fe1c26de98ea0aa78591257bd14839e7802d9af256480b6caf67dca75e7a06cf",
+    "sf": "MP",
+    "gold": "(drug) mp",
+    "prediction": "mercaptopurine",
+    "correct": false,
+    "classes": [
+      "(device) mp",
+      "mercaptopurine",
+      "metabolic panel",
+      "metacarpophalangeal",
+      "metarsophalangeal",
+      "metatarsophalangeal",
+      "metatarsophalangeal/metacarpophalangeal",
+      "nurse practitioner:np"
+    ],
+    "probabilities": [
+      0.06751089732504098,
+      0.3120821682589632,
+      0.06236734063668355,
+      0.13571013923073402,
+      0.05262956905358095,
+      0.10154148275151455,
+      0.11838771899651133,
+      0.14977068374697153
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0031410629330120396,
+      0.8559733387772939,
+      0.0023497140255861687,
+      0.04053041096408891,
+      0.0012617275543095102,
+      0.014008169313598159,
+      0.024578522347327134,
+      0.05815705408478414
+    ],
+    "scaled_confidence": 0.8559733387772939,
+    "confidence": 0.3120821682589632,
+    "pool": 8,
+    "passes": false
+  },
+  {
+    "id": "70784b539b00ac86d4c89e47d294ffd2433b4cf670548b1ee0cd2ec26d4c2a53",
+    "sf": "DT",
+    "gold": "physical therapy:pt",
+    "prediction": "delirium tremens",
+    "correct": false,
+    "classes": [
+      "delirium tremens",
+      "diphtheria-tetanus",
+      "dorsalis pedis:dp"
+    ],
+    "probabilities": [
+      0.5408793138568662,
+      0.35186914591252844,
+      0.10725154023060543
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.8266364325458846,
+      0.1711582540416871,
+      0.002205313412428187
+    ],
+    "scaled_confidence": 0.8266364325458846,
+    "confidence": 0.5408793138568662,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "1fe2ee444b889aa4365606d9f105555fd1638c76ab06ec23597b111affc0f727",
+    "sf": "PDA",
+    "gold": "patient-controlled analgesia:pca",
+    "prediction": "patent ductus arteriosus",
+    "correct": false,
+    "classes": [
+      "patent ductus arteriosus",
+      "posterior descending artery"
+    ],
+    "probabilities": [
+      0.6387562261813071,
+      0.3612437738186928
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.8897010176024814,
+      0.11029898239751854
+    ],
+    "scaled_confidence": 0.8897010176024814,
+    "confidence": 0.6387562261813071,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "4398043436869caceb291f499eff012f7d0b221d7934704bf498c9e6b914ccfa",
+    "sf": "CEA",
+    "gold": "cerebrovascular accident:cva",
+    "prediction": "carcinoembryonic antigen",
+    "correct": false,
+    "classes": [
+      "carcinoembryonic antigen",
+      "carotid endarterectomy"
+    ],
+    "probabilities": [
+      0.6894360296531004,
+      0.3105639703468997
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9488763622549468,
+      0.05112363774505334
+    ],
+    "scaled_confidence": 0.9488763622549468,
+    "confidence": 0.6894360296531004,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "9386d5472952d54852cf60572085b72172bbfdd56c1574fdc08ec4e37c0ea40d",
+    "sf": "CDI",
+    "gold": "clean, dry, intact",
+    "prediction": "center for diagnostic imaging",
+    "correct": false,
+    "classes": [
+      "center for diagnostic imaging",
+      "children's depression inventory"
+    ],
+    "probabilities": [
+      0.7221788768029505,
+      0.27782112319704955
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9706611392142144,
+      0.029338860785785566
+    ],
+    "scaled_confidence": 0.9706611392142144,
+    "confidence": 0.7221788768029505,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "8aa65973ce3c279b9e96607051c43342cd0713d19c8dfcf0c50d340d261951e4",
+    "sf": "PCP",
+    "gold": "patient-controlled analgesia:pca",
+    "prediction": "primary care physician",
+    "correct": false,
+    "classes": [
+      "phencyclidine",
+      "pneumocystis jiroveci pneumonia",
+      "primary care physician"
+    ],
+    "probabilities": [
+      0.15348321226356948,
+      0.3908122093184792,
+      0.45570457841795126
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.011693731542884408,
+      0.3586854701941291,
+      0.6296207982629864
+    ],
+    "scaled_confidence": 0.6296207982629864,
+    "confidence": 0.45570457841795126,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "775a25864b40fbcb8a69f3f1e96fd2ed2e550ac644179d763768ae360ad3daed",
+    "sf": "IT",
+    "gold": "(drug) it",
+    "prediction": "intrathecal",
+    "correct": false,
+    "classes": [
+      "iliotibial",
+      "information technology",
+      "intertrochanteric",
+      "intrathecal",
+      "ischial tuberosity"
+    ],
+    "probabilities": [
+      0.17377891490660846,
+      0.1727056713847502,
+      0.09232340838052018,
+      0.4021407890081318,
+      0.1590512163199893
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.04096796562183515,
+      0.040048815692681386,
+      0.004039473947358008,
+      0.8853246042855056,
+      0.029619140452619735
+    ],
+    "scaled_confidence": 0.8853246042855056,
+    "confidence": 0.4021407890081318,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "ba12d81e3c1d86f4b692dd9340e419cdab4ec3904ed3fad171e830d2f25ca6ed",
+    "sf": "C3",
+    "gold": "(stage) c3",
+    "prediction": "cervical (level) 3",
+    "correct": false,
+    "classes": [
+      "(complement) component 3",
+      "cervical (level) 3",
+      "propionylcarnitine"
+    ],
+    "probabilities": [
+      0.33306692399915944,
+      0.6122015849087341,
+      0.05473149109210641
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.09710945969938409,
+      0.9027603610818751,
+      0.0001301792187409487
+    ],
+    "scaled_confidence": 0.9027603610818751,
+    "confidence": 0.6122015849087341,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "b7b51e0af29dab26b22290ac6de008f232c68aaf21b64c2f92f5b73093d37883",
+    "sf": "LA",
+    "gold": "antinuclear antibody:ana",
+    "prediction": "long-acting",
+    "correct": false,
+    "classes": [
+      "left atrial",
+      "long-acting",
+      "los angeles"
+    ],
+    "probabilities": [
+      0.20318181291655993,
+      0.44501731343597223,
+      0.3518008736474678
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.03826183819083734,
+      0.6759634928460136,
+      0.285774668963149
+    ],
+    "scaled_confidence": 0.6759634928460136,
+    "confidence": 0.44501731343597223,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "dcdac8eda4117ba22a12f5aef3f8a15777381ece2490e6272ff480af64d72ea3",
+    "sf": "LE",
+    "gold": "lymphedema",
+    "prediction": "lower extremity",
+    "correct": false,
+    "classes": [
+      "left ventricle:lv",
+      "leukocyte esterase",
+      "lower extremity"
+    ],
+    "probabilities": [
+      0.0480472847952206,
+      0.3497247911295352,
+      0.6022279240752443
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      8.36093251845514e-05,
+      0.12017298840951529,
+      0.8797434022653002
+    ],
+    "scaled_confidence": 0.8797434022653002,
+    "confidence": 0.6022279240752443,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "8ae176a16035764362cdc8adc06ac4cdd8539febcbbed49770247297160f7a50",
+    "sf": "SA",
+    "gold": "saturation",
+    "prediction": "sinuatrial",
+    "correct": false,
+    "classes": [
+      "sinuatrial",
+      "slow acting/sustained action"
+    ],
+    "probabilities": [
+      0.5977511962426172,
+      0.4022488037573828
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.8101296015189127,
+      0.18987039848108728
+    ],
+    "scaled_confidence": 0.8101296015189127,
+    "confidence": 0.5977511962426172,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "1cdc496b3cd202c35acdf19cbe458c6fcf5f5f81802f00479bf3a9ea56e9cccf",
+    "sf": "SMA",
+    "gold": "smooth muscle antibody",
+    "prediction": "superior mesenteric artery",
+    "correct": false,
+    "classes": [
+      "sequential multiple autoanalyzer",
+      "spinal muscular atrophy",
+      "superior mesenteric artery"
+    ],
+    "probabilities": [
+      0.36126765310391246,
+      0.16879342043099385,
+      0.4699389264650938
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.27160514417444415,
+      0.01672925024092042,
+      0.7116656055846354
+    ],
+    "scaled_confidence": 0.7116656055846354,
+    "confidence": 0.4699389264650938,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "33e8984008447bc2f6619fd35beba6f39b2bc711eb414124655822a6e5a592e1",
+    "sf": "IR",
+    "gold": "internal rotation",
+    "prediction": "interventional radiology",
+    "correct": false,
+    "classes": [
+      "immediate-release",
+      "interventional radiology"
+    ],
+    "probabilities": [
+      0.33750380761997933,
+      0.6624961923800207
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.07796396446071231,
+      0.9220360355392877
+    ],
+    "scaled_confidence": 0.9220360355392877,
+    "confidence": 0.6624961923800207,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "be6aad090489860ce1af919ecbccbe9472fd29d56eeaa490b0cde2cff36521d0",
+    "sf": "PD",
+    "gold": "(device) pd",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.1450360652953224,
+      0.5421874195133242,
+      0.08687925811953316,
+      0.10728491875253104,
+      0.11861233831928922
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.007864107491641768,
+      0.984561322096223,
+      0.0012035247808891867,
+      0.002606459692035167,
+      0.003764585939210989
+    ],
+    "scaled_confidence": 0.984561322096223,
+    "confidence": 0.5421874195133242,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "10277d0a095d51a72999a97cf682424c779ade58f1213187624828f5ff10e44f",
+    "sf": "PR",
+    "gold": "(drug) pr",
+    "prediction": "per rectum",
+    "correct": false,
+    "classes": [
+      "per rectum",
+      "pr interval",
+      "progesterone receptor",
+      "pulmonary regurgitation"
+    ],
+    "probabilities": [
+      0.43178062463180233,
+      0.2801774260901546,
+      0.19227989447887656,
+      0.09576205479916648
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.7931454947915062,
+      0.16269246211285532,
+      0.0409732924403413,
+      0.003188750655297335
+    ],
+    "scaled_confidence": 0.7931454947915062,
+    "confidence": 0.43178062463180233,
+    "pool": 4,
+    "passes": false
+  },
+  {
+    "id": "b3e52a286fb8976a20a412f7a31195828347ddf30c5da706a266eeb4c93ab85c",
+    "sf": "MP",
+    "gold": "military police",
+    "prediction": "mercaptopurine",
+    "correct": false,
+    "classes": [
+      "(device) mp",
+      "mercaptopurine",
+      "metabolic panel",
+      "metacarpophalangeal",
+      "metarsophalangeal",
+      "metatarsophalangeal",
+      "metatarsophalangeal/metacarpophalangeal",
+      "nurse practitioner:np"
+    ],
+    "probabilities": [
+      0.046290966726562605,
+      0.23393924756921658,
+      0.06866817337542623,
+      0.18375347994140354,
+      0.04205953971398684,
+      0.15092512589590057,
+      0.12913962394390044,
+      0.14522384283360334
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0013807590418670628,
+      0.5215492074519142,
+      0.0058533943201459614,
+      0.21537020302158894,
+      0.0009719161669128234,
+      0.10473952369747963,
+      0.05917400966552538,
+      0.09096098663456594
+    ],
+    "scaled_confidence": 0.5215492074519142,
+    "confidence": 0.23393924756921658,
+    "pool": 8,
+    "passes": false
+  },
+  {
+    "id": "a5c7a901f533b89fabf0fbc4ab348e21570c8f6e0742e8e9eab817bffa4e2376",
+    "sf": "AB",
+    "gold": "ankle-brachial",
+    "prediction": "abortion",
+    "correct": false,
+    "classes": [
+      "abortion",
+      "blood group in abo system",
+      "type a, type b"
+    ],
+    "probabilities": [
+      0.6239643367951984,
+      0.28977555090146817,
+      0.08626011230333344
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9425448709931317,
+      0.05678421305065974,
+      0.0006709159562083919
+    ],
+    "scaled_confidence": 0.9425448709931317,
+    "confidence": 0.6239643367951984,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "b4ee38328ed25a6875206d6473ded5533514e5e436669646c259de38262d4e21",
+    "sf": "IVF",
+    "gold": "inferior vena cava:ivc",
+    "prediction": "in vitro fertilization",
+    "correct": false,
+    "classes": [
+      "in vitro fertilization",
+      "intravenous fluid"
+    ],
+    "probabilities": [
+      0.6045617416050605,
+      0.3954382583949395
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.8256197198093943,
+      0.17438028019060572
+    ],
+    "scaled_confidence": 0.8256197198093943,
+    "confidence": 0.6045617416050605,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "b4299f2cef4d325945eddfc6a08841c5694949659acfec4733c61e11a5c3edff",
+    "sf": "AC",
+    "gold": "acetate",
+    "prediction": "(drug) ac",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.4440953150287513,
+      0.1434439069937224,
+      0.10833306357281991,
+      0.05063155314091501,
+      0.25349616126379126
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.869381938406832,
+      0.013852420414664597,
+      0.004953954836809359,
+      0.00030547844585488625,
+      0.11150620789583938
+    ],
+    "scaled_confidence": 0.869381938406832,
+    "confidence": 0.4440953150287513,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "6103e1f8625120f6514a9c4b0adf417c476e876069cf4c529d967b807e8b212a",
+    "sf": "PD",
+    "gold": "(drug) pd",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.11821968866812871,
+      0.5639604825830323,
+      0.08847754111992424,
+      0.11538565094591549,
+      0.11395663668299921
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.003236970988172517,
+      0.9898519691173961,
+      0.0011198233555330484,
+      0.002961693428372068,
+      0.002829543110526071
+    ],
+    "scaled_confidence": 0.9898519691173961,
+    "confidence": 0.5639604825830323,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "56dae08f81bb15e0dd868f2bb00ea83f1e856c29e1f9f18796818e2a31628869",
+    "sf": "IA",
+    "gold": "transient ischemic attack:tia",
+    "prediction": "(stage) ia",
+    "correct": false,
+    "classes": [
+      "(grade) ia",
+      "(stage) ia",
+      "(status) ia",
+      "(type) ia",
+      "intraarterial",
+      "iowa"
+    ],
+    "probabilities": [
+      0.11031987587280898,
+      0.36642203109661403,
+      0.056137799280321,
+      0.04347083140279849,
+      0.30535418903351175,
+      0.11829527331394567
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.007984501704136383,
+      0.6482939601821874,
+      0.0006723348360423304,
+      0.00026351384913291464,
+      0.3324751629308961,
+      0.010310526497604743
+    ],
+    "scaled_confidence": 0.6482939601821874,
+    "confidence": 0.36642203109661403,
+    "pool": 6,
+    "passes": false
+  },
+  {
+    "id": "40d77515304811e180648e8efded380a873cda7e3d27a3aa67d87ab8b358c41b",
+    "sf": "RA",
+    "gold": "retinoic acid",
+    "prediction": "rheumatoid arthritis",
+    "correct": false,
+    "classes": [
+      "rheumatoid arthritis",
+      "right atrium",
+      "room air"
+    ],
+    "probabilities": [
+      0.7059384224004345,
+      0.12820337574622837,
+      0.1658582018533372
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.993148034219366,
+      0.0019202528792517256,
+      0.004931712901382042
+    ],
+    "scaled_confidence": 0.993148034219366,
+    "confidence": 0.7059384224004345,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "f7778680c74af5fdf854fc3e3fc3c19a0848c9bb2c5a2dd65f0f3b461ed2bde2",
+    "sf": "AC",
+    "gold": "angiotensin-converting enzyme:ace",
+    "prediction": "(drug) ac",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.36503480930181015,
+      0.2110814830294708,
+      0.14845501910249936,
+      0.06365294776708914,
+      0.21177574079913042
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.7637579721363358,
+      0.10271446229975034,
+      0.028297757460654993,
+      0.0012724990769485793,
+      0.10395730902631038
+    ],
+    "scaled_confidence": 0.7637579721363358,
+    "confidence": 0.36503480930181015,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "244527f7735859cdd867509b887fc75bfc9d8c7adf29b83624678f9367359636",
+    "sf": "AB",
+    "gold": "arteriovenous:av",
+    "prediction": "abortion",
+    "correct": false,
+    "classes": [
+      "abortion",
+      "blood group in abo system",
+      "type a, type b"
+    ],
+    "probabilities": [
+      0.7884909325569435,
+      0.1260022509103611,
+      0.08550681653269537
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9984995072933608,
+      0.0012084242886753146,
+      0.0002920684179639864
+    ],
+    "scaled_confidence": 0.9984995072933608,
+    "confidence": 0.7884909325569435,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "ee0defe90d9b0a075e3e1214408534a79e3cfd3ae51654b1f0e4e85045a6ff37",
+    "sf": "FSH",
+    "gold": "fascioscapulohumeral muscular dystrophy",
+    "prediction": "follicle-stimulating hormone",
+    "correct": false,
+    "classes": [
+      "fairview southdale hospital",
+      "follicle-stimulating hormone"
+    ],
+    "probabilities": [
+      0.3750587344608447,
+      0.6249412655391553
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.13352566625554532,
+      0.8664743337444547
+    ],
+    "scaled_confidence": 0.8664743337444547,
+    "confidence": 0.6249412655391553,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "009ee41ec29ffb158d66b84aecbd8b5d194be1da6688f796d24613f40773c414",
+    "sf": "MS",
+    "gold": "musculoskeletal",
+    "prediction": "multiple sclerosis",
+    "correct": false,
+    "classes": [
+      "morphine sulfate",
+      "multiple sclerosis"
+    ],
+    "probabilities": [
+      0.37208027411909605,
+      0.627919725880904
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.12822354644240255,
+      0.8717764535575976
+    ],
+    "scaled_confidence": 0.8717764535575976,
+    "confidence": 0.627919725880904,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "d0af48852853e2a231528a19e74279af8725c068a145c1a0318738a7ab406fc7",
+    "sf": "MR",
+    "gold": "mental retardation",
+    "prediction": "mitral regurgitation",
+    "correct": false,
+    "classes": [
+      "magnetic resonance",
+      "mitral regurgitation"
+    ],
+    "probabilities": [
+      0.4965376938485141,
+      0.5034623061514859
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.48732075034673944,
+      0.5126792496532605
+    ],
+    "scaled_confidence": 0.5126792496532605,
+    "confidence": 0.5034623061514859,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "c3c0db231514639a9a50f8ddd350acd0f0d329baad346e6cca7ee40c4b2105c0",
+    "sf": "PM",
+    "gold": "metacarpophalangeal:mp",
+    "prediction": "physical medicine and rehabilitation:pmr",
+    "correct": false,
+    "classes": [
+      "afternoon",
+      "physical medicine and rehabilitation:pmr"
+    ],
+    "probabilities": [
+      0.35736866922616006,
+      0.6426313307738399
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.1043921443555938,
+      0.8956078556444063
+    ],
+    "scaled_confidence": 0.8956078556444063,
+    "confidence": 0.6426313307738399,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "4a4b785faafab44d43cc56b4fdc2582f3895e0eb7ef11e023343b2032c2fa975",
+    "sf": "OP",
+    "gold": "occiput posterior",
+    "prediction": "oblique presentation/occiput posterior",
+    "correct": false,
+    "classes": [
+      "oblique presentation/occiput posterior",
+      "operative",
+      "ophthalmic",
+      "oropharynx"
+    ],
+    "probabilities": [
+      0.6246249477810778,
+      0.23753638332247767,
+      0.036499288366361966,
+      0.10133938053008257
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.970605382189853,
+      0.028123466008205478,
+      2.948305831873823e-05,
+      0.0012416687436227574
+    ],
+    "scaled_confidence": 0.970605382189853,
+    "confidence": 0.6246249477810778,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "0fe62a95be0c3e111676bbd0a25a9653e6cf191a037e7e945707e320f6dcf8ec",
+    "sf": "DT",
+    "gold": "(drug) dt",
+    "prediction": "delirium tremens",
+    "correct": false,
+    "classes": [
+      "delirium tremens",
+      "diphtheria-tetanus",
+      "dorsalis pedis:dp"
+    ],
+    "probabilities": [
+      0.4687775924706114,
+      0.4428428150673004,
+      0.08837959246208826
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.5512532537275512,
+      0.4475243122167704,
+      0.0012224340556784142
+    ],
+    "scaled_confidence": 0.5512532537275512,
+    "confidence": 0.4687775924706114,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "9bcc4b60ef182a430243a99c6b9b527dba7fb3cd9d986a8386ae915ce07802e2",
+    "sf": "CA",
+    "gold": "california",
+    "prediction": "cancer",
+    "correct": false,
+    "classes": [
+      "cancer",
+      "carbohydrate antigen"
+    ],
+    "probabilities": [
+      0.7071647488585397,
+      0.2928352511414603
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9619231573939462,
+      0.038076842606053755
+    ],
+    "scaled_confidence": 0.9619231573939462,
+    "confidence": 0.7071647488585397,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "6620166416dc5955924de6855024d780f9558ca53cadd42e7de80f8cb92a41d2",
+    "sf": "T1",
+    "gold": "type 1 (diabetes mellitus)",
+    "prediction": "thoracic (level) 1",
+    "correct": false,
+    "classes": [
+      "t1 (mri)",
+      "thoracic (level) 1",
+      "tumor stage 1"
+    ],
+    "probabilities": [
+      0.16496592117163744,
+      0.5915020460974745,
+      0.24353203273088808
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.00887887578981179,
+      0.9541412407529904,
+      0.03697988345719761
+    ],
+    "scaled_confidence": 0.9541412407529904,
+    "confidence": 0.5915020460974745,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "9c9ac075d4bd25f98828eb191b488e946e5fd98abbec1fab4a229784ab31f047",
+    "sf": "OP",
+    "gold": "occiput posterior",
+    "prediction": "oblique presentation/occiput posterior",
+    "correct": false,
+    "classes": [
+      "oblique presentation/occiput posterior",
+      "operative",
+      "ophthalmic",
+      "oropharynx"
+    ],
+    "probabilities": [
+      0.7140233752191468,
+      0.15188560911374369,
+      0.035808999376279245,
+      0.09828201629083028
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9958489392757998,
+      0.003436122929749694,
+      1.7280908805213234e-05,
+      0.000697656885645331
+    ],
+    "scaled_confidence": 0.9958489392757998,
+    "confidence": 0.7140233752191468,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "508d6f64a1791334b6e33755539647808925ac11e47959304ec6c008eeb7e847",
+    "sf": "LE",
+    "gold": "long-acting:la",
+    "prediction": "lower extremity",
+    "correct": false,
+    "classes": [
+      "left ventricle:lv",
+      "leukocyte esterase",
+      "lower extremity"
+    ],
+    "probabilities": [
+      0.045732200577876615,
+      0.27091307218991156,
+      0.6833547272322117
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      4.8291874780592394e-05,
+      0.03264292169030517,
+      0.9673087864349142
+    ],
+    "scaled_confidence": 0.9673087864349142,
+    "confidence": 0.6833547272322117,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "37c0ac6f6d3050f53cac78df3bcbed40fdce8478ca5ef41e3503cc69cbe247c1",
+    "sf": "MP",
+    "gold": "(drug) mp",
+    "prediction": "mercaptopurine",
+    "correct": false,
+    "classes": [
+      "(device) mp",
+      "mercaptopurine",
+      "metabolic panel",
+      "metacarpophalangeal",
+      "metarsophalangeal",
+      "metatarsophalangeal",
+      "metatarsophalangeal/metacarpophalangeal",
+      "nurse practitioner:np"
+    ],
+    "probabilities": [
+      0.052064345745745144,
+      0.3645901087177647,
+      0.07001689772866991,
+      0.1298862890997339,
+      0.04580606188464152,
+      0.12922180520700582,
+      0.11533279592287737,
+      0.09308169569356156
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0007488995753491521,
+      0.934255798906237,
+      0.0022166113299920812,
+      0.021312901397784467,
+      0.00046849769352182966,
+      0.02091624159972791,
+      0.013791236890912195,
+      0.006289812606475083
+    ],
+    "scaled_confidence": 0.934255798906237,
+    "confidence": 0.3645901087177647,
+    "pool": 8,
+    "passes": true
+  },
+  {
+    "id": "456f7ef61bf14acda030db527a692c8a45b476bb4007bc774752c9ee5615ac58",
+    "sf": "AC",
+    "gold": "acetate",
+    "prediction": "(drug) ac",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.4481354377063463,
+      0.07319545825732598,
+      0.06591624881170566,
+      0.03256725102486938,
+      0.3801856041997528
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.6452344660227639,
+      0.0008459819428752246,
+      0.0005764131412359612,
+      4.356523824243939e-05,
+      0.35329957365488246
+    ],
+    "scaled_confidence": 0.6452344660227639,
+    "confidence": 0.4481354377063463,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "99cdf4b327c1d0df2abc303f944e2cccd17cba1b6381b32fea1e702100e79ba4",
+    "sf": "IT",
+    "gold": "(drug) it",
+    "prediction": "intrathecal",
+    "correct": false,
+    "classes": [
+      "iliotibial",
+      "information technology",
+      "intertrochanteric",
+      "intrathecal",
+      "ischial tuberosity"
+    ],
+    "probabilities": [
+      0.21940222342875432,
+      0.17864322602130064,
+      0.09038841998826724,
+      0.2871336275804084,
+      0.22443250298126938
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.18955591258754864,
+      0.08929255744631576,
+      0.007363532804414922,
+      0.5078214470267766,
+      0.20596655013494408
+    ],
+    "scaled_confidence": 0.5078214470267766,
+    "confidence": 0.2871336275804084,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "bfb68ef4c533c03c29dde0c604e33d54582fb5a850dd3f6e0ef815284dd0cc13",
+    "sf": "ALD",
+    "gold": "alanine aminotransferase:alt",
+    "prediction": "adrenoleukodystrophy",
+    "correct": false,
+    "classes": [
+      "ad lib on demand",
+      "adrenoleukodystrophy"
+    ],
+    "probabilities": [
+      0.16084793342910697,
+      0.839152066570893
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.002350642461548318,
+      0.9976493575384516
+    ],
+    "scaled_confidence": 0.9976493575384516,
+    "confidence": 0.839152066570893,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "fbe121c2c8d3720c774aef1fd7dde73dea529d4a954d45aee532190db18b9a0a",
+    "sf": "C3",
+    "gold": "(stage) c3",
+    "prediction": "cervical (level) 3",
+    "correct": false,
+    "classes": [
+      "(complement) component 3",
+      "cervical (level) 3",
+      "propionylcarnitine"
+    ],
+    "probabilities": [
+      0.2706207875187185,
+      0.6601805541024864,
+      0.0691986583787951
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.03673026951830132,
+      0.963021030262147,
+      0.0002487002195516736
+    ],
+    "scaled_confidence": 0.963021030262147,
+    "confidence": 0.6601805541024864,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "074cd420b795bae915057e3d474131dfe87cf6f8cb3d92e763e7e719a622a1fc",
+    "sf": "PAC",
+    "gold": "(drug) pac",
+    "prediction": "premature atrial contraction",
+    "correct": false,
+    "classes": [
+      "patient-controlled analgesia:pca",
+      "physician assistant certification",
+      "picture archiving communication",
+      "post anesthesia care",
+      "premature atrial contraction"
+    ],
+    "probabilities": [
+      0.13922200524688313,
+      0.24850951679791805,
+      0.14421719084861886,
+      0.2007094276668456,
+      0.2673418594397344
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.03965438726122003,
+      0.33111791323676065,
+      0.04511965020257591,
+      0.15141351990377763,
+      0.43269452939566566
+    ],
+    "scaled_confidence": 0.43269452939566566,
+    "confidence": 0.2673418594397344,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "05e4512fd5fdd812989cf5a07933399415b509931769275f00eb78f63b4f5380",
+    "sf": "NA",
+    "gold": "nurse anesthetist",
+    "prediction": "narcotics anonymous",
+    "correct": false,
+    "classes": [
+      "narcotics anonymous",
+      "not applicable",
+      "sodium"
+    ],
+    "probabilities": [
+      0.7166572540521695,
+      0.06623258006791859,
+      0.21711016587991194
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9873985018605809,
+      0.00016079391514734007,
+      0.012440704224271714
+    ],
+    "scaled_confidence": 0.9873985018605809,
+    "confidence": 0.7166572540521695,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "ddb15e6c084ea8275264f0d748e8f70b4c21c7262fdca318905d4391c26001bb",
+    "sf": "MR",
+    "gold": "mental retardation",
+    "prediction": "magnetic resonance",
+    "correct": false,
+    "classes": [
+      "magnetic resonance",
+      "mitral regurgitation"
+    ],
+    "probabilities": [
+      0.5086574316147154,
+      0.4913425683852845
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.5316712271206369,
+      0.4683287728793632
+    ],
+    "scaled_confidence": 0.5316712271206369,
+    "confidence": 0.5086574316147154,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "8f73ac6a768d0cd24f2e04debbc39a0bf3a90cddd54f5e2622155ddfe13bd1fc",
+    "sf": "AVR",
+    "gold": "rapid ventricular response:rvr",
+    "prediction": "aortic valve replacement",
+    "correct": false,
+    "classes": [
+      "aortic valve regurgitation",
+      "aortic valve replacement",
+      "augmented voltage right arm"
+    ],
+    "probabilities": [
+      0.052329360494267785,
+      0.7946357519062298,
+      0.1530348875995025
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      4.6947693939935716e-05,
+      0.9975616749057972,
+      0.0023913774002628447
+    ],
+    "scaled_confidence": 0.9975616749057972,
+    "confidence": 0.7946357519062298,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "df103130b17611be3c17f9c3c4282157f51e6a7b1ec2b2caaf5d3629b93dc0e7",
+    "sf": "MP",
+    "gold": "military police",
+    "prediction": "mercaptopurine",
+    "correct": false,
+    "classes": [
+      "(device) mp",
+      "mercaptopurine",
+      "metabolic panel",
+      "metacarpophalangeal",
+      "metarsophalangeal",
+      "metatarsophalangeal",
+      "metatarsophalangeal/metacarpophalangeal",
+      "nurse practitioner:np"
+    ],
+    "probabilities": [
+      0.07451012074011783,
+      0.2158137279337783,
+      0.07687060996415426,
+      0.15996496581529288,
+      0.04190232759569591,
+      0.13555624931516813,
+      0.17816022004840754,
+      0.11722177858738513
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.009397823432802195,
+      0.4621108017282915,
+      0.010535138459057555,
+      0.15430588066994755,
+      0.0011413237697439056,
+      0.08414086667458781,
+      0.22895501087695053,
+      0.049413154388618964
+    ],
+    "scaled_confidence": 0.4621108017282915,
+    "confidence": 0.2158137279337783,
+    "pool": 8,
+    "passes": false
+  },
+  {
+    "id": "94be573a75c03385ea1e93c9bfb7946c280d7093fb0e959b97d0610a2b605ce5",
+    "sf": "C&S",
+    "gold": "central nervous system:cns",
+    "prediction": "culture and sensitivity",
+    "correct": false,
+    "classes": [
+      "conjunctivae and sclerae",
+      "culture and sensitivity",
+      "protein c and protein s"
+    ],
+    "probabilities": [
+      0.13674599020100342,
+      0.6006334409341084,
+      0.26262056886488816
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.00420351753850557,
+      0.9499078949028988,
+      0.04588858755859569
+    ],
+    "scaled_confidence": 0.9499078949028988,
+    "confidence": 0.6006334409341084,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "072bf925d8d9edb36ea7e986a079af2489f1e4a51c9d17c05d0e69dbdc51ef5c",
+    "sf": "GT",
+    "gold": "glucose tolerance",
+    "prediction": "gastrostomy tube",
+    "correct": false,
+    "classes": [
+      "gamma-glutamyltransferase:ggt",
+      "gastrostomy tube",
+      "glutamyl transpeptidase",
+      "gutta"
+    ],
+    "probabilities": [
+      0.13774704925271997,
+      0.438120497343919,
+      0.2539779615211657,
+      0.17015449188219536
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.012217436306296108,
+      0.846413985022225,
+      0.11487848405456245,
+      0.02649009461691637
+    ],
+    "scaled_confidence": 0.846413985022225,
+    "confidence": 0.438120497343919,
+    "pool": 4,
+    "passes": false
+  },
+  {
+    "id": "b600ccb5a935ba36026f8322b9f99d786e5e091af18664d32194e7b5384be30d",
+    "sf": "DC",
+    "gold": "(diltiazem) dc",
+    "prediction": "discontinue",
+    "correct": false,
+    "classes": [
+      "direct current",
+      "discharge",
+      "discontinue",
+      "district of columbia"
+    ],
+    "probabilities": [
+      0.19320652768280475,
+      0.13516992955520962,
+      0.600105502087703,
+      0.07151804067428255
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.015430076369908542,
+      0.004169784837733712,
+      0.9799951182156988,
+      0.0004050205766588532
+    ],
+    "scaled_confidence": 0.9799951182156988,
+    "confidence": 0.600105502087703,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "9400857996711fdcb7a720b2272ac527aa87b233f045a776fa26f03f2ea4ffff",
+    "sf": "AC",
+    "gold": "abdominal circumference",
+    "prediction": "acromioclavicular",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.17126215552065466,
+      0.2587277939928277,
+      0.2431410175753645,
+      0.07222028759820971,
+      0.2546487453129434
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.07429370424240245,
+      0.3367132954482181,
+      0.2681759919458763,
+      0.0031433348148751225,
+      0.317673673548628
+    ],
+    "scaled_confidence": 0.3367132954482181,
+    "confidence": 0.2587277939928277,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "261a26f598f885ecf9e6dabf72a2af37d525528d9c59c8c269751d7f10ad8806",
+    "sf": "PD",
+    "gold": "personality disorder",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.08585193541058415,
+      0.585430834433774,
+      0.08233953795066527,
+      0.10326987331864121,
+      0.14310781888633542
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0008755466787525176,
+      0.9909608614800312,
+      0.0007513284849539776,
+      0.0017223557270973047,
+      0.0056899076291652495
+    ],
+    "scaled_confidence": 0.9909608614800312,
+    "confidence": 0.585430834433774,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "6b14fae4043bd525a79d7d3eea330b081be2ba68410a5a71ce5c9d27da0bf980",
+    "sf": "AVR",
+    "gold": "aortic valve resistance",
+    "prediction": "aortic valve replacement",
+    "correct": false,
+    "classes": [
+      "aortic valve regurgitation",
+      "aortic valve replacement",
+      "augmented voltage right arm"
+    ],
+    "probabilities": [
+      0.04358802386059987,
+      0.814373905374153,
+      0.14203807076524713
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      2.198690356038318e-05,
+      0.9983133639704788,
+      0.0016646491259610418
+    ],
+    "scaled_confidence": 0.9983133639704788,
+    "confidence": 0.814373905374153,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "32b87254df4238175707a2a80bc24cae9a79d5c0eb4f52b89ae8739d1699c664",
+    "sf": "PD",
+    "gold": "(drug) pd",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.11392482893776837,
+      0.5326407558676016,
+      0.11580253829471035,
+      0.10262984404365624,
+      0.1350020328562634
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.003464225810341654,
+      0.9840433636391687,
+      0.00367799398366124,
+      0.002363290791387513,
+      0.00645112577544078
+    ],
+    "scaled_confidence": 0.9840433636391687,
+    "confidence": 0.5326407558676016,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "e84b274f450e8e02668ef9e6d2b021ecab5b808327c50c999c8071141037a9cd",
+    "sf": "NP",
+    "gold": "nasopharynx",
+    "prediction": "nurse practitioner",
+    "correct": false,
+    "classes": [
+      "nasopharyngeal",
+      "nurse practitioner"
+    ],
+    "probabilities": [
+      0.315601953946988,
+      0.684398046053012
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.05545003739501767,
+      0.9445499626049824
+    ],
+    "scaled_confidence": 0.9445499626049824,
+    "confidence": 0.684398046053012,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "417570fcf7143983b4a56834ccf6369469ceebd7d7cf419adb76f22e5269df87",
+    "sf": "PD",
+    "gold": "prism diopter",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.11471580661178668,
+      0.42664923445531044,
+      0.11939703654430299,
+      0.1198057709405305,
+      0.21943215144806935
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0073015788583296135,
+      0.8971348430806039,
+      0.008453582839446952,
+      0.008560066113275764,
+      0.07854992910834388
+    ],
+    "scaled_confidence": 0.8971348430806039,
+    "confidence": 0.42664923445531044,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "04fdf69c7ddbb66711080f4e332a4c9bac815ef2c2139bf31f5a19dc635d22f7",
+    "sf": "IB",
+    "gold": "(type) ib",
+    "prediction": "(stage) ib",
+    "correct": false,
+    "classes": [
+      "(grade) ib",
+      "(stage) ib",
+      "(status) ib",
+      "international baccalaureate"
+    ],
+    "probabilities": [
+      0.12114821027997681,
+      0.6853868280769555,
+      0.09529917162419657,
+      0.0981657900188712
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.001745321883411151,
+      0.9967223555139589,
+      0.000724617365094606,
+      0.0008077052375352158
+    ],
+    "scaled_confidence": 0.9967223555139589,
+    "confidence": 0.6853868280769555,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "1e407b4be73483fdd2c7a6665bda220f91278f03f4a97a905c5f2800ee92cb27",
+    "sf": "CR",
+    "gold": "closed reduction",
+    "prediction": "controlled release",
+    "correct": false,
+    "classes": [
+      "cardiorespiratory",
+      "complete remission",
+      "controlled release"
+    ],
+    "probabilities": [
+      0.20659223314270017,
+      0.3948999985343769,
+      0.39850776832292284
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.04381301322929649,
+      0.47013130769700373,
+      0.48605567907369973
+    ],
+    "scaled_confidence": 0.48605567907369973,
+    "confidence": 0.39850776832292284,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "9347283f0be1edde683f8143eeb153be81bdc56b8173b4d3a8707b90e9c4fe92",
+    "sf": "EC",
+    "gold": "extensor carpi",
+    "prediction": "enteric-coated",
+    "correct": false,
+    "classes": [
+      "enteric-coated",
+      "enterocutaneous"
+    ],
+    "probabilities": [
+      0.6455572027027566,
+      0.3544427972972434
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.8998986351684,
+      0.10010136483160012
+    ],
+    "scaled_confidence": 0.8998986351684,
+    "confidence": 0.6455572027027566,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "4eff7a6f51590b15197c3a8b13700b6028f7ad6393ff724922efc74782e4dc13",
+    "sf": "EC",
+    "gold": "extensor carpi",
+    "prediction": "enterocutaneous",
+    "correct": false,
+    "classes": [
+      "enteric-coated",
+      "enterocutaneous"
+    ],
+    "probabilities": [
+      0.3743988674678088,
+      0.6256011325321912
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.1323367173372273,
+      0.8676632826627727
+    ],
+    "scaled_confidence": 0.8676632826627727,
+    "confidence": 0.6256011325321912,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "3fe441aec601d4edb118c3c27586f5477d31b0b8745b18407f338f4224f574b1",
+    "sf": "MR",
+    "gold": "medical record",
+    "prediction": "magnetic resonance",
+    "correct": false,
+    "classes": [
+      "magnetic resonance",
+      "mitral regurgitation"
+    ],
+    "probabilities": [
+      0.5890124206186564,
+      0.4109875793813435
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.7888799685774226,
+      0.21112003142257746
+    ],
+    "scaled_confidence": 0.7888799685774226,
+    "confidence": 0.5890124206186564,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "d7200a6e584170e7c4cb8a855818b1a4a1ae05941365870c7f66da95c50e6617",
+    "sf": "AB",
+    "gold": "x-ray finding",
+    "prediction": "abortion",
+    "correct": false,
+    "classes": [
+      "abortion",
+      "blood group in abo system",
+      "type a, type b"
+    ],
+    "probabilities": [
+      0.5084336911044048,
+      0.2705671755861396,
+      0.22099913330945561
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.8722336116375891,
+      0.08653116935421239,
+      0.04123521900819842
+    ],
+    "scaled_confidence": 0.8722336116375891,
+    "confidence": 0.5084336911044048,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "3f8399597d15609a93f2a46677a2fb063c87e1a3ccf2499b964b2c3408e32a12",
+    "sf": "CR",
+    "gold": "creatinine",
+    "prediction": "controlled release",
+    "correct": false,
+    "classes": [
+      "cardiorespiratory",
+      "complete remission",
+      "controlled release"
+    ],
+    "probabilities": [
+      0.30557512546956417,
+      0.280440817432707,
+      0.4139840570977288
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.20959486069704877,
+      0.15305338111426384,
+      0.6373517581886874
+    ],
+    "scaled_confidence": 0.6373517581886874,
+    "confidence": 0.4139840570977288,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "d35205723800d54a6865f558aa1194df4e2784f5ef9811e23c6d9afbaf9811a7",
+    "sf": "ET",
+    "gold": "pressure equalization:pe",
+    "prediction": "enterostomal therapy",
+    "correct": false,
+    "classes": [
+      "electrophysiology:ep",
+      "endotracheal",
+      "enterostomal therapy"
+    ],
+    "probabilities": [
+      0.10730473847626763,
+      0.4009165880751283,
+      0.491778673448604
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.002564201045769269,
+      0.32038527575043113,
+      0.6770505232037997
+    ],
+    "scaled_confidence": 0.6770505232037997,
+    "confidence": 0.491778673448604,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "540e446f7130d2b5bcc5a8b559e7eb025ca8577f19f5c6b11a80b27daba6f886",
+    "sf": "VAD",
+    "gold": "video-assisted thoracic surgery:vats",
+    "prediction": "vincristine adriamycin and dexamethasone",
+    "correct": false,
+    "classes": [
+      "vascular access device",
+      "ventricular assist device",
+      "vincristine adriamycin and dexamethasone"
+    ],
+    "probabilities": [
+      0.11281989610898926,
+      0.30316804662878516,
+      0.5840120572622255
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.002218186683831274,
+      0.08287692770886476,
+      0.9149048856073039
+    ],
+    "scaled_confidence": 0.9149048856073039,
+    "confidence": 0.5840120572622255,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "ef9a5ad365fe5990c03c775f6cfb48b82e8ab596cd4d7bbb26faa3df1a2e7fed",
+    "sf": "DIP",
+    "gold": "dipropionate",
+    "prediction": "distal interphalangeal",
+    "correct": false,
+    "classes": [
+      "desquamative interstitial pneumonia",
+      "distal interphalangeal"
+    ],
+    "probabilities": [
+      0.4143455121682086,
+      0.5856544878317914
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.21969561445125124,
+      0.7803043855487488
+    ],
+    "scaled_confidence": 0.7803043855487488,
+    "confidence": 0.5856544878317914,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "7645e03ee24abeec56d137234227b4ee91ab53ebcf9890f49543e632179ee27c",
+    "sf": "PD",
+    "gold": "pulmonary embolus:pe",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.13681469874080096,
+      0.47305597270645805,
+      0.15461821032330794,
+      0.1039784049722692,
+      0.1315327132571639
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.010218038749296962,
+      0.9612025004919326,
+      0.015994285006226315,
+      0.003739373014981531,
+      0.008845802737562712
+    ],
+    "scaled_confidence": 0.9612025004919326,
+    "confidence": 0.47305597270645805,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "a8c73a4ec88dd46ca952ac13470d66ac90809b6a530cf70ccd8751503eb6566e",
+    "sf": "PD",
+    "gold": "(device) pd",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.09849304206992601,
+      0.6055454917037175,
+      0.07638465119700841,
+      0.12098955774423738,
+      0.09858725728511052
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.001283699014294721,
+      0.9941950296967842,
+      0.000505930793218583,
+      0.0027271380245026317,
+      0.0012882024711999562
+    ],
+    "scaled_confidence": 0.9941950296967842,
+    "confidence": 0.6055454917037175,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "476c742af89c36c49dace6f43df333fc42c4c5d74e22e660a06633af2fa25056",
+    "sf": "AC",
+    "gold": "angiotensin-converting enzyme:ace",
+    "prediction": "(drug) ac",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.3059645363125638,
+      0.2712586685766819,
+      0.23613477520693688,
+      0.05967774665369631,
+      0.12696427325012122
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.48240149786411135,
+      0.31037708734125946,
+      0.18676772815873421,
+      0.0012115238574927209,
+      0.019242162778402332
+    ],
+    "scaled_confidence": 0.48240149786411135,
+    "confidence": 0.3059645363125638,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "2c380aae3e8ac47b516d0fa98cb5a6486ab060d4ec5da2d360cc2337467f7aa1",
+    "sf": "C4",
+    "gold": "fourth heart sound:s4",
+    "prediction": "cervical (level) 4",
+    "correct": false,
+    "classes": [
+      "(complement) component 4",
+      "cervical (level) 4",
+      "cluster of differentiation 4:cd4"
+    ],
+    "probabilities": [
+      0.31761276534340216,
+      0.6401802661843083,
+      0.042206968472289524
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.07126806219745209,
+      0.9286880450884248,
+      4.389271412318876e-05
+    ],
+    "scaled_confidence": 0.9286880450884248,
+    "confidence": 0.6401802661843083,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "c3abff937e2dc5fd65135a61812ffddc7347a96f1468edb78c27f97a8c588223",
+    "sf": "AVR",
+    "gold": "aortic valve resistance",
+    "prediction": "aortic valve replacement",
+    "correct": false,
+    "classes": [
+      "aortic valve regurgitation",
+      "aortic valve replacement",
+      "augmented voltage right arm"
+    ],
+    "probabilities": [
+      0.05032566540851224,
+      0.731419470254022,
+      0.21825486433746588
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      5.460912576789752e-05,
+      0.9881662582034374,
+      0.011779132670794655
+    ],
+    "scaled_confidence": 0.9881662582034374,
+    "confidence": 0.731419470254022,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "3807fe8852b639407ccd2818ecfe9e57af76a61b41de9974c163cdf2d059a14d",
+    "sf": "T3",
+    "gold": "t3 (ecg pattern)",
+    "prediction": "triiodothyronine",
+    "correct": false,
+    "classes": [
+      "thoracic (level) 3",
+      "triiodothyronine",
+      "tumor stage 3"
+    ],
+    "probabilities": [
+      0.22041642239437964,
+      0.46447380713323927,
+      0.31510977047238103
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.04990290323200069,
+      0.7653152115157731,
+      0.18478188525222625
+    ],
+    "scaled_confidence": 0.7653152115157731,
+    "confidence": 0.46447380713323927,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "f70ab1c537c0808e08b2f631607722f9b52656db199bccabeee961217e79dd88",
+    "sf": "T3",
+    "gold": "t3 (ecg pattern)",
+    "prediction": "triiodothyronine",
+    "correct": false,
+    "classes": [
+      "thoracic (level) 3",
+      "triiodothyronine",
+      "tumor stage 3"
+    ],
+    "probabilities": [
+      0.2308788998486496,
+      0.5377241362670616,
+      0.23139696388428876
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.04143577603633533,
+      0.9167868729309078,
+      0.04177735103275681
+    ],
+    "scaled_confidence": 0.9167868729309078,
+    "confidence": 0.5377241362670616,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "28bc2bcc90792949d2b141d17b10691b18616c3f6941627076c5777f441f8e02",
+    "sf": "LA",
+    "gold": "louisiana",
+    "prediction": "long-acting",
+    "correct": false,
+    "classes": [
+      "left atrial",
+      "long-acting",
+      "los angeles"
+    ],
+    "probabilities": [
+      0.3144359374373906,
+      0.4647876295883597,
+      0.2207764329742496
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.18320097292345644,
+      0.7666346358354724,
+      0.05016439124107115
+    ],
+    "scaled_confidence": 0.7666346358354724,
+    "confidence": 0.4647876295883597,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "75488de827f214cdf3c5bbab2f53612c2f6a10221073bcca4b7c4285e621a04b",
+    "sf": "SMA",
+    "gold": "smooth muscle actin",
+    "prediction": "sequential multiple autoanalyzer",
+    "correct": false,
+    "classes": [
+      "sequential multiple autoanalyzer",
+      "spinal muscular atrophy",
+      "superior mesenteric artery"
+    ],
+    "probabilities": [
+      0.5345776431700381,
+      0.19164491253146076,
+      0.2737774442985011
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9012661969313529,
+      0.021038863557547385,
+      0.07769493951109967
+    ],
+    "scaled_confidence": 0.9012661969313529,
+    "confidence": 0.5345776431700381,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "d7a9da1bd3ed8052b246b9c6c17f9409eb84b8701f6cdf053cfc0f2c8bc02eeb",
+    "sf": "SA",
+    "gold": "saturation",
+    "prediction": "sinuatrial",
+    "correct": false,
+    "classes": [
+      "sinuatrial",
+      "slow acting/sustained action"
+    ],
+    "probabilities": [
+      0.6812302504401742,
+      0.31876974955982584
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9416762274435295,
+      0.05832377255647043
+    ],
+    "scaled_confidence": 0.9416762274435295,
+    "confidence": 0.6812302504401742,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "afcd3cf0437e30bbc035c3565cba1d2f54ab40e79862a558b9dfabe36a6e3e67",
+    "sf": "ALD",
+    "gold": "left anterior descending:lad",
+    "prediction": "adrenoleukodystrophy",
+    "correct": false,
+    "classes": [
+      "ad lib on demand",
+      "adrenoleukodystrophy"
+    ],
+    "probabilities": [
+      0.23226542813984108,
+      0.7677345718601589
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.012381173649086,
+      0.9876188263509139
+    ],
+    "scaled_confidence": 0.9876188263509139,
+    "confidence": 0.7677345718601589,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "ae44f8338bbf365e7d16810dbc8b3cecf2c93138491f25c8c938ddc222b2972d",
+    "sf": "MP",
+    "gold": "military police",
+    "prediction": "mercaptopurine",
+    "correct": false,
+    "classes": [
+      "(device) mp",
+      "mercaptopurine",
+      "metabolic panel",
+      "metacarpophalangeal",
+      "metarsophalangeal",
+      "metatarsophalangeal",
+      "metatarsophalangeal/metacarpophalangeal",
+      "nurse practitioner:np"
+    ],
+    "probabilities": [
+      0.05389897653094478,
+      0.21562811361718576,
+      0.08625092738411166,
+      0.1739973182320946,
+      0.050850894691218125,
+      0.15827078095878155,
+      0.13694598602503338,
+      0.12415700256063016
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.002903249070535083,
+      0.465964267668283,
+      0.016246826398195784,
+      0.21238066425131077,
+      0.0023457485334406353,
+      0.1501137205305995,
+      0.08835020918002873,
+      0.06169531436760638
+    ],
+    "scaled_confidence": 0.465964267668283,
+    "confidence": 0.21562811361718576,
+    "pool": 8,
+    "passes": false
+  },
+  {
+    "id": "b8f83fea3298d98d7a38977c22812501a20915bb4c9c3c721182f7f72067bb86",
+    "sf": "GT",
+    "gold": "glucose tolerance",
+    "prediction": "gastrostomy tube",
+    "correct": false,
+    "classes": [
+      "gamma-glutamyltransferase:ggt",
+      "gastrostomy tube",
+      "glutamyl transpeptidase",
+      "gutta"
+    ],
+    "probabilities": [
+      0.06318162979538038,
+      0.5792059245057913,
+      0.21938746897822822,
+      0.13822497672060008
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0002890168948398071,
+      0.9670132508190082,
+      0.027613065324567067,
+      0.005084666961584896
+    ],
+    "scaled_confidence": 0.9670132508190082,
+    "confidence": 0.5792059245057913,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "0a34bb5e8f7987bb63d57be84f64e550f435efb468a456a58e238ee2858dccc5",
+    "sf": "MR",
+    "gold": "mental retardation",
+    "prediction": "mitral regurgitation",
+    "correct": false,
+    "classes": [
+      "magnetic resonance",
+      "mitral regurgitation"
+    ],
+    "probabilities": [
+      0.4981634002638836,
+      0.5018365997361164
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.4932732617544541,
+      0.5067267382455459
+    ],
+    "scaled_confidence": 0.5067267382455459,
+    "confidence": 0.5018365997361164,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "2a654a5cbf6410604b7018e1f51eabf077836851453bf1dfbabfcb282c76cf33",
+    "sf": "AVR",
+    "gold": "auditory brainstem response:abr",
+    "prediction": "aortic valve replacement",
+    "correct": false,
+    "classes": [
+      "aortic valve regurgitation",
+      "aortic valve replacement",
+      "augmented voltage right arm"
+    ],
+    "probabilities": [
+      0.0821191656254501,
+      0.5755429229453282,
+      0.3423379114292217
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.000694917564527061,
+      0.869613091854715,
+      0.12969199058075792
+    ],
+    "scaled_confidence": 0.869613091854715,
+    "confidence": 0.5755429229453282,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "9305e367441ca204baa57f92d5e9fffd25bfdc11dc732d0baa6961a9346afa94",
+    "sf": "SS",
+    "gold": "sickle cell genotype ss",
+    "prediction": "single strength",
+    "correct": false,
+    "classes": [
+      "single strength"
+    ],
+    "probabilities": [
+      1.0
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      1.0
+    ],
+    "scaled_confidence": 1.0,
+    "confidence": 1.0,
+    "pool": 1,
+    "passes": true
+  },
+  {
+    "id": "4d7a47901fec126f64dd2d2b913e6862cf48f37c9c36ce5abf45338af293eeb4",
+    "sf": "PAC",
+    "gold": "(drug) pac",
+    "prediction": "premature atrial contraction",
+    "correct": false,
+    "classes": [
+      "patient-controlled analgesia:pca",
+      "physician assistant certification",
+      "picture archiving communication",
+      "post anesthesia care",
+      "premature atrial contraction"
+    ],
+    "probabilities": [
+      0.1494601186076594,
+      0.20460775402521197,
+      0.14080164377846674,
+      0.20274676890735852,
+      0.3023837146813033
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.04710429766627876,
+      0.14881812233525646,
+      0.03785552952244569,
+      0.1439200359145071,
+      0.622302014561512
+    ],
+    "scaled_confidence": 0.622302014561512,
+    "confidence": 0.3023837146813033,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "dbc70336688a258ab12b81a2546207933444f9aa6d4a3a194beb22b5ee042dc4",
+    "sf": "CTA",
+    "gold": "cerebellopontine angle:cpa",
+    "prediction": "computed tomographic angiography",
+    "correct": false,
+    "classes": [
+      "clear to auscultation",
+      "computed tomographic angiography"
+    ],
+    "probabilities": [
+      0.2501026352319222,
+      0.7498973647680778
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.01760168556756748,
+      0.9823983144324325
+    ],
+    "scaled_confidence": 0.9823983144324325,
+    "confidence": 0.7498973647680778,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "c20b3e015af0ff2aae4673a10b1876eaff8668e81fb5fc53fc41f1f643324012",
+    "sf": "BMP",
+    "gold": "bone marrow transplant:bmt",
+    "prediction": "basic metabolic profile",
+    "correct": false,
+    "classes": [
+      "basic metabolic profile",
+      "beta-natriuretic peptide:bnp",
+      "bone morphogenetic protein"
+    ],
+    "probabilities": [
+      0.6857728409807062,
+      0.24129647155724038,
+      0.0729306874620533
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9784050064012668,
+      0.021328542978254397,
+      0.0002664506204787684
+    ],
+    "scaled_confidence": 0.9784050064012668,
+    "confidence": 0.6857728409807062,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "740189900695da4b166bda99e4d485091de2894e5f798c0f5eadd2047e3b7162",
+    "sf": "RT",
+    "gold": "respiratory therapist",
+    "prediction": "respiratory therapy",
+    "correct": false,
+    "classes": [
+      "radiation therapy",
+      "respiratory therapy",
+      "retrograde tachycardia"
+    ],
+    "probabilities": [
+      0.3052991708927093,
+      0.620217740520337,
+      0.07448308858695375
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.06936111676198599,
+      0.9302434888861233,
+      0.00039539435189062274
+    ],
+    "scaled_confidence": 0.9302434888861233,
+    "confidence": 0.620217740520337,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "7f6731cfa8c3a895dafc566dac952bc44fe29367760d321c7b6ddb10fa678819",
+    "sf": "MR",
+    "gold": "myocardial infarction:mi",
+    "prediction": "mitral regurgitation",
+    "correct": false,
+    "classes": [
+      "magnetic resonance",
+      "mitral regurgitation"
+    ],
+    "probabilities": [
+      0.4712295123468977,
+      0.5287704876531023
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.3960408176041283,
+      0.6039591823958717
+    ],
+    "scaled_confidence": 0.6039591823958717,
+    "confidence": 0.5287704876531023,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "69f57b6cf35389ad8d2f5058154eee552028d3aea7f86dfbb8a726218d2fb3e5",
+    "sf": "MP",
+    "gold": "military police",
+    "prediction": "metacarpophalangeal",
+    "correct": false,
+    "classes": [
+      "(device) mp",
+      "mercaptopurine",
+      "metabolic panel",
+      "metacarpophalangeal",
+      "metarsophalangeal",
+      "metatarsophalangeal",
+      "metatarsophalangeal/metacarpophalangeal",
+      "nurse practitioner:np"
+    ],
+    "probabilities": [
+      0.04898271080600797,
+      0.19619511825140584,
+      0.08388080543375302,
+      0.20161507161631534,
+      0.05098951013279412,
+      0.16114517800872402,
+      0.16492950734233836,
+      0.09226209840866145
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.001913573978354437,
+      0.3084751081438725,
+      0.01372618512906781,
+      0.34085426023665905,
+      0.002216753506256157,
+      0.15002257501401953,
+      0.1633358680330246,
+      0.019455675958745925
+    ],
+    "scaled_confidence": 0.34085426023665905,
+    "confidence": 0.20161507161631534,
+    "pool": 8,
+    "passes": false
+  },
+  {
+    "id": "cb40465a5fdd9861c0e01237823923ccdecabfc7519a0446b324c0d6c58d7953",
+    "sf": "T1",
+    "gold": "term 1",
+    "prediction": "tumor stage 1",
+    "correct": false,
+    "classes": [
+      "t1 (mri)",
+      "thoracic (level) 1",
+      "tumor stage 1"
+    ],
+    "probabilities": [
+      0.27218757989376685,
+      0.35404811394272584,
+      0.3737643061635073
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.14673815394526266,
+      0.38442691098034426,
+      0.46883493507439294
+    ],
+    "scaled_confidence": 0.46883493507439294,
+    "confidence": 0.3737643061635073,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "8a00a67cd2a3d4bff75104b5277bab09453bd11b7a5066947f215adf31b9b289",
+    "sf": "MP",
+    "gold": "milligram:mg",
+    "prediction": "mercaptopurine",
+    "correct": false,
+    "classes": [
+      "(device) mp",
+      "mercaptopurine",
+      "metabolic panel",
+      "metacarpophalangeal",
+      "metarsophalangeal",
+      "metatarsophalangeal",
+      "metatarsophalangeal/metacarpophalangeal",
+      "nurse practitioner:np"
+    ],
+    "probabilities": [
+      0.04462902694482674,
+      0.3336221227517038,
+      0.04494888122492182,
+      0.13808455786030918,
+      0.059541029954410386,
+      0.11472914265123292,
+      0.11977853366206387,
+      0.14466670495053124
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.000556942459171194,
+      0.8826271126582496,
+      0.0005717029264370767,
+      0.034875427611307325,
+      0.0016009953318382882,
+      0.017691648695358258,
+      0.020714861835925316,
+      0.04136130848171314
+    ],
+    "scaled_confidence": 0.8826271126582496,
+    "confidence": 0.3336221227517038,
+    "pool": 8,
+    "passes": true
+  },
+  {
+    "id": "0fc25170cbe4573cd64fe7ae57e2115cf567706599774fa69ed3e840937fbaa8",
+    "sf": "IB",
+    "gold": "(cycle) ib",
+    "prediction": "(stage) ib",
+    "correct": false,
+    "classes": [
+      "(grade) ib",
+      "(stage) ib",
+      "(status) ib",
+      "international baccalaureate"
+    ],
+    "probabilities": [
+      0.1320337333530546,
+      0.6755254288689166,
+      0.14232473487638522,
+      0.05011610290164341
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0025156887309751436,
+      0.9941002435490207,
+      0.003311676596165314,
+      7.239112383883946e-05
+    ],
+    "scaled_confidence": 0.9941002435490207,
+    "confidence": 0.6755254288689166,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "97f1f7ff044fe6648a7f5227ad801057b69228678711ba403399d96fa7a01b87",
+    "sf": "FSH",
+    "gold": "fascioscapulohumeral muscular dystrophy",
+    "prediction": "follicle-stimulating hormone",
+    "correct": false,
+    "classes": [
+      "fairview southdale hospital",
+      "follicle-stimulating hormone"
+    ],
+    "probabilities": [
+      0.41112812705364743,
+      0.5888718729463526
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.2114744115930246,
+      0.7885255884069754
+    ],
+    "scaled_confidence": 0.7885255884069754,
+    "confidence": 0.5888718729463526,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "df607635b499bdf23ab36f49acddea45be494604d90747af0463a30bcb8ff65e",
+    "sf": "MS",
+    "gold": "(drug) ms",
+    "prediction": "morphine sulfate",
+    "correct": false,
+    "classes": [
+      "morphine sulfate",
+      "multiple sclerosis"
+    ],
+    "probabilities": [
+      0.7407956317537516,
+      0.25920436824624843
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9790889511267101,
+      0.020911048873289876
+    ],
+    "scaled_confidence": 0.9790889511267101,
+    "confidence": 0.7407956317537516,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "62f139fb7d435c3306d3849a760e9a8b0f12a60485569450319680112331ada5",
+    "sf": "IB",
+    "gold": "(cycle) ib",
+    "prediction": "(stage) ib",
+    "correct": false,
+    "classes": [
+      "(grade) ib",
+      "(stage) ib",
+      "(status) ib",
+      "international baccalaureate"
+    ],
+    "probabilities": [
+      0.13211221173985285,
+      0.7088709913205123,
+      0.11402137028239344,
+      0.04499542665724124
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.002118599775025538,
+      0.9966050665578141,
+      0.0012353434715746247,
+      4.099019558577808e-05
+    ],
+    "scaled_confidence": 0.9966050665578141,
+    "confidence": 0.7088709913205123,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "5fda01643c8a040564e49bc130d32e9858a04712dc643f92d4a97df826339f88",
+    "sf": "LE",
+    "gold": "long-acting:la",
+    "prediction": "lower extremity",
+    "correct": false,
+    "classes": [
+      "left ventricle:lv",
+      "leukocyte esterase",
+      "lower extremity"
+    ],
+    "probabilities": [
+      0.08123437244582703,
+      0.4019792554058136,
+      0.5167863721483594
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0008140954908655631,
+      0.28468434394886777,
+      0.7145015605602667
+    ],
+    "scaled_confidence": 0.7145015605602667,
+    "confidence": 0.5167863721483594,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "8de61b4c5df9b5833da9046d5ca8a448aa820de8ba6c1c0280b17c04b2572a2a",
+    "sf": "RT",
+    "gold": "(drug) rt",
+    "prediction": "radiation therapy",
+    "correct": false,
+    "classes": [
+      "radiation therapy",
+      "respiratory therapy",
+      "retrograde tachycardia"
+    ],
+    "probabilities": [
+      0.4806630370930693,
+      0.44227410817465596,
+      0.0770628547322747
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.5752294344453003,
+      0.42406599577014154,
+      0.0007045697845582862
+    ],
+    "scaled_confidence": 0.5752294344453003,
+    "confidence": 0.4806630370930693,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "25b2674091592be9d6d16342646e17d5c098b294d95e442a3b7e00da25b56cae",
+    "sf": "DC",
+    "gold": "deceased donor:dd",
+    "prediction": "direct current",
+    "correct": false,
+    "classes": [
+      "direct current",
+      "discharge",
+      "discontinue",
+      "district of columbia"
+    ],
+    "probabilities": [
+      0.43307140523358545,
+      0.1778055550659011,
+      0.2814798527399772,
+      0.10764318696053633
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.7994663316602421,
+      0.03066947221507754,
+      0.16498481266994394,
+      0.0048793834547365906
+    ],
+    "scaled_confidence": 0.7994663316602421,
+    "confidence": 0.43307140523358545,
+    "pool": 4,
+    "passes": false
+  },
+  {
+    "id": "96a9c0362cc2fdec536fe9fb1db31d98d0cfa482b89bc0bab36f86da218894d2",
+    "sf": "AB",
+    "gold": "arterial blood",
+    "prediction": "abortion",
+    "correct": false,
+    "classes": [
+      "abortion",
+      "blood group in abo system",
+      "type a, type b"
+    ],
+    "probabilities": [
+      0.5761535464389566,
+      0.30541516979559546,
+      0.11843128376544793
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9083911828168244,
+      0.08884403964742221,
+      0.002764777535753378
+    ],
+    "scaled_confidence": 0.9083911828168244,
+    "confidence": 0.5761535464389566,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "8ab18d8a35e76755cff8f9a8da977627c94266147f52a11f7e320b4021bd039b",
+    "sf": "NP",
+    "gold": "nasopharynx",
+    "prediction": "nurse practitioner",
+    "correct": false,
+    "classes": [
+      "nasopharyngeal",
+      "nurse practitioner"
+    ],
+    "probabilities": [
+      0.3141811670118756,
+      0.6858188329881244
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.05420007504375337,
+      0.9457999249562467
+    ],
+    "scaled_confidence": 0.9457999249562467,
+    "confidence": 0.6858188329881244,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "48b0752bdebc800676950b2d1e29d8d18a79446ea1a99ed7d3ef1a696882f846",
+    "sf": "PAC",
+    "gold": "pulmonary artery catheter",
+    "prediction": "premature atrial contraction",
+    "correct": false,
+    "classes": [
+      "patient-controlled analgesia:pca",
+      "physician assistant certification",
+      "picture archiving communication",
+      "post anesthesia care",
+      "premature atrial contraction"
+    ],
+    "probabilities": [
+      0.08601808390039586,
+      0.2117206946796266,
+      0.1178996190325141,
+      0.2872153735826965,
+      0.29714622880476704
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.004812484995666957,
+      0.13036569892731462,
+      0.015271821700682593,
+      0.39836553975144634,
+      0.4511844546248894
+    ],
+    "scaled_confidence": 0.4511844546248894,
+    "confidence": 0.29714622880476704,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "185d27360ccb6994f8d905156eeb2d05cd52df328e282cfa7404fbe54768abee",
+    "sf": "EC",
+    "gold": "epirubicin",
+    "prediction": "enterocutaneous",
+    "correct": false,
+    "classes": [
+      "enteric-coated",
+      "enterocutaneous"
+    ],
+    "probabilities": [
+      0.3931201803468729,
+      0.6068798196531271
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.16932086411030844,
+      0.8306791358896917
+    ],
+    "scaled_confidence": 0.8306791358896917,
+    "confidence": 0.6068798196531271,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "5d61ef8129bbfd6897592e2d998f94461167e235ceea40685c05765acbc0536a",
+    "sf": "FSH",
+    "gold": "fascioscapulohumeral muscular dystrophy",
+    "prediction": "fairview southdale hospital",
+    "correct": false,
+    "classes": [
+      "fairview southdale hospital",
+      "follicle-stimulating hormone"
+    ],
+    "probabilities": [
+      0.586322156932326,
+      0.4136778430676739
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.7820275647209163,
+      0.2179724352790837
+    ],
+    "scaled_confidence": 0.7820275647209163,
+    "confidence": 0.586322156932326,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "911826b6f051c0c95821cc9262048f168c8f88668ed454862d844076b6273e18",
+    "sf": "ALD",
+    "gold": "alanine aminotransferase:alt",
+    "prediction": "adrenoleukodystrophy",
+    "correct": false,
+    "classes": [
+      "ad lib on demand",
+      "adrenoleukodystrophy"
+    ],
+    "probabilities": [
+      0.21897153785409929,
+      0.7810284621459007
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.009397370123323852,
+      0.9906026298766762
+    ],
+    "scaled_confidence": 0.9906026298766762,
+    "confidence": 0.7810284621459007,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "450a6cb6f1908b90a27f22760407c2195d1c994b07fe15920b876dffad60f39e",
+    "sf": "LE",
+    "gold": "lupus erythematosus",
+    "prediction": "lower extremity",
+    "correct": false,
+    "classes": [
+      "left ventricle:lv",
+      "leukocyte esterase",
+      "lower extremity"
+    ],
+    "probabilities": [
+      0.06096212937979147,
+      0.2053934280062052,
+      0.7336444426140034
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.00010926501869136537,
+      0.009347803961603453,
+      0.9905429310197051
+    ],
+    "scaled_confidence": 0.9905429310197051,
+    "confidence": 0.7336444426140034,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "46abbdf11efade991037710864b866ce9f816daeb79717541e930dfee9284290",
+    "sf": "IR",
+    "gold": "infrared",
+    "prediction": "interventional radiology",
+    "correct": false,
+    "classes": [
+      "immediate-release",
+      "interventional radiology"
+    ],
+    "probabilities": [
+      0.16274429245843947,
+      0.8372557075415605
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.002473868194068792,
+      0.9975261318059312
+    ],
+    "scaled_confidence": 0.9975261318059312,
+    "confidence": 0.8372557075415605,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "b5e52e945c36ea70682126c1e020dd98ee9277e0037989780cf233863c9ec08b",
+    "sf": "DM",
+    "gold": "medical doctor:md",
+    "prediction": "diabetes mellitus",
+    "correct": false,
+    "classes": [
+      "dextromethorphan",
+      "diabetes mellitus"
+    ],
+    "probabilities": [
+      0.3289816079183374,
+      0.6710183920816626
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.06844461441366681,
+      0.9315553855863332
+    ],
+    "scaled_confidence": 0.9315553855863332,
+    "confidence": 0.6710183920816626,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "34e36f9a379d9b8c91ea3532216bb9aa37d32670ca1b189a2dca56a01612753f",
+    "sf": "OP",
+    "gold": "occiput posterior",
+    "prediction": "oropharynx",
+    "correct": false,
+    "classes": [
+      "oblique presentation/occiput posterior",
+      "operative",
+      "ophthalmic",
+      "oropharynx"
+    ],
+    "probabilities": [
+      0.10193380332196304,
+      0.092220315521101,
+      0.03203985632917838,
+      0.7738060248277576
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.000595849308931855,
+      0.0004128905361671197,
+      8.592258568014122e-06,
+      0.998982667896333
+    ],
+    "scaled_confidence": 0.998982667896333,
+    "confidence": 0.7738060248277576,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "7fec4373c4895d99541e3a142cb4744d5d1d5260eaac78efe51325a15539569a",
+    "sf": "MS",
+    "gold": "master of science",
+    "prediction": "multiple sclerosis",
+    "correct": false,
+    "classes": [
+      "morphine sulfate",
+      "multiple sclerosis"
+    ],
+    "probabilities": [
+      0.2556321533327245,
+      0.7443678466672755
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.019554629825619157,
+      0.9804453701743807
+    ],
+    "scaled_confidence": 0.9804453701743807,
+    "confidence": 0.7443678466672755,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "66c080c38ec8ef28c2ce068a288dee5468a228c08707a7a5b53153ffa6e1682a",
+    "sf": "FSH",
+    "gold": "fascioscapulohumeral muscular dystrophy",
+    "prediction": "follicle-stimulating hormone",
+    "correct": false,
+    "classes": [
+      "fairview southdale hospital",
+      "follicle-stimulating hormone"
+    ],
+    "probabilities": [
+      0.4166790505895016,
+      0.5833209494104984
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.22578841074279765,
+      0.7742115892572023
+    ],
+    "scaled_confidence": 0.7742115892572023,
+    "confidence": 0.5833209494104984,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "adce739e2359acecfcb58cc30855145dd53ce435aacba25849aca650a69b3172",
+    "sf": "PR",
+    "gold": "(drug) pr",
+    "prediction": "per rectum",
+    "correct": false,
+    "classes": [
+      "per rectum",
+      "pr interval",
+      "progesterone receptor",
+      "pulmonary regurgitation"
+    ],
+    "probabilities": [
+      0.6820025209306253,
+      0.16586804380684192,
+      0.0967993968244426,
+      0.05533003843809011
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9935215779996143,
+      0.005599218923084946,
+      0.0007788123158324954,
+      0.00010039076146830634
+    ],
+    "scaled_confidence": 0.9935215779996143,
+    "confidence": 0.6820025209306253,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "2a2c169120de6381e316b511236c8758127d71d252ac4cb52cdc81c0ae497872",
+    "sf": "PD",
+    "gold": "prism diopter",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.11145096381371922,
+      0.4388149620558567,
+      0.12238105706686642,
+      0.13961501848957944,
+      0.1877379985739782
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.00614123786907168,
+      0.929717454712006,
+      0.008651217008160477,
+      0.014017016329379486,
+      0.041473074081382504
+    ],
+    "scaled_confidence": 0.929717454712006,
+    "confidence": 0.4388149620558567,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "9782f117946373577e54f2efbb1f8eb115a577a22bafde86f3bd767c4a8a32e9",
+    "sf": "CVP",
+    "gold": "cardiovascular pulmonary",
+    "prediction": "central venous pressure",
+    "correct": false,
+    "classes": [
+      "central venous pressure",
+      "cyclophosphamide, vincristine, prednisone"
+    ],
+    "probabilities": [
+      0.6951302226444462,
+      0.3048697773555537
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9534224805429884,
+      0.04657751945701151
+    ],
+    "scaled_confidence": 0.9534224805429884,
+    "confidence": 0.6951302226444462,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "106c8fd0885707a4168d8935ef64f16410548a897d19f3d2adce36b10517ee7b",
+    "sf": "AVR",
+    "gold": "rapid ventricular response:rvr",
+    "prediction": "augmented voltage right arm",
+    "correct": false,
+    "classes": [
+      "aortic valve regurgitation",
+      "aortic valve replacement",
+      "augmented voltage right arm"
+    ],
+    "probabilities": [
+      0.05728852309386268,
+      0.3465698165793264,
+      0.5961416603268109
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.00016519685731614746,
+      0.12058801664919416,
+      0.8792467864934896
+    ],
+    "scaled_confidence": 0.8792467864934896,
+    "confidence": 0.5961416603268109,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "d69e2edac65d6e0869fca901c2ce182b0d49792bd3a2f4534cba05cdaec829b1",
+    "sf": "PD",
+    "gold": "parkinson disease",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.12852920385236577,
+      0.5127177344248263,
+      0.06952447867908161,
+      0.15049789464116156,
+      0.13873068840256478
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.006133948083041402,
+      0.9741727410688575,
+      0.0006460527508230872,
+      0.01093319988993266,
+      0.00811405820734522
+    ],
+    "scaled_confidence": 0.9741727410688575,
+    "confidence": 0.5127177344248263,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "dd15bd76df4d642de8bb288681d41d2122bc13ab86459d7770aae116f5710fbf",
+    "sf": "AC",
+    "gold": "alternating current",
+    "prediction": "acromioclavicular",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.21686330978482743,
+      0.25333353446315005,
+      0.24446136039193264,
+      0.08538836351475046,
+      0.1999534318453393
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.19632495297690492,
+      0.34692794227325563,
+      0.30445982583499237,
+      0.006461251400779911,
+      0.14582602751406717
+    ],
+    "scaled_confidence": 0.34692794227325563,
+    "confidence": 0.25333353446315005,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "960bb492716898052cdb8840ee244ec06ce7ef590a8cbf932350508371a8284a",
+    "sf": "DT",
+    "gold": "deep vein thrombosis:dvt",
+    "prediction": "delirium tremens",
+    "correct": false,
+    "classes": [
+      "delirium tremens",
+      "diphtheria-tetanus",
+      "dorsalis pedis:dp"
+    ],
+    "probabilities": [
+      0.4432534916704178,
+      0.41858717543783186,
+      0.1381593328917504
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.5480068152716234,
+      0.4443300123234207,
+      0.007663172404955875
+    ],
+    "scaled_confidence": 0.5480068152716234,
+    "confidence": 0.4432534916704178,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "4c00224b59931771a223bd970ec415babc471641ceebdc3b527182b7a64655f7",
+    "sf": "PD",
+    "gold": "dorsalis pedis:dp",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.10915436365952652,
+      0.44835340723829276,
+      0.08537627675556429,
+      0.12296954573044683,
+      0.23414640661616956
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0050994579087844565,
+      0.9014631983118376,
+      0.0020734236592784387,
+      0.007890382520125687,
+      0.0834735375999738
+    ],
+    "scaled_confidence": 0.9014631983118376,
+    "confidence": 0.44835340723829276,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "78157e3249c1754103064720dfbe5ef5bd638ddc0d0ea943ffc6aa6f8bb3aebe",
+    "sf": "DC",
+    "gold": "(drug) dc",
+    "prediction": "discontinue",
+    "correct": false,
+    "classes": [
+      "direct current",
+      "discharge",
+      "discontinue",
+      "district of columbia"
+    ],
+    "probabilities": [
+      0.2696089996691364,
+      0.18124689878974326,
+      0.43806735898678956,
+      0.11107674255433082
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.13908330837822008,
+      0.03247678777547016,
+      0.8230362677235209,
+      0.005403636122788903
+    ],
+    "scaled_confidence": 0.8230362677235209,
+    "confidence": 0.43806735898678956,
+    "pool": 4,
+    "passes": false
+  },
+  {
+    "id": "70b16c94c8038aed8c44c7bc0da3e48158c6d4ce0da6dab673a1fc74e20d5997",
+    "sf": "AB",
+    "gold": "atrioventricular:av",
+    "prediction": "abortion",
+    "correct": false,
+    "classes": [
+      "abortion",
+      "blood group in abo system",
+      "type a, type b"
+    ],
+    "probabilities": [
+      0.6383967776507232,
+      0.24062806552582103,
+      0.12097515682345567
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9705838491203594,
+      0.027223143571795165,
+      0.0021930073078452353
+    ],
+    "scaled_confidence": 0.9705838491203594,
+    "confidence": 0.6383967776507232,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "0b20dcb2cd17778741cb3d104b168301129699b44346fc988249b0f4ddf85880",
+    "sf": "MP",
+    "gold": "mesangial proliferative",
+    "prediction": "mercaptopurine",
+    "correct": false,
+    "classes": [
+      "(device) mp",
+      "mercaptopurine",
+      "metabolic panel",
+      "metacarpophalangeal",
+      "metarsophalangeal",
+      "metatarsophalangeal",
+      "metatarsophalangeal/metacarpophalangeal",
+      "nurse practitioner:np"
+    ],
+    "probabilities": [
+      0.04372744927184025,
+      0.3355599100650736,
+      0.08005789818695318,
+      0.1389130467521106,
+      0.05292643342664869,
+      0.11895757986202408,
+      0.11221648312888265,
+      0.117641199306467
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0005171397330878366,
+      0.902094674041919,
+      0.004738542835544478,
+      0.035669522212160056,
+      0.0010406926086882888,
+      0.020211742411281014,
+      0.01632318050082009,
+      0.019404505656499045
+    ],
+    "scaled_confidence": 0.902094674041919,
+    "confidence": 0.3355599100650736,
+    "pool": 8,
+    "passes": true
+  },
+  {
+    "id": "d56fb1d8523612204a1bbfbb1a278af6235f2f9ce9cf8a8ae6d1e6b860e6ea20",
+    "sf": "IA",
+    "gold": "(class) ia",
+    "prediction": "(stage) ia",
+    "correct": false,
+    "classes": [
+      "(grade) ia",
+      "(stage) ia",
+      "(status) ia",
+      "(type) ia",
+      "intraarterial",
+      "iowa"
+    ],
+    "probabilities": [
+      0.08648209177306128,
+      0.2869503234977561,
+      0.12418853055979527,
+      0.09892343992516699,
+      0.2755382096091188,
+      0.12791740463510162
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.006203537938263899,
+      0.5017938091998906,
+      0.023349053793990313,
+      0.010149594145655735,
+      0.4324826679266208,
+      0.02602133699557862
+    ],
+    "scaled_confidence": 0.5017938091998906,
+    "confidence": 0.2869503234977561,
+    "pool": 6,
+    "passes": false
+  },
+  {
+    "id": "1eed11e37e9054bd7b60e0fc6c6e91f16d812bdaef600859e0c260089d766876",
+    "sf": "SA",
+    "gold": "sinus arrest",
+    "prediction": "sinuatrial",
+    "correct": false,
+    "classes": [
+      "sinuatrial",
+      "slow acting/sustained action"
+    ],
+    "probabilities": [
+      0.6249810815483923,
+      0.3750189184516078
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.8665463058395487,
+      0.13345369416045133
+    ],
+    "scaled_confidence": 0.8665463058395487,
+    "confidence": 0.6249810815483923,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "dd26e84a5e67676285b393c4e1f97cc4573d90d3b2056aeda8f4543a8d1a3743",
+    "sf": "SA",
+    "gold": "saturation",
+    "prediction": "sinuatrial",
+    "correct": false,
+    "classes": [
+      "sinuatrial",
+      "slow acting/sustained action"
+    ],
+    "probabilities": [
+      0.6587281037595205,
+      0.3412718962404795
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9174942231196741,
+      0.08250577688032584
+    ],
+    "scaled_confidence": 0.9174942231196741,
+    "confidence": 0.6587281037595205,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "f257d7d609727af076b73861dea3a05afea72b82b33a0bf3e557ab25816a3232",
+    "sf": "T3",
+    "gold": "t3 (ecg pattern)",
+    "prediction": "triiodothyronine",
+    "correct": false,
+    "classes": [
+      "thoracic (level) 3",
+      "triiodothyronine",
+      "tumor stage 3"
+    ],
+    "probabilities": [
+      0.24321047706977308,
+      0.44434237846692093,
+      0.312447144463306
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.07939179704268345,
+      0.7218759796868423,
+      0.19873222327047438
+    ],
+    "scaled_confidence": 0.7218759796868423,
+    "confidence": 0.44434237846692093,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "61618e905a805aa05ac79e00923eed3731c32b3cdc094c17305fd7278b8afc40",
+    "sf": "ES",
+    "gold": "(drug) es",
+    "prediction": "extra strength",
+    "correct": false,
+    "classes": [
+      "ejection fraction:ef",
+      "enhanced sensitivity",
+      "extra strength"
+    ],
+    "probabilities": [
+      0.03916553605495914,
+      0.05512263245486462,
+      0.9057118314901763
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      1.0083100184291833e-05,
+      3.52573525214081e-05,
+      0.9999546595472942
+    ],
+    "scaled_confidence": 0.9999546595472942,
+    "confidence": 0.9057118314901763,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "327c04aa5caf8eb990ecb68809ab946ec1edefde871b539d9613a508cb75cd10",
+    "sf": "OP",
+    "gold": "ova and parasites",
+    "prediction": "operative",
+    "correct": false,
+    "classes": [
+      "oblique presentation/occiput posterior",
+      "operative",
+      "ophthalmic",
+      "oropharynx"
+    ],
+    "probabilities": [
+      0.3175644884171025,
+      0.3404595036930994,
+      0.05051336937861897,
+      0.2914626385111792
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.3309022382519672,
+      0.42701128066463834,
+      0.0003937488781076706,
+      0.2416927322052868
+    ],
+    "scaled_confidence": 0.42701128066463834,
+    "confidence": 0.3404595036930994,
+    "pool": 4,
+    "passes": false
+  },
+  {
+    "id": "a259e175df803cc92d05a8e9435548ef2f345c319a3b011455f2b612f8f5742d",
+    "sf": "LE",
+    "gold": "sinemet-levodopa",
+    "prediction": "lower extremity",
+    "correct": false,
+    "classes": [
+      "left ventricle:lv",
+      "leukocyte esterase",
+      "lower extremity"
+    ],
+    "probabilities": [
+      0.06904369892122524,
+      0.4232161940853357,
+      0.5077401069934391
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.00044259129441363246,
+      0.33903038268792435,
+      0.6605270260176621
+    ],
+    "scaled_confidence": 0.6605270260176621,
+    "confidence": 0.5077401069934391,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "d390af0dfea49b2f00b29d6201776dcaed64dfdfb0821052625fffdc6883c22f",
+    "sf": "ET",
+    "gold": "enterocutaneous:ec",
+    "prediction": "endotracheal",
+    "correct": false,
+    "classes": [
+      "electrophysiology:ep",
+      "endotracheal",
+      "enterostomal therapy"
+    ],
+    "probabilities": [
+      0.06600532819564765,
+      0.5900123120289613,
+      0.3439823597753911
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0002878362437999046,
+      0.8780312082813918,
+      0.12168095547480828
+    ],
+    "scaled_confidence": 0.8780312082813918,
+    "confidence": 0.5900123120289613,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "057858ed05e322e0a67fcb1b679ff080071eed6f27de5f30aef78da428eedff3",
+    "sf": "PD",
+    "gold": "(drug) pd",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.12799022844603583,
+      0.5485700899397558,
+      0.089428884686775,
+      0.14195625294316558,
+      0.09205454398426782
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.00477067656572213,
+      0.9855480307026969,
+      0.0012831702761801377,
+      0.00697147608469157,
+      0.001426646370709029
+    ],
+    "scaled_confidence": 0.9855480307026969,
+    "confidence": 0.5485700899397558,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "d7a1683365e385da57f7d732033530637d73e654e05a3a7d4343adb01f734b1d",
+    "sf": "LE",
+    "gold": "lupus erythematosus",
+    "prediction": "lower extremity",
+    "correct": false,
+    "classes": [
+      "left ventricle:lv",
+      "leukocyte esterase",
+      "lower extremity"
+    ],
+    "probabilities": [
+      0.044859300746060274,
+      0.28437037360836864,
+      0.6707703256455712
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      4.7737058593728496e-05,
+      0.04135662172791451,
+      0.9585956412134916
+    ],
+    "scaled_confidence": 0.9585956412134916,
+    "confidence": 0.6707703256455712,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "54bd7ba02e8fba4446ed6812dc36f325b78a6f2aa02143662f63287e897b62b8",
+    "sf": "EC",
+    "gold": "epirubicin",
+    "prediction": "enterocutaneous",
+    "correct": false,
+    "classes": [
+      "enteric-coated",
+      "enterocutaneous"
+    ],
+    "probabilities": [
+      0.32768820031666823,
+      0.6723117996833318
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.06708753904537341,
+      0.9329124609546265
+    ],
+    "scaled_confidence": 0.9329124609546265,
+    "confidence": 0.6723117996833318,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "d71cdeb83960d854599f13f4b628c324cf4b82a15104f76ac97357f38d974c3c",
+    "sf": "CTA",
+    "gold": "creatine phosphokinase:cpk",
+    "prediction": "computed tomographic angiography",
+    "correct": false,
+    "classes": [
+      "clear to auscultation",
+      "computed tomographic angiography"
+    ],
+    "probabilities": [
+      0.17387141856124733,
+      0.8261285814387527
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0033075077928740267,
+      0.9966924922071259
+    ],
+    "scaled_confidence": 0.9966924922071259,
+    "confidence": 0.8261285814387527,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "9b288313567c4e885fab7098a882a6190cc98eec4648c3d1d848b279a87adfca",
+    "sf": "T3",
+    "gold": "term 3",
+    "prediction": "triiodothyronine",
+    "correct": false,
+    "classes": [
+      "thoracic (level) 3",
+      "triiodothyronine",
+      "tumor stage 3"
+    ],
+    "probabilities": [
+      0.21470111282201765,
+      0.4089909915275922,
+      0.37630789565039013
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.051529851102581084,
+      0.546014050394231,
+      0.40245609850318786
+    ],
+    "scaled_confidence": 0.546014050394231,
+    "confidence": 0.4089909915275922,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "2d8f4a19d0e932920c9e23ad140b3de2161d45444b6838e550eeac1521907122",
+    "sf": "SS",
+    "gold": "sickle cell genotype ss",
+    "prediction": "single strength",
+    "correct": false,
+    "classes": [
+      "single strength"
+    ],
+    "probabilities": [
+      1.0
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      1.0
+    ],
+    "scaled_confidence": 1.0,
+    "confidence": 1.0,
+    "pool": 1,
+    "passes": true
+  },
+  {
+    "id": "75376e71f31ec51653feb8f929c3fd75d97f6336e4cac4a11a46e75c346dde52",
+    "sf": "SS",
+    "gold": "sickle cell genotype ss",
+    "prediction": "single strength",
+    "correct": false,
+    "classes": [
+      "single strength"
+    ],
+    "probabilities": [
+      1.0
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      1.0
+    ],
+    "scaled_confidence": 1.0,
+    "confidence": 1.0,
+    "pool": 1,
+    "passes": true
+  },
+  {
+    "id": "5cf4f99aff956f5beb52919da2c88da99aaf0798d90ec6920cda679f988a2fc4",
+    "sf": "CDI",
+    "gold": "clean, dry, intact",
+    "prediction": "center for diagnostic imaging",
+    "correct": false,
+    "classes": [
+      "center for diagnostic imaging",
+      "children's depression inventory"
+    ],
+    "probabilities": [
+      0.7778953733351008,
+      0.22210462666489916
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9899603626507288,
+      0.010039637349271179
+    ],
+    "scaled_confidence": 0.9899603626507288,
+    "confidence": 0.7778953733351008,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "f8e06cf63d9b94a6ac67ef11a1bf05ec60f99e930dbae7097681f501633f5ce2",
+    "sf": "SMA",
+    "gold": "smooth muscle antibody",
+    "prediction": "superior mesenteric artery",
+    "correct": false,
+    "classes": [
+      "sequential multiple autoanalyzer",
+      "spinal muscular atrophy",
+      "superior mesenteric artery"
+    ],
+    "probabilities": [
+      0.3346454479378244,
+      0.26712796042034365,
+      0.39822659164183205
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.3003782539860899,
+      0.13158476035405697,
+      0.568036985659853
+    ],
+    "scaled_confidence": 0.568036985659853,
+    "confidence": 0.39822659164183205,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "73d20d401551debd966de6a4585113af0f4591ed623a83837f8c9f2c72c05d3e",
+    "sf": "DC",
+    "gold": "direct and consensual",
+    "prediction": "discontinue",
+    "correct": false,
+    "classes": [
+      "direct current",
+      "discharge",
+      "discontinue",
+      "district of columbia"
+    ],
+    "probabilities": [
+      0.23015163387479354,
+      0.1848877727503598,
+      0.5003732020272691,
+      0.08458739134757755
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.05356601973824555,
+      0.02401788402495689,
+      0.9210463646686294,
+      0.001369731568168114
+    ],
+    "scaled_confidence": 0.9210463646686294,
+    "confidence": 0.5003732020272691,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "ea2faa2f8b71579dfd77988c215e8f9d61ac63956630e27dd2540f24eb12538a",
+    "sf": "CVS",
+    "gold": "customer, value, service",
+    "prediction": "chorionic villus sampling",
+    "correct": false,
+    "classes": [
+      "cardiovascular system",
+      "chorionic villus sampling"
+    ],
+    "probabilities": [
+      0.3862882735186566,
+      0.6137117264813434
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.15503217194347463,
+      0.8449678280565254
+    ],
+    "scaled_confidence": 0.8449678280565254,
+    "confidence": 0.6137117264813434,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "7787bc23cff34eebe924c12bf12c93b40350108cefff6ecb6e98f7054f8706ac",
+    "sf": "SS",
+    "gold": "sickle cell genotype ss",
+    "prediction": "single strength",
+    "correct": false,
+    "classes": [
+      "single strength"
+    ],
+    "probabilities": [
+      1.0
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      1.0
+    ],
+    "scaled_confidence": 1.0,
+    "confidence": 1.0,
+    "pool": 1,
+    "passes": true
+  },
+  {
+    "id": "4273884027b35192f67b10c8e4c28b873c19aab95708a403af828aeee8773181",
+    "sf": "LE",
+    "gold": "lymphedema",
+    "prediction": "lower extremity",
+    "correct": false,
+    "classes": [
+      "left ventricle:lv",
+      "leukocyte esterase",
+      "lower extremity"
+    ],
+    "probabilities": [
+      0.04696668810585327,
+      0.34258445244530333,
+      0.6104488594488434
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      7.424944002580633e-05,
+      0.10755129292943538,
+      0.8923744576305388
+    ],
+    "scaled_confidence": 0.8923744576305388,
+    "confidence": 0.6104488594488434,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "4609caf455c1c20c121690975ddaa314579b027ef74b10e3a92adebd19242442",
+    "sf": "NP",
+    "gold": "(drug) np",
+    "prediction": "nurse practitioner",
+    "correct": false,
+    "classes": [
+      "nasopharyngeal",
+      "nurse practitioner"
+    ],
+    "probabilities": [
+      0.22448431828232274,
+      0.7755156817176773
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.010551642179168192,
+      0.989448357820832
+    ],
+    "scaled_confidence": 0.989448357820832,
+    "confidence": 0.7755156817176773,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "fa5641af2189a965ec3df9f132f7ffffb56a0f0b940c0ff02ba551b57e4c7e45",
+    "sf": "SA",
+    "gold": "methicillin-susceptible staphylococcus aureus:mssa",
+    "prediction": "sinuatrial",
+    "correct": false,
+    "classes": [
+      "sinuatrial",
+      "slow acting/sustained action"
+    ],
+    "probabilities": [
+      0.6571403366035016,
+      0.3428596633964985
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9155168726345261,
+      0.084483127365474
+    ],
+    "scaled_confidence": 0.9155168726345261,
+    "confidence": 0.6571403366035016,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "0ccce4086a4c473f1ed459ccae1d6c5c677a5c60dded5e483ee89a6175e6cf4e",
+    "sf": "AC",
+    "gold": "angiotensin-converting enzyme:ace",
+    "prediction": "(drug) ac",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.3562481769841718,
+      0.1950694226778798,
+      0.1998620042388184,
+      0.06368122532473888,
+      0.1851391707743911
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.7556868046048526,
+      0.08323095872195296,
+      0.0909692702776716,
+      0.001378823152821759,
+      0.06873414324270101
+    ],
+    "scaled_confidence": 0.7556868046048526,
+    "confidence": 0.3562481769841718,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "903960cf3bc2a7dd8998bd8b018ee7320a874afe3b2182454cbc9c1034a3dc62",
+    "sf": "AC",
+    "gold": "antecubital",
+    "prediction": "assist control",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.15481835835871494,
+      0.24440876281090443,
+      0.17092321416461478,
+      0.31326858266835805,
+      0.11658108199740785
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.04687439669718245,
+      0.24960304141311004,
+      0.06735317365095302,
+      0.6195850467299608,
+      0.016584341508793784
+    ],
+    "scaled_confidence": 0.6195850467299608,
+    "confidence": 0.31326858266835805,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "bfa3c335cf29689a7a3414690a5dd198922b21d21963a1152502c88678b15ce0",
+    "sf": "AB",
+    "gold": "atrioventricular:av",
+    "prediction": "abortion",
+    "correct": false,
+    "classes": [
+      "abortion",
+      "blood group in abo system",
+      "type a, type b"
+    ],
+    "probabilities": [
+      0.5681950962320684,
+      0.3349669277164709,
+      0.0968379760514606
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.8726939067645909,
+      0.12596897463824935,
+      0.001337118597159637
+    ],
+    "scaled_confidence": 0.8726939067645909,
+    "confidence": 0.5681950962320684,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "ae7006630663ae6d0b94133c61bde1cff3af19663dd60fda66fa063f6c7b8d1d",
+    "sf": "RT",
+    "gold": "right",
+    "prediction": "radiation therapy",
+    "correct": false,
+    "classes": [
+      "radiation therapy",
+      "respiratory therapy",
+      "retrograde tachycardia"
+    ],
+    "probabilities": [
+      0.712236985230163,
+      0.2278833824102998,
+      0.05987963235953719
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9847318148188716,
+      0.015154806011546312,
+      0.00011337916958201773
+    ],
+    "scaled_confidence": 0.9847318148188716,
+    "confidence": 0.712236985230163,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "d136b554098f5aa33436019c7465ca5b8a8ecea8fe66714db4f3a68ccfef3cfb",
+    "sf": "ASA",
+    "gold": "aminosalicylic acid",
+    "prediction": "acetylsalicylic acid",
+    "correct": false,
+    "classes": [
+      "acetylsalicylic acid",
+      "american society of anesthesiologists"
+    ],
+    "probabilities": [
+      0.6477567631030078,
+      0.3522432368969922
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9030303990188274,
+      0.09696960098117254
+    ],
+    "scaled_confidence": 0.9030303990188274,
+    "confidence": 0.6477567631030078,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "d4ce481041860242e50dd2a698771ee4ae9fc961368107260a70cba126c360d8",
+    "sf": "DT",
+    "gold": "doppler echo:de",
+    "prediction": "delirium tremens",
+    "correct": false,
+    "classes": [
+      "delirium tremens",
+      "diphtheria-tetanus",
+      "dorsalis pedis:dp"
+    ],
+    "probabilities": [
+      0.5501294776216928,
+      0.3434966088863842,
+      0.10637391349192285
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.8470350743231043,
+      0.15090423938260428,
+      0.0020606862942914644
+    ],
+    "scaled_confidence": 0.8470350743231043,
+    "confidence": 0.5501294776216928,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "55be4af7622538a477322711bc893cbe6d63d39df2779a318cec4558dc4989a1",
+    "sf": "PA",
+    "gold": "pulmonary embolus:pe",
+    "prediction": "posterior-anterior",
+    "correct": false,
+    "classes": [
+      "physician assistant",
+      "physician associates",
+      "posterior-anterior",
+      "pulmonary artery"
+    ],
+    "probabilities": [
+      0.20686242592007684,
+      0.1318121783124886,
+      0.4819883551762676,
+      0.17933704059116692
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.04176466497829414,
+      0.008014967885617898,
+      0.9254648326475987,
+      0.024755534488489224
+    ],
+    "scaled_confidence": 0.9254648326475987,
+    "confidence": 0.4819883551762676,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "d16d5b887e727805df4d30a5df00fc86aca377bbe98fceb2d89bb36ca523aeac",
+    "sf": "IB",
+    "gold": "intravenous:iv",
+    "prediction": "(stage) ib",
+    "correct": false,
+    "classes": [
+      "(grade) ib",
+      "(stage) ib",
+      "(status) ib",
+      "international baccalaureate"
+    ],
+    "probabilities": [
+      0.12827588589753608,
+      0.7225292428360706,
+      0.10336527533159834,
+      0.045829595934795006
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0017748091694552097,
+      0.9973794746150473,
+      0.0008048014783377462,
+      4.0914737159618796e-05
+    ],
+    "scaled_confidence": 0.9973794746150473,
+    "confidence": 0.7225292428360706,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "031e983928ed7ba22bf9abc38c678de7adb215f7db402f198da1ae7858632eb9",
+    "sf": "IA",
+    "gold": "transient ischemic attack:tia",
+    "prediction": "(stage) ia",
+    "correct": false,
+    "classes": [
+      "(grade) ia",
+      "(stage) ia",
+      "(status) ia",
+      "(type) ia",
+      "intraarterial",
+      "iowa"
+    ],
+    "probabilities": [
+      0.16502528715308304,
+      0.26191085201397196,
+      0.069362839982709,
+      0.06433102153906388,
+      0.25179343272277394,
+      0.18757656658839825
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.07811353831086072,
+      0.424127811815899,
+      0.003265566134487322,
+      0.0024783413429561117,
+      0.36713805888116363,
+      0.12487668351463331
+    ],
+    "scaled_confidence": 0.424127811815899,
+    "confidence": 0.26191085201397196,
+    "pool": 6,
+    "passes": false
+  },
+  {
+    "id": "f098293f3de3b57c49c05882ac745f972a4a91f8507e2ffc218a0d96144fe0b0",
+    "sf": "DT",
+    "gold": "deep vein thrombosis:dvt",
+    "prediction": "delirium tremens",
+    "correct": false,
+    "classes": [
+      "delirium tremens",
+      "diphtheria-tetanus",
+      "dorsalis pedis:dp"
+    ],
+    "probabilities": [
+      0.4483106323639233,
+      0.40015198858136797,
+      0.1515373790547087
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.5958284574416576,
+      0.3929585596167957,
+      0.011212982941546584
+    ],
+    "scaled_confidence": 0.5958284574416576,
+    "confidence": 0.4483106323639233,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "5bf3717522f3b94ee3d2f6c1284805cde342148910f4ed1f0b0f7083e0903cb4",
+    "sf": "T3",
+    "gold": "term 3",
+    "prediction": "triiodothyronine",
+    "correct": false,
+    "classes": [
+      "thoracic (level) 3",
+      "triiodothyronine",
+      "tumor stage 3"
+    ],
+    "probabilities": [
+      0.2101436448451779,
+      0.503936183634148,
+      0.28592017152067406
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.03482785088744707,
+      0.8575878869412924,
+      0.10758426217126063
+    ],
+    "scaled_confidence": 0.8575878869412924,
+    "confidence": 0.503936183634148,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "a44f64860e9fef456f9bc2f61eec57b007caf2acf6cb5b45003f27b89fdb2a73",
+    "sf": "IT",
+    "gold": "inspiratory time",
+    "prediction": "intrathecal",
+    "correct": false,
+    "classes": [
+      "iliotibial",
+      "information technology",
+      "intertrochanteric",
+      "intrathecal",
+      "ischial tuberosity"
+    ],
+    "probabilities": [
+      0.16234575286839376,
+      0.21983624253815404,
+      0.12466497272336975,
+      0.3075663481895205,
+      0.18558668368056197
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.060851547771052485,
+      0.18471877768960884,
+      0.023129184557656456,
+      0.6319654746991836,
+      0.09933501528249845
+    ],
+    "scaled_confidence": 0.6319654746991836,
+    "confidence": 0.3075663481895205,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "5699300487749e03e4477f3d5ed0f118fdad5812981cc0d8dcdc19d867484c9b",
+    "sf": "ES",
+    "gold": "erythrocyte sedimentation rate:esr",
+    "prediction": "extra strength",
+    "correct": false,
+    "classes": [
+      "ejection fraction:ef",
+      "enhanced sensitivity",
+      "extra strength"
+    ],
+    "probabilities": [
+      0.2101958065138387,
+      0.24893402204227563,
+      0.5408701714438857
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.028789803120043037,
+      0.05349453312056079,
+      0.9177156637593963
+    ],
+    "scaled_confidence": 0.9177156637593963,
+    "confidence": 0.5408701714438857,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "8f5fecff47bf30fc97be8afe9dad525a95eadd608fee3f5e1bbf59851bfd8374",
+    "sf": "PD",
+    "gold": "purified protein derivative:ppd",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.10522995874862302,
+      0.4886580415199,
+      0.08468206840643915,
+      0.18466146783495482,
+      0.136768463490083
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.003460374972071563,
+      0.9587924477218349,
+      0.0015615096663214036,
+      0.02714664686246116,
+      0.009039020777310808
+    ],
+    "scaled_confidence": 0.9587924477218349,
+    "confidence": 0.4886580415199,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "58b4ad027cfdb3acacdf2cdbed0d098332d289d5a49d4c8906eb14830370f97f",
+    "sf": "LA",
+    "gold": "louisiana",
+    "prediction": "long-acting",
+    "correct": false,
+    "classes": [
+      "left atrial",
+      "long-acting",
+      "los angeles"
+    ],
+    "probabilities": [
+      0.2895431900508358,
+      0.3705779694580759,
+      0.33987884049108835
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.18983263048429866,
+      0.4687058055063826,
+      0.34146156400931876
+    ],
+    "scaled_confidence": 0.4687058055063826,
+    "confidence": 0.3705779694580759,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "4e93c2e64ba8e898d040655a1142d5d0a292aa97c50f7aaa4f214a369b41d076",
+    "sf": "LE",
+    "gold": "lupus erythematosus",
+    "prediction": "lower extremity",
+    "correct": false,
+    "classes": [
+      "left ventricle:lv",
+      "leukocyte esterase",
+      "lower extremity"
+    ],
+    "probabilities": [
+      0.05493956914661852,
+      0.3558647884596635,
+      0.589195642393718
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.00014529888033685168,
+      0.1362274316637216,
+      0.8636272694559416
+    ],
+    "scaled_confidence": 0.8636272694559416,
+    "confidence": 0.589195642393718,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "e03a16fe3a4c9e1eee370070b15ff089b7bdd35120a77842e6ab2a708c37b8d2",
+    "sf": "IB",
+    "gold": "interferon beta",
+    "prediction": "(stage) ib",
+    "correct": false,
+    "classes": [
+      "(grade) ib",
+      "(stage) ib",
+      "(status) ib",
+      "international baccalaureate"
+    ],
+    "probabilities": [
+      0.14650731996727406,
+      0.6994257444216723,
+      0.09474459835550923,
+      0.059322337255544456
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0032481234084658,
+      0.9959754172476004,
+      0.000658028912465901,
+      0.00011843043146793965
+    ],
+    "scaled_confidence": 0.9959754172476004,
+    "confidence": 0.6994257444216723,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "3daa4756ef20e28a178713b924696817a043c49bba44746e635c2320a6ab733c",
+    "sf": "T2",
+    "gold": "term 2",
+    "prediction": "thoracic (level) 2",
+    "correct": false,
+    "classes": [
+      "t2 (mri)",
+      "thoracic (level) 2",
+      "tumor stage 2"
+    ],
+    "probabilities": [
+      0.1684771164081877,
+      0.4640511789158208,
+      0.36747170467599144
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.01686350574562033,
+      0.6897237907504716,
+      0.2934127035039081
+    ],
+    "scaled_confidence": 0.6897237907504716,
+    "confidence": 0.4640511789158208,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "6a1ac017ed5cc9fde563782b4cb39da15ea08c9ab2bee566d6fb71fa7d94cd16",
+    "sf": "OR",
+    "gold": "(drug) or",
+    "prediction": "operating room",
+    "correct": false,
+    "classes": [
+      "operating room"
+    ],
+    "probabilities": [
+      1.0
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      1.0
+    ],
+    "scaled_confidence": 1.0,
+    "confidence": 1.0,
+    "pool": 1,
+    "passes": true
+  },
+  {
+    "id": "311db4c603ba2c960a7752e18b623c201173a39d1de607df4f6cf3bc5b7eca61",
+    "sf": "PD",
+    "gold": "pulmonary embolus:pe",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.09712532134222222,
+      0.5458770667619913,
+      0.10567871495639311,
+      0.13845577709376394,
+      0.11286311984562937
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.001769131926433848,
+      0.9862716407360652,
+      0.0024100201951970895,
+      0.006482678060658353,
+      0.003066529081645399
+    ],
+    "scaled_confidence": 0.9862716407360652,
+    "confidence": 0.5458770667619913,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "a2d76d45a9fabc6370499f91753b6923c6baf7d804992725d2475404d4f0a289",
+    "sf": "LE",
+    "gold": "lymphedema",
+    "prediction": "leukocyte esterase",
+    "correct": false,
+    "classes": [
+      "left ventricle:lv",
+      "leukocyte esterase",
+      "lower extremity"
+    ],
+    "probabilities": [
+      0.04674076827714612,
+      0.5521300193920577,
+      0.4011292123307963
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      9.011534034071507e-05,
+      0.7631245526690963,
+      0.236785331990563
+    ],
+    "scaled_confidence": 0.7631245526690963,
+    "confidence": 0.5521300193920577,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "e69bb878864a497132bc2615720075e2fb19df4b99d2525ccb727a4135155d39",
+    "sf": "CA",
+    "gold": "california",
+    "prediction": "cancer",
+    "correct": false,
+    "classes": [
+      "cancer",
+      "carbohydrate antigen"
+    ],
+    "probabilities": [
+      0.67739750887533,
+      0.32260249112467
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9380344764779456,
+      0.06196552352205447
+    ],
+    "scaled_confidence": 0.9380344764779456,
+    "confidence": 0.67739750887533,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "a238cdb55fb988c213837ad3a613ecc3a9db9af7fcc9f69d664c5b3419564cca",
+    "sf": "NP",
+    "gold": "natriuretic peptide",
+    "prediction": "nurse practitioner",
+    "correct": false,
+    "classes": [
+      "nasopharyngeal",
+      "nurse practitioner"
+    ],
+    "probabilities": [
+      0.4595976181767406,
+      0.5404023818232594
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.3558921977780179,
+      0.644107802221982
+    ],
+    "scaled_confidence": 0.644107802221982,
+    "confidence": 0.5404023818232594,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "6989795e246077ccb9c41ffd917a07ad1fb4714c4ac5336c14913ae32cc47072",
+    "sf": "MP",
+    "gold": "menstrual period",
+    "prediction": "mercaptopurine",
+    "correct": false,
+    "classes": [
+      "(device) mp",
+      "mercaptopurine",
+      "metabolic panel",
+      "metacarpophalangeal",
+      "metarsophalangeal",
+      "metatarsophalangeal",
+      "metatarsophalangeal/metacarpophalangeal",
+      "nurse practitioner:np"
+    ],
+    "probabilities": [
+      0.06356034230261633,
+      0.25080323150938205,
+      0.13437295177231706,
+      0.1529791280077657,
+      0.0701604336769413,
+      0.1251004190654364,
+      0.10448323006724956,
+      0.09854026359829161
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0045741731918140524,
+      0.6980471869883917,
+      0.0709881172121249,
+      0.11415008543474923,
+      0.006568545615921448,
+      0.05463162421432598,
+      0.028246709517934423,
+      0.022793557824738197
+    ],
+    "scaled_confidence": 0.6980471869883917,
+    "confidence": 0.25080323150938205,
+    "pool": 8,
+    "passes": false
+  },
+  {
+    "id": "8e149be2aca00c7a49684ace5238535a9267ee0bf924d93fecd29a27f036dff8",
+    "sf": "IA",
+    "gold": "(class) ia",
+    "prediction": "(stage) ia",
+    "correct": false,
+    "classes": [
+      "(grade) ia",
+      "(stage) ia",
+      "(status) ia",
+      "(type) ia",
+      "intraarterial",
+      "iowa"
+    ],
+    "probabilities": [
+      0.09607040412254705,
+      0.38162054191671324,
+      0.07372144469444385,
+      0.07781137719812689,
+      0.23687177784510152,
+      0.13390445422306751
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.005295067788742263,
+      0.828034363577426,
+      0.002007538839985559,
+      0.002446550203270313,
+      0.14434879117573696,
+      0.01786768841483869
+    ],
+    "scaled_confidence": 0.828034363577426,
+    "confidence": 0.38162054191671324,
+    "pool": 6,
+    "passes": false
+  },
+  {
+    "id": "ded6eb42b46ff89f9c9f2f678c44f4d4578ac752062759e3a07fc30428701784",
+    "sf": "CVS",
+    "gold": "customer, value, service",
+    "prediction": "chorionic villus sampling",
+    "correct": false,
+    "classes": [
+      "cardiovascular system",
+      "chorionic villus sampling"
+    ],
+    "probabilities": [
+      0.3798787100185824,
+      0.6201212899814176
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.14245990077028203,
+      0.857540099229718
+    ],
+    "scaled_confidence": 0.857540099229718,
+    "confidence": 0.6201212899814176,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "ab8f20cb973035c2eeeedae11ebee6d4042ea22ec8dfa9cdef0e13faee6f30c4",
+    "sf": "PAC",
+    "gold": "prostate-specific antigen:psa",
+    "prediction": "premature atrial contraction",
+    "correct": false,
+    "classes": [
+      "patient-controlled analgesia:pca",
+      "physician assistant certification",
+      "picture archiving communication",
+      "post anesthesia care",
+      "premature atrial contraction"
+    ],
+    "probabilities": [
+      0.07246859241765664,
+      0.20695407439060484,
+      0.13944390840698284,
+      0.12058362533231021,
+      0.46054979945244534
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0010643729084355586,
+      0.049696328635124035,
+      0.011701626222956266,
+      0.006871980506650507,
+      0.9306656917268336
+    ],
+    "scaled_confidence": 0.9306656917268336,
+    "confidence": 0.46054979945244534,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "c09d9bd1f1d9f6be36c1a011aaf5e852f50d64523b5a001dd243a6b4a258a875",
+    "sf": "ASA",
+    "gold": "aminosalicylic acid",
+    "prediction": "acetylsalicylic acid",
+    "correct": false,
+    "classes": [
+      "acetylsalicylic acid",
+      "american society of anesthesiologists"
+    ],
+    "probabilities": [
+      0.530794372634797,
+      0.469205627365203
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.6110546073169689,
+      0.388945392683031
+    ],
+    "scaled_confidence": 0.6110546073169689,
+    "confidence": 0.530794372634797,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "1577795a08543e1da4854a887dd25c49d6e660f54251d38585e28ded8a2a3786",
+    "sf": "PR",
+    "gold": "pulse rate",
+    "prediction": "pr interval",
+    "correct": false,
+    "classes": [
+      "per rectum",
+      "pr interval",
+      "progesterone receptor",
+      "pulmonary regurgitation"
+    ],
+    "probabilities": [
+      0.24790931568674754,
+      0.4942478828445217,
+      0.16503139412275603,
+      0.09281140734597468
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.07261335975106134,
+      0.9090430280980195,
+      0.01635693568431323,
+      0.001986676466606092
+    ],
+    "scaled_confidence": 0.9090430280980195,
+    "confidence": 0.4942478828445217,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "e54964868e4c1ffc9fb471b290cf50d2c5d1777af198555d105d344fcf05ec1b",
+    "sf": "C&S",
+    "gold": "carcinosarcoma:cas",
+    "prediction": "protein c and protein s",
+    "correct": false,
+    "classes": [
+      "conjunctivae and sclerae",
+      "culture and sensitivity",
+      "protein c and protein s"
+    ],
+    "probabilities": [
+      0.1508979990196991,
+      0.26347050176805686,
+      0.585631499212244
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.006565583943706406,
+      0.05056509468597678,
+      0.9428693213703168
+    ],
+    "scaled_confidence": 0.9428693213703168,
+    "confidence": 0.585631499212244,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "9eed537d46c8f1094bb13db13550ed4e277a08957b5fbcc48b883bd260ea24c9",
+    "sf": "PD",
+    "gold": "(device) pd",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.1110811363023772,
+      0.6032527223532901,
+      0.07837589944115807,
+      0.10671602273346957,
+      0.10057421916970495
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0020223345806586633,
+      0.9942623943440169,
+      0.0005637572208469593,
+      0.0017461478113847823,
+      0.0014053660430929803
+    ],
+    "scaled_confidence": 0.9942623943440169,
+    "confidence": 0.6032527223532901,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "94f73393c7f275440251b81fca0c4546896d03a8869b31a4f2b5340be5a005ac",
+    "sf": "AVR",
+    "gold": "rapid ventricular response:rvr",
+    "prediction": "aortic valve replacement",
+    "correct": false,
+    "classes": [
+      "aortic valve regurgitation",
+      "aortic valve replacement",
+      "augmented voltage right arm"
+    ],
+    "probabilities": [
+      0.04716238963478478,
+      0.5601813788082552,
+      0.39265623155695994
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      9.096815691052097e-05,
+      0.7860144151634714,
+      0.21389461667961793
+    ],
+    "scaled_confidence": 0.7860144151634714,
+    "confidence": 0.5601813788082552,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "8cb1cefd890610b0c955f7c6371d7dbba1170d78dbf69bf387d45c22af3cf68c",
+    "sf": "ALD",
+    "gold": "acetyl lysergic acid diethylamide",
+    "prediction": "adrenoleukodystrophy",
+    "correct": false,
+    "classes": [
+      "ad lib on demand",
+      "adrenoleukodystrophy"
+    ],
+    "probabilities": [
+      0.2864437801667914,
+      0.7135562198332086
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.03412134505404686,
+      0.965878654945953
+    ],
+    "scaled_confidence": 0.965878654945953,
+    "confidence": 0.7135562198332086,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "c9cc63af07cb4b0a57755415a6fcfd6d9384c2a3ffafb516a57e42093f964d30",
+    "sf": "AC",
+    "gold": "abdominal circumference",
+    "prediction": "acromioclavicular",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.20114638208792857,
+      0.2766611205401075,
+      0.22854001686277314,
+      0.08054039844228929,
+      0.21311208206690152
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.1412207085310152,
+      0.4539025847086425,
+      0.22542456908861205,
+      0.0049423957375873614,
+      0.17450974193414306
+    ],
+    "scaled_confidence": 0.4539025847086425,
+    "confidence": 0.2766611205401075,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "eca3c5e12016f26567a63dbeae8bf82cc49f2cf24bd7b1398fea5cb391e62110",
+    "sf": "MS",
+    "gold": "musculoskeletal",
+    "prediction": "morphine sulfate",
+    "correct": false,
+    "classes": [
+      "morphine sulfate",
+      "multiple sclerosis"
+    ],
+    "probabilities": [
+      0.5416085413570577,
+      0.45839145864294223
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.648175639886111,
+      0.3518243601138889
+    ],
+    "scaled_confidence": 0.648175639886111,
+    "confidence": 0.5416085413570577,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "b9fdf3cd53658cac7994b6c44269e414d75e011c544eb555a101d2b6beb75126",
+    "sf": "SMA",
+    "gold": "smooth muscle antibody",
+    "prediction": "superior mesenteric artery",
+    "correct": false,
+    "classes": [
+      "sequential multiple autoanalyzer",
+      "spinal muscular atrophy",
+      "superior mesenteric artery"
+    ],
+    "probabilities": [
+      0.26386686393250086,
+      0.23616148191038258,
+      0.4999716541571164
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.08293967991736367,
+      0.05524635652273524,
+      0.8618139635599011
+    ],
+    "scaled_confidence": 0.8618139635599011,
+    "confidence": 0.4999716541571164,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "dd79ed0a5c3866673e1e6b6a7e834f5473cca75b5fc61d36bc8c573603f9207a",
+    "sf": "MS",
+    "gold": "medical student",
+    "prediction": "multiple sclerosis",
+    "correct": false,
+    "classes": [
+      "morphine sulfate",
+      "multiple sclerosis"
+    ],
+    "probabilities": [
+      0.3295771558428592,
+      0.6704228441571408
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.06907706181388866,
+      0.9309229381861113
+    ],
+    "scaled_confidence": 0.9309229381861113,
+    "confidence": 0.6704228441571408,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "04fed0d6f51357a045f08283b5dd5ed9c34967881ce660b03a9a5fb9038116cf",
+    "sf": "CDI",
+    "gold": "clean, dry, intact",
+    "prediction": "center for diagnostic imaging",
+    "correct": false,
+    "classes": [
+      "center for diagnostic imaging",
+      "children's depression inventory"
+    ],
+    "probabilities": [
+      0.7156586680647681,
+      0.284341331935232
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.967101454887559,
+      0.03289854511244107
+    ],
+    "scaled_confidence": 0.967101454887559,
+    "confidence": 0.7156586680647681,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "5eebe20df2fa7ffcae3d44889a780dffa1748d1c1410a1ff5a72800805ce3739",
+    "sf": "AVR",
+    "gold": "rapid ventricular response:rvr",
+    "prediction": "aortic valve replacement",
+    "correct": false,
+    "classes": [
+      "aortic valve regurgitation",
+      "aortic valve replacement",
+      "augmented voltage right arm"
+    ],
+    "probabilities": [
+      0.039139418222358835,
+      0.7627162692219005,
+      0.19814431255574075
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      1.8740614685029395e-05,
+      0.9928568896380526,
+      0.007124369747262296
+    ],
+    "scaled_confidence": 0.9928568896380526,
+    "confidence": 0.7627162692219005,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "4d55cca90e3a8894613d0ab64e6f6714640ac9da2f81063eb866eb78b3881702",
+    "sf": "CR",
+    "gold": "c-reactive",
+    "prediction": "controlled release",
+    "correct": false,
+    "classes": [
+      "cardiorespiratory",
+      "complete remission",
+      "controlled release"
+    ],
+    "probabilities": [
+      0.3467891265049177,
+      0.21176323421819152,
+      0.44144763927689074
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.278960133032761,
+      0.04580510246797334,
+      0.6752347644992657
+    ],
+    "scaled_confidence": 0.6752347644992657,
+    "confidence": 0.44144763927689074,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "b12f5240d466ce2597be24cddaf5fdb824eb1d33061567428cbe3bb07f4ef19f",
+    "sf": "C4",
+    "gold": "(po box) c4",
+    "prediction": "cervical (level) 4",
+    "correct": false,
+    "classes": [
+      "(complement) component 4",
+      "cervical (level) 4",
+      "cluster of differentiation 4:cd4"
+    ],
+    "probabilities": [
+      0.29953457859410687,
+      0.6447360314991949,
+      0.0557293899066983
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.056889242713614126,
+      0.9429905720183629,
+      0.00012018526802287294
+    ],
+    "scaled_confidence": 0.9429905720183629,
+    "confidence": 0.6447360314991949,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "e7730cb78949763770d1097212be1f1bdb9f2d2509064558c172cd9d53cbcb78",
+    "sf": "MS",
+    "gold": "mitral stenosis",
+    "prediction": "multiple sclerosis",
+    "correct": false,
+    "classes": [
+      "morphine sulfate",
+      "multiple sclerosis"
+    ],
+    "probabilities": [
+      0.3831026076648446,
+      0.6168973923351554
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.1486838129777229,
+      0.8513161870222771
+    ],
+    "scaled_confidence": 0.8513161870222771,
+    "confidence": 0.6168973923351554,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "662511b12a8ed23f5de2f22f67328c3f1034246eeae84a5a99980779a5659b70",
+    "sf": "CVP",
+    "gold": "cardiovascular pulmonary",
+    "prediction": "central venous pressure",
+    "correct": false,
+    "classes": [
+      "central venous pressure",
+      "cyclophosphamide, vincristine, prednisone"
+    ],
+    "probabilities": [
+      0.5605526775025363,
+      0.43944732249746365
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.7092093887913706,
+      0.29079061120862926
+    ],
+    "scaled_confidence": 0.7092093887913706,
+    "confidence": 0.5605526775025363,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "9ab754fb4ee208ce8065778f791b528daa9a96e2f54f1f7dfb1a7b44a51aed98",
+    "sf": "PD",
+    "gold": "pulmonary embolus:pe",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.12115389785595015,
+      0.5022803239347318,
+      0.09231356562418534,
+      0.12126639758974508,
+      0.16298581499538758
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.005312834699211762,
+      0.9716485883632052,
+      0.001962689613782685,
+      0.005330926905541006,
+      0.015744960418259433
+    ],
+    "scaled_confidence": 0.9716485883632052,
+    "confidence": 0.5022803239347318,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "d8f5b53262ea87d1dc8581e2978e023b768683c95ac40028bc5ccaa42113b6f1",
+    "sf": "ET",
+    "gold": "electroconvulsive therapy:ect",
+    "prediction": "endotracheal",
+    "correct": false,
+    "classes": [
+      "electrophysiology:ep",
+      "endotracheal",
+      "enterostomal therapy"
+    ],
+    "probabilities": [
+      0.07360278845096616,
+      0.496929430018639,
+      0.4294677815303949
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0005774392379844589,
+      0.6301466730845803,
+      0.36927588767743524
+    ],
+    "scaled_confidence": 0.6301466730845803,
+    "confidence": 0.496929430018639,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "235889cd4c4e5714ad593c082a9962bb95202b0e3afd3b45d591e34bbdec1890",
+    "sf": "PT",
+    "gold": "prothrombin",
+    "prediction": "physical therapy",
+    "correct": false,
+    "classes": [
+      "physical therapy",
+      "posterior tibial",
+      "prothrombin time"
+    ],
+    "probabilities": [
+      0.4721819586541161,
+      0.1582032754855756,
+      0.3696147658603082
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.7012633302716735,
+      0.012777193029898843,
+      0.28595947669842775
+    ],
+    "scaled_confidence": 0.7012633302716735,
+    "confidence": 0.4721819586541161,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "21952d5829f81681616503a8e3752639c0a534e2ebdc5532f96538f83e0160b6",
+    "sf": "AVR",
+    "gold": "aortic valve resistance",
+    "prediction": "aortic valve replacement",
+    "correct": false,
+    "classes": [
+      "aortic valve regurgitation",
+      "aortic valve replacement",
+      "augmented voltage right arm"
+    ],
+    "probabilities": [
+      0.07141661745630093,
+      0.6815630306187553,
+      0.24702035192494382
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.00025175994770082195,
+      0.9760346714232105,
+      0.02371356862908863
+    ],
+    "scaled_confidence": 0.9760346714232105,
+    "confidence": 0.6815630306187553,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "069c2e4f218e6fb6d195ade7cde0f3c32cb989e4e47a0e5b393d2c430b3082b0",
+    "sf": "C&S",
+    "gold": "central nervous system:cns",
+    "prediction": "protein c and protein s",
+    "correct": false,
+    "classes": [
+      "conjunctivae and sclerae",
+      "culture and sensitivity",
+      "protein c and protein s"
+    ],
+    "probabilities": [
+      0.10928378643042767,
+      0.26740154868367133,
+      0.623314664885901
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0016237365574559258,
+      0.04304404606040292,
+      0.9553322173821411
+    ],
+    "scaled_confidence": 0.9553322173821411,
+    "confidence": 0.623314664885901,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "d54e8c56bd2e7aa07f8614294068a1237755a6691a64fb8feaef4b111389b73f",
+    "sf": "AC",
+    "gold": "acetate",
+    "prediction": "before meals",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.3341075516422181,
+      0.11719555557320771,
+      0.08453780252763579,
+      0.038574259590824715,
+      0.4255848306661137
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.2894501461224591,
+      0.0062385942758241344,
+      0.0018857320561322909,
+      0.00010650391124919542,
+      0.7023190236343353
+    ],
+    "scaled_confidence": 0.7023190236343353,
+    "confidence": 0.4255848306661137,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "1ba08703eea789203dd721cf8dd4cc46eda4e681d4a02d77617dd24b2ab9b719",
+    "sf": "MS",
+    "gold": "master of science",
+    "prediction": "multiple sclerosis",
+    "correct": false,
+    "classes": [
+      "morphine sulfate",
+      "multiple sclerosis"
+    ],
+    "probabilities": [
+      0.3411062376290068,
+      0.6588937623709932
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.08230166389208993,
+      0.91769833610791
+    ],
+    "scaled_confidence": 0.91769833610791,
+    "confidence": 0.6588937623709932,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "b5472e49a0229c0c78028b4e55828d8a668d3d0489c4e083ce85435d447d0fe2",
+    "sf": "ET",
+    "gold": "elective termination",
+    "prediction": "enterostomal therapy",
+    "correct": false,
+    "classes": [
+      "electrophysiology:ep",
+      "endotracheal",
+      "enterostomal therapy"
+    ],
+    "probabilities": [
+      0.10399560515724678,
+      0.42884920538687754,
+      0.4671551894558757
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.002349102963208592,
+      0.421298938777872,
+      0.5763519582589194
+    ],
+    "scaled_confidence": 0.5763519582589194,
+    "confidence": 0.4671551894558757,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "bd1b787f666350f3d491a46e557f96a821981588b439b750162f6b602c32f5d7",
+    "sf": "AC",
+    "gold": "anticoagulation",
+    "prediction": "(drug) ac",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.26280390413836624,
+      0.25310410699717856,
+      0.2108323429632459,
+      0.06704925589087823,
+      0.2062103900103311
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.36555613563736955,
+      0.3185156751914044,
+      0.16309593108407797,
+      0.0024549191618708777,
+      0.15037733892527722
+    ],
+    "scaled_confidence": 0.36555613563736955,
+    "confidence": 0.26280390413836624,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "41bb3bd11fc3dcbcbb5eac88d06ce0898579679c32fb73bf8b51184163acf8c4",
+    "sf": "MS",
+    "gold": "master of science",
+    "prediction": "multiple sclerosis",
+    "correct": false,
+    "classes": [
+      "morphine sulfate",
+      "multiple sclerosis"
+    ],
+    "probabilities": [
+      0.3147124425276646,
+      0.6852875574723354
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.05466469005417253,
+      0.9453353099458275
+    ],
+    "scaled_confidence": 0.9453353099458275,
+    "confidence": 0.6852875574723354,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "b297cc25f3b58c39697b9a4e90d5bc9e5a876250cf05df1deb1fe7b6200ff987",
+    "sf": "CEA",
+    "gold": "cancer:ca",
+    "prediction": "carotid endarterectomy",
+    "correct": false,
+    "classes": [
+      "carcinoembryonic antigen",
+      "carotid endarterectomy"
+    ],
+    "probabilities": [
+      0.1987468549374357,
+      0.8012531450625643
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.006020856260295096,
+      0.993979143739705
+    ],
+    "scaled_confidence": 0.993979143739705,
+    "confidence": 0.8012531450625643,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "f35cccfab17f9f2c3cddf94ac9d667e6b08d0955a86b668371de2d0e077c3093",
+    "sf": "DIP",
+    "gold": "dipropionate",
+    "prediction": "distal interphalangeal",
+    "correct": false,
+    "classes": [
+      "desquamative interstitial pneumonia",
+      "distal interphalangeal"
+    ],
+    "probabilities": [
+      0.23506530222462263,
+      0.7649346977753774
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.013101408715853972,
+      0.9868985912841461
+    ],
+    "scaled_confidence": 0.9868985912841461,
+    "confidence": 0.7649346977753774,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "40ebbf05ac80368224e7d28938b29c974f6eb498564d41bbc992a506ad81d06a",
+    "sf": "PA",
+    "gold": "pulmonary auscultation",
+    "prediction": "posterior-anterior",
+    "correct": false,
+    "classes": [
+      "physician assistant",
+      "physician associates",
+      "posterior-anterior",
+      "pulmonary artery"
+    ],
+    "probabilities": [
+      0.2014830559332872,
+      0.0805312750718121,
+      0.47369861196197055,
+      0.24428705703293008
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.038518546210397846,
+      0.0013392711139467244,
+      0.8821398584733664,
+      0.07800232420228918
+    ],
+    "scaled_confidence": 0.8821398584733664,
+    "confidence": 0.47369861196197055,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "db0cd83022f1a4e7e5ca982aa09a335c9b63d1913c9eeb7d457b42f042653f7d",
+    "sf": "PD",
+    "gold": "(device) pd",
+    "prediction": "peritoneal dialysis",
+    "correct": false,
+    "classes": [
+      "pancreatic duct",
+      "peritoneal dialysis",
+      "phosphate dehydrogenase",
+      "police department",
+      "posterior descending"
+    ],
+    "probabilities": [
+      0.12533044752349248,
+      0.5525103216979707,
+      0.08534366433835482,
+      0.10131346187696447,
+      0.1355021045632175
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.004309187364372665,
+      0.9869242908555171,
+      0.0010546938117561794,
+      0.0019769265422900115,
+      0.005734901426063999
+    ],
+    "scaled_confidence": 0.9869242908555171,
+    "confidence": 0.5525103216979707,
+    "pool": 5,
+    "passes": true
+  },
+  {
+    "id": "2a2c05e7aaa9903e893e82d76c9b597b2b029bffa2287d0c86c40ad708f73a1e",
+    "sf": "T3",
+    "gold": "t3 (ecg pattern)",
+    "prediction": "thoracic (level) 3",
+    "correct": false,
+    "classes": [
+      "thoracic (level) 3",
+      "triiodothyronine",
+      "tumor stage 3"
+    ],
+    "probabilities": [
+      0.42696559514094873,
+      0.27286269063980995,
+      0.30017171421924127
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.6806907209661422,
+      0.13204480308391642,
+      0.1872644759499414
+    ],
+    "scaled_confidence": 0.6806907209661422,
+    "confidence": 0.42696559514094873,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "40f5361e3cfadc0845fde95828499c1d7559a946ddca970baf502a9259d5fe91",
+    "sf": "RT",
+    "gold": "respiratory therapist",
+    "prediction": "respiratory therapy",
+    "correct": false,
+    "classes": [
+      "radiation therapy",
+      "respiratory therapy",
+      "retrograde tachycardia"
+    ],
+    "probabilities": [
+      0.11549801934163646,
+      0.8397879011654739,
+      0.044714079492889844
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0006979579681875017,
+      0.9992804509228963,
+      2.159110891605299e-05
+    ],
+    "scaled_confidence": 0.9992804509228963,
+    "confidence": 0.8397879011654739,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "d181025b9158a1c483a8e23d4d108e4c6f82a37ca667c12f240984d0a1bcc623",
+    "sf": "IA",
+    "gold": "(class) ia",
+    "prediction": "(stage) ia",
+    "correct": false,
+    "classes": [
+      "(grade) ia",
+      "(stage) ia",
+      "(status) ia",
+      "(type) ia",
+      "intraarterial",
+      "iowa"
+    ],
+    "probabilities": [
+      0.11364442019326693,
+      0.34851962842975664,
+      0.06733025540183059,
+      0.09676123285994856,
+      0.2380635334984233,
+      0.13568092961677397
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.01261953137239974,
+      0.7649901829541791,
+      0.0018550179059168136,
+      0.007001772967260172,
+      0.18938043434251986,
+      0.024153060457724414
+    ],
+    "scaled_confidence": 0.7649901829541791,
+    "confidence": 0.34851962842975664,
+    "pool": 6,
+    "passes": false
+  },
+  {
+    "id": "3ad59ff57d5facc82a887d7e1ad726a5bce7df4a9b46199b81777a0224732f1b",
+    "sf": "SMA",
+    "gold": "smooth muscle actin",
+    "prediction": "superior mesenteric artery",
+    "correct": false,
+    "classes": [
+      "sequential multiple autoanalyzer",
+      "spinal muscular atrophy",
+      "superior mesenteric artery"
+    ],
+    "probabilities": [
+      0.3075213373484414,
+      0.13844572339924804,
+      0.5540329392523106
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.10317579519026186,
+      0.0055470741574957716,
+      0.8912771306522423
+    ],
+    "scaled_confidence": 0.8912771306522423,
+    "confidence": 0.5540329392523106,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "b8f108216de80e10e54b29bed69e2add497bd337b9da864264c0a338ee47f6d0",
+    "sf": "PE",
+    "gold": "pleural effusion",
+    "prediction": "pulmonary embolus",
+    "correct": false,
+    "classes": [
+      "pressure equalization",
+      "pulmonary embolus"
+    ],
+    "probabilities": [
+      0.2095652759918285,
+      0.7904347240081715
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.007671409460154031,
+      0.992328590539846
+    ],
+    "scaled_confidence": 0.992328590539846,
+    "confidence": 0.7904347240081715,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "ec04efca9997ea5731a427ade6deb620863409ec1d35a413176962787a7f0d5c",
+    "sf": "GT",
+    "gold": "guttae:ggt",
+    "prediction": "gastrostomy tube",
+    "correct": false,
+    "classes": [
+      "gamma-glutamyltransferase:ggt",
+      "gastrostomy tube",
+      "glutamyl transpeptidase",
+      "gutta"
+    ],
+    "probabilities": [
+      0.05696787138969816,
+      0.4719262632093366,
+      0.32629144543428484,
+      0.14481441996668037
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0003404158018730001,
+      0.7858914791962124,
+      0.20339011425682668,
+      0.010377990745087884
+    ],
+    "scaled_confidence": 0.7858914791962124,
+    "confidence": 0.4719262632093366,
+    "pool": 4,
+    "passes": false
+  },
+  {
+    "id": "eade29cefed21a4d728d188f5dd86496628c6fbeec3798fe507fcaa731202f56",
+    "sf": "DT",
+    "gold": "(drug) dt",
+    "prediction": "delirium tremens",
+    "correct": false,
+    "classes": [
+      "delirium tremens",
+      "diphtheria-tetanus",
+      "dorsalis pedis:dp"
+    ],
+    "probabilities": [
+      0.48818027855357843,
+      0.4232561083314902,
+      0.08856361311493136
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.6270229836209252,
+      0.37176933604023166,
+      0.0012076803388429912
+    ],
+    "scaled_confidence": 0.6270229836209252,
+    "confidence": 0.48818027855357843,
+    "pool": 3,
+    "passes": false
+  },
+  {
+    "id": "cbf0818805af624bd6c5944351a9ed0f133662a2f3563a1d166597045bccbb6a",
+    "sf": "AC",
+    "gold": "acetate",
+    "prediction": "(drug) ac",
+    "correct": false,
+    "classes": [
+      "(drug) ac",
+      "acromioclavicular",
+      "adriamycin cyclophosphamide",
+      "assist control",
+      "before meals"
+    ],
+    "probabilities": [
+      0.42773143863297264,
+      0.09380707827684844,
+      0.07495381144513225,
+      0.04084635938335568,
+      0.362661312261691
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.6442848290806537,
+      0.0024861244026196903,
+      0.0010929790615034419,
+      0.00011828987011264553,
+      0.3520177775851105
+    ],
+    "scaled_confidence": 0.6442848290806537,
+    "confidence": 0.42773143863297264,
+    "pool": 5,
+    "passes": false
+  },
+  {
+    "id": "7afd33065a94e9300c639778e26dff79833a04f6dfc80caa54e8693d5d5e2046",
+    "sf": "PA",
+    "gold": "tissue plasminogen activator:tpa",
+    "prediction": "pulmonary artery",
+    "correct": false,
+    "classes": [
+      "physician assistant",
+      "physician associates",
+      "posterior-anterior",
+      "pulmonary artery"
+    ],
+    "probabilities": [
+      0.22839007182988652,
+      0.10580706334422575,
+      0.2939949340973739,
+      0.3718079307285139
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.10481428655743037,
+      0.006258163139412444,
+      0.2642979080161936,
+      0.6246296422869636
+    ],
+    "scaled_confidence": 0.6246296422869636,
+    "confidence": 0.3718079307285139,
+    "pool": 4,
+    "passes": false
+  },
+  {
+    "id": "4ee061b2d7191765e3e5cd90b87d07937d321718f1fdf1137bb7a5bd4abc9706",
+    "sf": "T2",
+    "gold": "t2 nodes",
+    "prediction": "tumor stage 2",
+    "correct": false,
+    "classes": [
+      "t2 (mri)",
+      "thoracic (level) 2",
+      "tumor stage 2"
+    ],
+    "probabilities": [
+      0.09464968255341842,
+      0.15996552267594943,
+      0.7453847947706322
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0005192723512618596,
+      0.00354957063245067,
+      0.9959311570162875
+    ],
+    "scaled_confidence": 0.9959311570162875,
+    "confidence": 0.7453847947706322,
+    "pool": 3,
+    "passes": true
+  },
+  {
+    "id": "44d4d6b33e1255d4edf8b6a882fa71b93c7f89bbb520301e6fc502ddf6f13236",
+    "sf": "SA",
+    "gold": "american society of anesthesiologists:asa",
+    "prediction": "sinuatrial",
+    "correct": false,
+    "classes": [
+      "sinuatrial",
+      "slow acting/sustained action"
+    ],
+    "probabilities": [
+      0.7080532652514443,
+      0.2919467347485557
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.9624951242763787,
+      0.0375048757236212
+    ],
+    "scaled_confidence": 0.9624951242763787,
+    "confidence": 0.7080532652514443,
+    "pool": 2,
+    "passes": true
+  },
+  {
+    "id": "3111735dabb124e425d575e5addd6015c3faaafbff9c313a6cfd600cdb829c06",
+    "sf": "ASA",
+    "gold": "aminosalicylic acid",
+    "prediction": "acetylsalicylic acid",
+    "correct": false,
+    "classes": [
+      "acetylsalicylic acid",
+      "american society of anesthesiologists"
+    ],
+    "probabilities": [
+      0.5304964598183493,
+      0.46950354018165075
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.610012824232478,
+      0.38998717576752195
+    ],
+    "scaled_confidence": 0.610012824232478,
+    "confidence": 0.5304964598183493,
+    "pool": 2,
+    "passes": false
+  },
+  {
+    "id": "3670d8a7ba66b42c06121b584df8dc40a97da3acec6df5b5ed51021109219c71",
+    "sf": "IB",
+    "gold": "(type) ib",
+    "prediction": "(stage) ib",
+    "correct": false,
+    "classes": [
+      "(grade) ib",
+      "(stage) ib",
+      "(status) ib",
+      "international baccalaureate"
+    ],
+    "probabilities": [
+      0.13079080111064526,
+      0.6977499870697761,
+      0.10357656777592744,
+      0.0678826440436512
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.0021640216003095502,
+      0.9967192900544501,
+      0.0009207921344032028,
+      0.0001958962108371611
+    ],
+    "scaled_confidence": 0.9967192900544501,
+    "confidence": 0.6977499870697761,
+    "pool": 4,
+    "passes": true
+  },
+  {
+    "id": "3396ce0ffa329ccf1e43bc9125effed2ebb14e5f48a7b74ecfdc8403324937a9",
+    "sf": "IT",
+    "gold": "idiopathic thrombocytopenic purpura:itp",
+    "prediction": "intrathecal",
+    "correct": false,
+    "classes": [
+      "iliotibial",
+      "information technology",
+      "intertrochanteric",
+      "intrathecal",
+      "ischial tuberosity"
+    ],
+    "probabilities": [
+      0.23578678936934247,
+      0.15650487803339394,
+      0.14442320399908792,
+      0.29251668088377997,
+      0.17076844771439575
+    ],
+    "gold_index": null,
+    "scaled_probabilities": [
+      0.2565173381804998,
+      0.05716991440003519,
+      0.042596001329157765,
+      0.5650277805636923,
+      0.078688965526615
+    ],
+    "scaled_confidence": 0.5650277805636923,
+    "confidence": 0.29251668088377997,
+    "pool": 5,
+    "passes": false
+  }
+]

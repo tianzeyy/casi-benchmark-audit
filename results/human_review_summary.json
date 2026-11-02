@@ -1,0 +1,29 @@
+{
+  "population_n": 131,
+  "sample_n": 50,
+  "seed": 20261030,
+  "sampling": "simple random sampling without replacement",
+  "reviewer": "Tianze Yang",
+  "reviewer_role": "first author",
+  "counts": {
+    "E": 0,
+    "R": 1,
+    "D": 47,
+    "U": 2
+  },
+  "proportions": {
+    "E": 0.0,
+    "R": 0.02,
+    "D": 0.94,
+    "U": 0.04
+  },
+  "related_case_ids": [
+    "a03bd4a6ba9627966b582ee0f8c1717b3d8dbc2fe78bbcda4bb413cd78fe9d9c"
+  ],
+  "indeterminate_case_ids": [
+    "4ee061b2d7191765e3e5cd90b87d07937d321718f1fdf1137bb7a5bd4abc9706",
+    "61618e905a805aa05ac79e00923eed3731c32b3cdc094c17305fd7278b8afc40"
+  ],
+  "source_sha256": "a25e3cdae898a0440a9b23ebd67cf32a2a936e765ba1358b98e2bfdb400a6d3e",
+  "related_case_note": "SA labelled sinus arrest versus prediction sinuatrial: a contextual near miss involving label span granularity."
+}

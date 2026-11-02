@@ -1,0 +1,34 @@
+{
+  "reference": {
+    "valid_raw_rows": 36946,
+    "unique": 36192,
+    "surplus_all_groups": 748,
+    "nonconflict_surplus": 742,
+    "conflict_groups": 6,
+    "conflict_rows": 12,
+    "core_classes": 207,
+    "audit_classes": 141,
+    "core_contexts": 35966,
+    "audit_contexts": 226,
+    "purged_training_rows": 280,
+    "exposed_test_rows": 142,
+    "baseline_purged_prediction_changes": 5,
+    "candidate_classes_lost": 0
+  },
+  "section_aware": {
+    "valid_raw_rows": 36946,
+    "unique": 36346,
+    "surplus_all_groups": 594,
+    "nonconflict_surplus": 588,
+    "conflict_groups": 6,
+    "conflict_rows": 12,
+    "core_classes": 207,
+    "audit_classes": 141,
+    "core_contexts": 36120,
+    "audit_contexts": 226,
+    "purged_training_rows": 170,
+    "exposed_test_rows": 124,
+    "baseline_purged_prediction_changes": 5,
+    "candidate_classes_lost": 0
+  }
+}

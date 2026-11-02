@@ -1,0 +1,53 @@
+{
+  "max_absolute_probability_difference": 2.1316282072803006e-14,
+  "source_sha256": "7406915b3270468f5fce1d8e5fe62b4f5efcc82de2a8bcd4668b0b87e37a84ae",
+  "core_counts": {
+    "valid_raw_rows": 36946,
+    "unique_nonconflicting_contexts": 36192,
+    "duplicate_surplus_rows_removed": 748,
+    "conflicting_duplicate_groups_removed": 6,
+    "abbreviations": 75,
+    "sense_classes": 348
+  },
+  "ms": {
+    "MS::(drug) ms": {
+      "n_unique": 1,
+      "partition": "rare_open_set_audit"
+    },
+    "MS::master of science": {
+      "n_unique": 3,
+      "partition": "rare_open_set_audit"
+    },
+    "MS::medical student": {
+      "n_unique": 1,
+      "partition": "rare_open_set_audit"
+    },
+    "MS::mitral stenosis": {
+      "n_unique": 1,
+      "partition": "rare_open_set_audit"
+    },
+    "MS::morphine sulfate": {
+      "n_unique": 278,
+      "partition": "core_closed_set",
+      "train": 194,
+      "validation": 42,
+      "test": 42
+    },
+    "MS::multiple sclerosis": {
+      "n_unique": 206,
+      "partition": "core_closed_set",
+      "train": 144,
+      "validation": 31,
+      "test": 31
+    },
+    "MS::musculoskeletal": {
+      "n_unique": 2,
+      "partition": "rare_open_set_audit"
+    }
+  },
+  "python": "3.9.6 (default, Aug 17 2026, 12:07:42) \n[Clang 21.0.0 (clang-2100.3.34.1)]",
+  "platform": "macOS-27.2-arm64-arm-64bit",
+  "numpy": "2.0.2",
+  "scipy": "1.13.1",
+  "sklearn": "1.6.1"
+}

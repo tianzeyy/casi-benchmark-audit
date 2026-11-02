@@ -1,0 +1,18 @@
+label,category,n_unique,partition,evaluated_n,passing
+AC::alternating current,electrical terminology,1,rare_open_set_audit,1,0
+C4::(po box) c4,postal designation,1,rare_open_set_audit,1,1
+CA::california,geographic name,2,rare_open_set_audit,2,2
+"CVS::customer, value, service",commercial name,2,rare_open_set_audit,2,0
+DC::district of columbia,geographic name,31,core_closed_set,5,3
+FSH::fairview southdale hospital,institution name,231,core_closed_set,35,27
+IA::iowa,geographic name,19,core_closed_set,3,2
+IB::international baccalaureate,education,5,core_closed_set,1,0
+IT::information technology,occupation or field,103,core_closed_set,15,14
+LA::los angeles,geographic name,40,core_closed_set,6,5
+LA::louisiana,geographic name,2,rare_open_set_audit,2,0
+MOM::mall of america:moa,commercial name,1,rare_open_set_audit,1,1
+MP::military police,occupation,4,rare_open_set_audit,4,0
+MS::master of science,academic degree,3,rare_open_set_audit,3,3
+NA::narcotics anonymous,organization name,472,core_closed_set,71,70
+NA::not applicable,general notation,7,core_closed_set,1,1
+PD::police department,organization name,14,core_closed_set,2,1

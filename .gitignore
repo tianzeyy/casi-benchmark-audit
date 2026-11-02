@@ -1,0 +1,7 @@
+private/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+logs/*
+tmp/*

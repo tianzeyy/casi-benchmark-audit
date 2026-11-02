@@ -1,0 +1,17 @@
+{
+  "word_tfidf": {
+    "n": 5387,
+    "predictions_identical": true,
+    "max_probability_difference": 1.454392162258955e-14
+  },
+  "char_tfidf": {
+    "n": 5387,
+    "predictions_identical": true,
+    "max_probability_difference": 8.909539772616881e-14
+  },
+  "combined_tfidf": {
+    "n": 5387,
+    "predictions_identical": true,
+    "max_probability_difference": 8.626432901337466e-14
+  }
+}

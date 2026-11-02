@@ -1,0 +1,157 @@
+{
+  "seeds": [
+    20260722,
+    20260723,
+    20260724,
+    20260725,
+    20260726
+  ],
+  "runs": [
+    {
+      "seed": 20260722,
+      "n_train": 25192,
+      "n_validation": 5387,
+      "n_test": 5387,
+      "n_rare": 226,
+      "majority_accuracy": 0.7484685353629107,
+      "word_tfidf_accuracy": 0.9582327826248376,
+      "word_tfidf_macro_f1": 0.8401484927582126,
+      "word_tfidf_training_seconds": 3.1449850420031,
+      "combined_tfidf_accuracy": 0.9612028958604046,
+      "combined_tfidf_macro_f1": 0.837130482266456,
+      "combined_tfidf_training_seconds": 18.098684540993418
+    },
+    {
+      "seed": 20260723,
+      "n_train": 25192,
+      "n_validation": 5387,
+      "n_test": 5387,
+      "n_rare": 226,
+      "majority_accuracy": 0.7484685353629107,
+      "word_tfidf_accuracy": 0.9623166883237424,
+      "word_tfidf_macro_f1": 0.8483168842730298,
+      "word_tfidf_training_seconds": 3.0811032080091536,
+      "combined_tfidf_accuracy": 0.96343048078708,
+      "combined_tfidf_macro_f1": 0.8466296204440057,
+      "combined_tfidf_training_seconds": 17.63717674999498
+    },
+    {
+      "seed": 20260724,
+      "n_train": 25192,
+      "n_validation": 5387,
+      "n_test": 5387,
+      "n_rare": 226,
+      "majority_accuracy": 0.7484685353629107,
+      "word_tfidf_accuracy": 0.9649155374048636,
+      "word_tfidf_macro_f1": 0.8552876640257234,
+      "word_tfidf_training_seconds": 4.120890541991685,
+      "combined_tfidf_accuracy": 0.9665862260998701,
+      "combined_tfidf_macro_f1": 0.8571849132810243,
+      "combined_tfidf_training_seconds": 17.520220291989972
+    },
+    {
+      "seed": 20260725,
+      "n_train": 25192,
+      "n_validation": 5387,
+      "n_test": 5387,
+      "n_rare": 226,
+      "majority_accuracy": 0.7484685353629107,
+      "word_tfidf_accuracy": 0.9574902543159458,
+      "word_tfidf_macro_f1": 0.8605521683032408,
+      "word_tfidf_training_seconds": 3.1914831250032876,
+      "combined_tfidf_accuracy": 0.9587896788565065,
+      "combined_tfidf_macro_f1": 0.8573652182669337,
+      "combined_tfidf_training_seconds": 17.857684624992544
+    },
+    {
+      "seed": 20260726,
+      "n_train": 25192,
+      "n_validation": 5387,
+      "n_test": 5387,
+      "n_rare": 226,
+      "majority_accuracy": 0.7484685353629107,
+      "word_tfidf_accuracy": 0.9599034713198441,
+      "word_tfidf_macro_f1": 0.8299064047000684,
+      "word_tfidf_training_seconds": 3.110011416996713,
+      "combined_tfidf_accuracy": 0.963244848709857,
+      "combined_tfidf_macro_f1": 0.8378198467179916,
+      "combined_tfidf_training_seconds": 17.77859666699078
+    }
+  ],
+  "aggregate_across_seeds": {
+    "majority_accuracy": {
+      "mean": 0.7484685353629107,
+      "sample_sd": 0.0,
+      "min": 0.7484685353629107,
+      "max": 0.7484685353629107
+    },
+    "word_tfidf_accuracy": {
+      "mean": 0.9605717467978467,
+      "sample_sd": 0.0030547618237570834,
+      "min": 0.9574902543159458,
+      "max": 0.9649155374048636
+    },
+    "word_tfidf_macro_f1": {
+      "mean": 0.846842322812055,
+      "sample_sd": 0.012176726429908266,
+      "min": 0.8299064047000684,
+      "max": 0.8605521683032408
+    },
+    "combined_tfidf_accuracy": {
+      "mean": 0.9626508260627435,
+      "sample_sd": 0.002891930906235372,
+      "min": 0.9587896788565065,
+      "max": 0.9665862260998701
+    },
+    "combined_tfidf_macro_f1": {
+      "mean": 0.8472260161952823,
+      "sample_sd": 0.00990876590764358,
+      "min": 0.837130482266456,
+      "max": 0.8573652182669337
+    }
+  },
+  "primary_split_intervals": {
+    "majority": {
+      "correct": 4032,
+      "n": 5387,
+      "accuracy": 0.7484685353629107,
+      "wilson_95_ci": [
+        0.7367076143744572,
+        0.7598753440465872
+      ]
+    },
+    "word_tfidf": {
+      "correct": 5162,
+      "n": 5387,
+      "accuracy": 0.9582327826248376,
+      "wilson_95_ci": [
+        0.9525558857197081,
+        0.9632566154848854
+      ]
+    },
+    "combined_tfidf": {
+      "correct": 5178,
+      "n": 5387,
+      "accuracy": 0.9612028958604046,
+      "wilson_95_ci": [
+        0.9557088015258053,
+        0.9660396932049269
+      ]
+    }
+  },
+  "primary_split_exact_mcnemar": {
+    "majority_vs_word_tfidf": {
+      "a_only_correct": 85,
+      "b_only_correct": 1215,
+      "discordant": 1300,
+      "two_sided_exact_p": 1.0221246397661666e-256
+    },
+    "word_tfidf_vs_combined_tfidf": {
+      "a_only_correct": 23,
+      "b_only_correct": 39,
+      "discordant": 62,
+      "two_sided_exact_p": 0.05589722669971112
+    }
+  },
+  "note": "Seed changes affect only the within-sense partition; preprocessing and hyperparameters remain fixed."
+}

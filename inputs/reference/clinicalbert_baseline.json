@@ -1,0 +1,350 @@
+{
+  "experiment_status": "complete",
+  "model": "emilyalsentzer/Bio_ClinicalBERT",
+  "model_revision": "d5892b39a4adaed74b92212a44081509db72f87b",
+  "access": "local cached weights; no hosted API",
+  "design": "frozen encoder, attention-mask mean pooling, per-abbreviation balanced logistic regression",
+  "input": "section plus target-centred context",
+  "max_length_tokens": 128,
+  "batch_size": 32,
+  "device": "cpu",
+  "seed": 20260722,
+  "n_train": 25192,
+  "n_test": 5387,
+  "accuracy": 0.956562093929831,
+  "accuracy_95_ci_wilson": [
+    0.9507856327172581,
+    0.9616878721288822
+  ],
+  "macro_f1_over_sf_sense": 0.8588776761781718,
+  "macro_abbreviation_accuracy": 0.9561822335112422,
+  "training_seconds": 455.76264399998763,
+  "train_encoding_seconds": 450.0550661659945,
+  "classifier_training_seconds": 5.707577833993128,
+  "test_inference_seconds": 93.43224604299758,
+  "test_items_per_second": 57.65675372420031,
+  "test_ms_per_item": 17.34402191256684,
+  "model_parameter_bytes": 433241088,
+  "classifier_serialized_bytes": 1090157,
+  "total_model_bytes": 434331245,
+  "peak_process_rss_mb": 1503.484375,
+  "mcnemar_vs_word_tfidf": {
+    "clinicalbert_only_correct": 102,
+    "word_tfidf_only_correct": 111,
+    "discordant": 213,
+    "exact_two_sided_p": 0.5836922618268339
+  },
+  "per_abbreviation": {
+    "AB": {
+      "n": 73,
+      "accuracy": 0.958904109589041
+    },
+    "AC": {
+      "n": 73,
+      "accuracy": 0.8904109589041096
+    },
+    "ALD": {
+      "n": 74,
+      "accuracy": 1.0
+    },
+    "AMA": {
+      "n": 75,
+      "accuracy": 0.9733333333333334
+    },
+    "ASA": {
+      "n": 74,
+      "accuracy": 0.9594594594594594
+    },
+    "AV": {
+      "n": 74,
+      "accuracy": 0.9054054054054054
+    },
+    "AVR": {
+      "n": 72,
+      "accuracy": 0.9583333333333334
+    },
+    "BAL": {
+      "n": 73,
+      "accuracy": 0.9863013698630136
+    },
+    "BK": {
+      "n": 73,
+      "accuracy": 0.9726027397260274
+    },
+    "BM": {
+      "n": 74,
+      "accuracy": 0.972972972972973
+    },
+    "BMP": {
+      "n": 74,
+      "accuracy": 0.8783783783783784
+    },
+    "C&S": {
+      "n": 73,
+      "accuracy": 1.0
+    },
+    "C3": {
+      "n": 74,
+      "accuracy": 1.0
+    },
+    "C4": {
+      "n": 73,
+      "accuracy": 0.9178082191780822
+    },
+    "CA": {
+      "n": 74,
+      "accuracy": 0.918918918918919
+    },
+    "CDI": {
+      "n": 73,
+      "accuracy": 0.9863013698630136
+    },
+    "CEA": {
+      "n": 75,
+      "accuracy": 0.9466666666666667
+    },
+    "CR": {
+      "n": 74,
+      "accuracy": 0.9864864864864865
+    },
+    "CTA": {
+      "n": 74,
+      "accuracy": 0.972972972972973
+    },
+    "CVA": {
+      "n": 74,
+      "accuracy": 0.9864864864864865
+    },
+    "CVP": {
+      "n": 74,
+      "accuracy": 0.9864864864864865
+    },
+    "CVS": {
+      "n": 40,
+      "accuracy": 1.0
+    },
+    "DC": {
+      "n": 75,
+      "accuracy": 0.8666666666666667
+    },
+    "DIP": {
+      "n": 73,
+      "accuracy": 0.9863013698630136
+    },
+    "DM": {
+      "n": 74,
+      "accuracy": 0.9594594594594594
+    },
+    "DT": {
+      "n": 72,
+      "accuracy": 0.9722222222222222
+    },
+    "EC": {
+      "n": 72,
+      "accuracy": 0.9166666666666666
+    },
+    "ER": {
+      "n": 75,
+      "accuracy": 0.9866666666666667
+    },
+    "ES": {
+      "n": 73,
+      "accuracy": 0.958904109589041
+    },
+    "ET": {
+      "n": 74,
+      "accuracy": 0.9324324324324325
+    },
+    "FISH": {
+      "n": 67,
+      "accuracy": 1.0
+    },
+    "FSH": {
+      "n": 74,
+      "accuracy": 0.972972972972973
+    },
+    "GT": {
+      "n": 65,
+      "accuracy": 0.9538461538461539
+    },
+    "IA": {
+      "n": 73,
+      "accuracy": 0.9178082191780822
+    },
+    "IB": {
+      "n": 73,
+      "accuracy": 0.9863013698630136
+    },
+    "IM": {
+      "n": 75,
+      "accuracy": 0.9733333333333334
+    },
+    "IR": {
+      "n": 72,
+      "accuracy": 1.0
+    },
+    "IT": {
+      "n": 39,
+      "accuracy": 0.8205128205128205
+    },
+    "ITP": {
+      "n": 75,
+      "accuracy": 1.0
+    },
+    "IVF": {
+      "n": 74,
+      "accuracy": 0.972972972972973
+    },
+    "LA": {
+      "n": 74,
+      "accuracy": 0.9864864864864865
+    },
+    "LE": {
+      "n": 71,
+      "accuracy": 0.971830985915493
+    },
+    "MOM": {
+      "n": 47,
+      "accuracy": 1.0
+    },
+    "MP": {
+      "n": 71,
+      "accuracy": 0.6338028169014085
+    },
+    "MR": {
+      "n": 73,
+      "accuracy": 0.9452054794520548
+    },
+    "MS": {
+      "n": 73,
+      "accuracy": 0.8904109589041096
+    },
+    "MSSA": {
+      "n": 75,
+      "accuracy": 0.9466666666666667
+    },
+    "NA": {
+      "n": 74,
+      "accuracy": 0.9864864864864865
+    },
+    "NAD": {
+      "n": 70,
+      "accuracy": 0.9285714285714286
+    },
+    "NP": {
+      "n": 74,
+      "accuracy": 0.9594594594594594
+    },
+    "OP": {
+      "n": 73,
+      "accuracy": 0.9726027397260274
+    },
+    "OR": {
+      "n": 70,
+      "accuracy": 1.0
+    },
+    "OTC": {
+      "n": 74,
+      "accuracy": 0.9864864864864865
+    },
+    "PA": {
+      "n": 73,
+      "accuracy": 0.9041095890410958
+    },
+    "PAC": {
+      "n": 73,
+      "accuracy": 0.958904109589041
+    },
+    "PCP": {
+      "n": 74,
+      "accuracy": 0.9054054054054054
+    },
+    "PD": {
+      "n": 69,
+      "accuracy": 0.9710144927536232
+    },
+    "PDA": {
+      "n": 75,
+      "accuracy": 0.9466666666666667
+    },
+    "PE": {
+      "n": 74,
+      "accuracy": 0.9594594594594594
+    },
+    "PM": {
+      "n": 74,
+      "accuracy": 0.972972972972973
+    },
+    "PR": {
+      "n": 74,
+      "accuracy": 0.9864864864864865
+    },
+    "PT": {
+      "n": 74,
+      "accuracy": 0.9594594594594594
+    },
+    "RA": {
+      "n": 74,
+      "accuracy": 0.972972972972973
+    },
+    "RT": {
+      "n": 73,
+      "accuracy": 0.9863013698630136
+    },
+    "SA": {
+      "n": 69,
+      "accuracy": 1.0
+    },
+    "SBP": {
+      "n": 74,
+      "accuracy": 0.9864864864864865
+    },
+    "SMA": {
+      "n": 73,
+      "accuracy": 0.9041095890410958
+    },
+    "SS": {
+      "n": 66,
+      "accuracy": 1.0
+    },
+    "T1": {
+      "n": 74,
+      "accuracy": 0.9459459459459459
+    },
+    "T2": {
+      "n": 74,
+      "accuracy": 0.9324324324324325
+    },
+    "T3": {
+      "n": 73,
+      "accuracy": 0.9863013698630136
+    },
+    "T4": {
+      "n": 75,
+      "accuracy": 0.9866666666666667
+    },
+    "US": {
+      "n": 74,
+      "accuracy": 0.9594594594594594
+    },
+    "VAD": {
+      "n": 73,
+      "accuracy": 0.9452054794520548
+    },
+    "VBG": {
+      "n": 74,
+      "accuracy": 1.0
+    }
+  },
+  "limitations": [
+    "The transformer encoder was frozen rather than fine-tuned.",
+    "Runtime was measured on CPU in one local environment and is hardware dependent.",
+    "The linear probe uses the same fixed CASI train/test partition as the primary models."
+  ],
+  "single_item_latency": {
+    "n": 500,
+    "scope": "tokenization and encoder forward pass; classifier overhead excluded",
+    "median_ms": 56.57229149801424,
+    "p95_ms": 66.88804099394474
+  }
+}

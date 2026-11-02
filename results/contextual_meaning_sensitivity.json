@@ -1,0 +1,165 @@
+{
+  "definition": "Explicit named labels in contextual nonmedical categories; the unchanged original candidate inventories and thresholds are used. This is a named-label sensitivity, not a relabelled clinical-only benchmark.",
+  "labels": [
+    {
+      "label": "AC::alternating current",
+      "category": "electrical terminology",
+      "n_unique": 1,
+      "partition": "rare_open_set_audit",
+      "evaluated_n": 1,
+      "passing": 0
+    },
+    {
+      "label": "C4::(po box) c4",
+      "category": "postal designation",
+      "n_unique": 1,
+      "partition": "rare_open_set_audit",
+      "evaluated_n": 1,
+      "passing": 1
+    },
+    {
+      "label": "CA::california",
+      "category": "geographic name",
+      "n_unique": 2,
+      "partition": "rare_open_set_audit",
+      "evaluated_n": 2,
+      "passing": 2
+    },
+    {
+      "label": "CVS::customer, value, service",
+      "category": "commercial name",
+      "n_unique": 2,
+      "partition": "rare_open_set_audit",
+      "evaluated_n": 2,
+      "passing": 0
+    },
+    {
+      "label": "DC::district of columbia",
+      "category": "geographic name",
+      "n_unique": 31,
+      "partition": "core_closed_set",
+      "evaluated_n": 5,
+      "passing": 3
+    },
+    {
+      "label": "FSH::fairview southdale hospital",
+      "category": "institution name",
+      "n_unique": 231,
+      "partition": "core_closed_set",
+      "evaluated_n": 35,
+      "passing": 27
+    },
+    {
+      "label": "IA::iowa",
+      "category": "geographic name",
+      "n_unique": 19,
+      "partition": "core_closed_set",
+      "evaluated_n": 3,
+      "passing": 2
+    },
+    {
+      "label": "IB::international baccalaureate",
+      "category": "education",
+      "n_unique": 5,
+      "partition": "core_closed_set",
+      "evaluated_n": 1,
+      "passing": 0
+    },
+    {
+      "label": "IT::information technology",
+      "category": "occupation or field",
+      "n_unique": 103,
+      "partition": "core_closed_set",
+      "evaluated_n": 15,
+      "passing": 14
+    },
+    {
+      "label": "LA::los angeles",
+      "category": "geographic name",
+      "n_unique": 40,
+      "partition": "core_closed_set",
+      "evaluated_n": 6,
+      "passing": 5
+    },
+    {
+      "label": "LA::louisiana",
+      "category": "geographic name",
+      "n_unique": 2,
+      "partition": "rare_open_set_audit",
+      "evaluated_n": 2,
+      "passing": 0
+    },
+    {
+      "label": "MOM::mall of america:moa",
+      "category": "commercial name",
+      "n_unique": 1,
+      "partition": "rare_open_set_audit",
+      "evaluated_n": 1,
+      "passing": 1
+    },
+    {
+      "label": "MP::military police",
+      "category": "occupation",
+      "n_unique": 4,
+      "partition": "rare_open_set_audit",
+      "evaluated_n": 4,
+      "passing": 0
+    },
+    {
+      "label": "MS::master of science",
+      "category": "academic degree",
+      "n_unique": 3,
+      "partition": "rare_open_set_audit",
+      "evaluated_n": 3,
+      "passing": 3
+    },
+    {
+      "label": "NA::narcotics anonymous",
+      "category": "organization name",
+      "n_unique": 472,
+      "partition": "core_closed_set",
+      "evaluated_n": 71,
+      "passing": 70
+    },
+    {
+      "label": "NA::not applicable",
+      "category": "general notation",
+      "n_unique": 7,
+      "partition": "core_closed_set",
+      "evaluated_n": 1,
+      "passing": 1
+    },
+    {
+      "label": "PD::police department",
+      "category": "organization name",
+      "n_unique": 14,
+      "partition": "core_closed_set",
+      "evaluated_n": 2,
+      "passing": 1
+    }
+  ],
+  "audit_contextual": {
+    "n": 16,
+    "passing": 7,
+    "pass_rate": 0.4375,
+    "accuracy": 0.0
+  },
+  "audit_remaining": {
+    "n": 210,
+    "passing": 124,
+    "pass_rate": 0.5904761904761905,
+    "accuracy": 0.0
+  },
+  "core_contextual": {
+    "n": 139,
+    "passing": 123,
+    "pass_rate": 0.8848920863309353,
+    "accuracy": 0.9640287769784173
+  },
+  "core_remaining": {
+    "n": 5248,
+    "passing": 4718,
+    "pass_rate": 0.8990091463414634,
+    "accuracy": 0.958079268292683
+  }
+}

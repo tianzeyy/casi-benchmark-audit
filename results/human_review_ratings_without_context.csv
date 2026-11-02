@@ -1,0 +1,51 @@
+item,id,abbreviation,gold,prediction,relation,reviewer
+1,009ee41ec29ffb158d66b84aecbd8b5d194be1da6688f796d24613f40773c414,MS,musculoskeletal,multiple sclerosis,D,Tianze Yang
+4,057858ed05e322e0a67fcb1b679ff080071eed6f27de5f30aef78da428eedff3,PD,(drug) pd,peritoneal dialysis,D,Tianze Yang
+8,0fc25170cbe4573cd64fe7ae57e2115cf567706599774fa69ed3e840937fbaa8,IB,(cycle) ib,(stage) ib,D,Tianze Yang
+10,1577795a08543e1da4854a887dd25c49d6e660f54251d38585e28ded8a2a3786,PR,pulse rate,pr interval,D,Tianze Yang
+11,1863ed30ba5835917a91df6e6359519b3db2882c9bb97d0e67f9d8981480d4d4,IR,internal rotation,interventional radiology,D,Tianze Yang
+12,1ba08703eea789203dd721cf8dd4cc46eda4e681d4a02d77617dd24b2ab9b719,MS,master of science,multiple sclerosis,D,Tianze Yang
+16,244527f7735859cdd867509b887fc75bfc9d8c7adf29b83624678f9367359636,AB,arteriovenous:av,abortion,D,Tianze Yang
+19,2a654a5cbf6410604b7018e1f51eabf077836851453bf1dfbabfcb282c76cf33,AVR,auditory brainstem response:abr,aortic valve replacement,D,Tianze Yang
+20,2c380aae3e8ac47b516d0fa98cb5a6486ab060d4ec5da2d360cc2337467f7aa1,C4,fourth heart sound:s4,cervical (level) 4,D,Tianze Yang
+21,2d8f4a19d0e932920c9e23ad140b3de2161d45444b6838e550eeac1521907122,SS,sickle cell genotype ss,single strength,D,Tianze Yang
+24,32b87254df4238175707a2a80bc24cae9a79d5c0eb4f52b89ae8739d1699c664,PD,(drug) pd,peritoneal dialysis,D,Tianze Yang
+31,40ebbf05ac80368224e7d28938b29c974f6eb498564d41bbc992a506ad81d06a,PA,pulmonary auscultation,posterior-anterior,D,Tianze Yang
+34,41bb3bd11fc3dcbcbb5eac88d06ce0898579679c32fb73bf8b51184163acf8c4,MS,master of science,multiple sclerosis,D,Tianze Yang
+35,4273884027b35192f67b10c8e4c28b873c19aab95708a403af828aeee8773181,LE,lymphedema,lower extremity,D,Tianze Yang
+37,44d4d6b33e1255d4edf8b6a882fa71b93c7f89bbb520301e6fc502ddf6f13236,SA,american society of anesthesiologists:asa,sinuatrial,D,Tianze Yang
+39,4609caf455c1c20c121690975ddaa314579b027ef74b10e3a92adebd19242442,NP,(drug) np,nurse practitioner,D,Tianze Yang
+42,4c00224b59931771a223bd970ec415babc471641ceebdc3b527182b7a64655f7,PD,dorsalis pedis:dp,peritoneal dialysis,D,Tianze Yang
+44,4ee061b2d7191765e3e5cd90b87d07937d321718f1fdf1137bb7a5bd4abc9706,T2,t2 nodes,tumor stage 2,U,Tianze Yang
+45,4eff7a6f51590b15197c3a8b13700b6028f7ad6393ff724922efc74782e4dc13,EC,extensor carpi,enterocutaneous,D,Tianze Yang
+49,55be4af7622538a477322711bc893cbe6d63d39df2779a318cec4558dc4989a1,PA,pulmonary embolus:pe,posterior-anterior,D,Tianze Yang
+51,5cf4f99aff956f5beb52919da2c88da99aaf0798d90ec6920cda679f988a2fc4,CDI,"clean, dry, intact",center for diagnostic imaging,D,Tianze Yang
+53,6103e1f8625120f6514a9c4b0adf417c476e876069cf4c529d967b807e8b212a,PD,(drug) pd,peritoneal dialysis,D,Tianze Yang
+54,61618e905a805aa05ac79e00923eed3731c32b3cdc094c17305fd7278b8afc40,ES,(drug) es,extra strength,U,Tianze Yang
+57,6a1ac017ed5cc9fde563782b4cb39da15ea08c9ab2bee566d6fb71fa7d94cd16,OR,(drug) or,operating room,D,Tianze Yang
+62,75376e71f31ec51653feb8f929c3fd75d97f6336e4cac4a11a46e75c346dde52,SS,sickle cell genotype ss,single strength,D,Tianze Yang
+64,7645e03ee24abeec56d137234227b4ee91ab53ebcf9890f49543e632179ee27c,PD,pulmonary embolus:pe,peritoneal dialysis,D,Tianze Yang
+67,7fec4373c4895d99541e3a142cb4744d5d1d5260eaac78efe51325a15539569a,MS,master of science,multiple sclerosis,D,Tianze Yang
+70,8cb1cefd890610b0c955f7c6371d7dbba1170d78dbf69bf387d45c22af3cf68c,ALD,acetyl lysergic acid diethylamide,adrenoleukodystrophy,D,Tianze Yang
+72,8f5fecff47bf30fc97be8afe9dad525a95eadd608fee3f5e1bbf59851bfd8374,PD,purified protein derivative:ppd,peritoneal dialysis,D,Tianze Yang
+76,9347283f0be1edde683f8143eeb153be81bdc56b8173b4d3a8707b90e9c4fe92,EC,extensor carpi,enteric-coated,D,Tianze Yang
+78,94be573a75c03385ea1e93c9bfb7946c280d7093fb0e959b97d0610a2b605ce5,C&S,central nervous system:cns,culture and sensitivity,D,Tianze Yang
+79,96a9c0362cc2fdec536fe9fb1db31d98d0cfa482b89bc0bab36f86da218894d2,AB,arterial blood,abortion,D,Tianze Yang
+82,9bcc4b60ef182a430243a99c6b9b527dba7fb3cd9d986a8386ae915ce07802e2,CA,california,cancer,D,Tianze Yang
+84,9eed537d46c8f1094bb13db13550ed4e277a08957b5fbcc48b883bd260ea24c9,PD,(device) pd,peritoneal dialysis,D,Tianze Yang
+85,a03bd4a6ba9627966b582ee0f8c1717b3d8dbc2fe78bbcda4bb413cd78fe9d9c,SA,sinus arrest,sinuatrial,R,Tianze Yang
+86,a2e8dfb439cf90cdc9ab47f1b300709f67a75d66f8e4f386b95137c7fd555f06,PD,patent ductus,peritoneal dialysis,D,Tianze Yang
+87,a5c7a901f533b89fabf0fbc4ab348e21570c8f6e0742e8e9eab817bffa4e2376,AB,ankle-brachial,abortion,D,Tianze Yang
+88,a8c73a4ec88dd46ca952ac13470d66ac90809b6a530cf70ccd8751503eb6566e,PD,(device) pd,peritoneal dialysis,D,Tianze Yang
+94,b12f5240d466ce2597be24cddaf5fdb824eb1d33061567428cbe3bb07f4ef19f,C4,(po box) c4,cervical (level) 4,D,Tianze Yang
+95,b297cc25f3b58c39697b9a4e90d5bc9e5a876250cf05df1deb1fe7b6200ff987,CEA,cancer:ca,carotid endarterectomy,D,Tianze Yang
+102,be6aad090489860ce1af919ecbccbe9472fd29d56eeaa490b0cde2cff36521d0,PD,(device) pd,peritoneal dialysis,D,Tianze Yang
+106,c3abff937e2dc5fd65135a61812ffddc7347a96f1468edb78c27f97a8c588223,AVR,aortic valve resistance,aortic valve replacement,D,Tianze Yang
+109,d16d5b887e727805df4d30a5df00fc86aca377bbe98fceb2d89bb36ca523aeac,IB,intravenous:iv,(stage) ib,D,Tianze Yang
+113,d7200a6e584170e7c4cb8a855818b1a4a1ae05941365870c7f66da95c50e6617,AB,x-ray finding,abortion,D,Tianze Yang
+115,d7a9da1bd3ed8052b246b9c6c17f9409eb84b8701f6cdf053cfc0f2c8bc02eeb,SA,saturation,sinuatrial,D,Tianze Yang
+117,dbc70336688a258ab12b81a2546207933444f9aa6d4a3a194beb22b5ee042dc4,CTA,cerebellopontine angle:cpa,computed tomographic angiography,D,Tianze Yang
+118,dcdac8eda4117ba22a12f5aef3f8a15777381ece2490e6272ff480af64d72ea3,LE,lymphedema,lower extremity,D,Tianze Yang
+121,def82d9ec01480d603f8206f80d07f7570d7e5fb7830d86bfdd9d0e4957c6a2b,MOM,mall of america:moa,milk of magnesia,D,Tianze Yang
+127,ee0defe90d9b0a075e3e1214408534a79e3cfd3ae51654b1f0e4e85045a6ff37,FSH,fascioscapulohumeral muscular dystrophy,follicle-stimulating hormone,D,Tianze Yang
+131,fbe121c2c8d3720c774aef1fd7dde73dea529d4a954d45aee532190db18b9a0a,C3,(stage) c3,cervical (level) 3,D,Tianze Yang
